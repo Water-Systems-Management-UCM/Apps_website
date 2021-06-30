@@ -22,12 +22,14 @@ library(reshape)
 
 ```{r}
 CSV_data <- read.csv("AW.DWRdata.csv")
-CSV_data <- CSV_data%>%group_by(NAME,Year)%>%mutate(`Total land`=sum(Total_Land)/1000,`Total water`=sum(TW)/1000)%>%ungroup()
+CSV_data <- CSV_data%>%group_by(NAME,Year,Crop)%>%mutate(Total_Land=sum(Total_Land),TW=sum(TW))
+CSV_data <- CSV_data%>%group_by(NAME,Year)%>%mutate(`Total land`=sum(Total_Land)/1000,`Total water`=sum(TW)/1000,AW2=TW/Total_Land)%>%ungroup()
 Data <- melt(as.data.frame(CSV_data),id=c("NAME","Crop","Year"))
+Data <- Data%>%filter(variable!="AW")
 Data[Data$variable%in%c("Total water","Total land"),]$Crop = "Sum All"
 Data <- Data %>% unique(by=c("NAME","Year","Crop","variable","value"))
 Data$variable <- as.character(Data$variable)
-Data[Data$variable=="AW",]$variable = "Applied water by acre"
+Data[Data$variable=="AW2",]$variable = "Applied water by acre"
 Data[Data$variable=="Total_Land",]$variable = "Land use"
 Data[Data$variable=="TW",]$variable = "Water use"
 Data[Data$variable=="Total water",]$variable = "Water use"
@@ -157,15 +159,6 @@ server <- function(input, output, session){
 shinyApp(ui = ui, server = server)
 ```
 
-
-
-m <- leaflet(json_cali_file) %>%
-  setView(-119, 35, 5) %>%
-  addTiles("MapBox", options = providerTileOptions(
-    id = "mapbox.light",
-    accessToken = Sys.getenv('MAPBOX_ACCESS_TOKEN')))
-
-m %>% addPolygons()
 
 
 
