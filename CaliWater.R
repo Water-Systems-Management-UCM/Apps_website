@@ -15,7 +15,7 @@ json_data_frame <- as.data.frame(json_cali_file)
 
 Counties <- unique(json_data_frame[,2])
 
-CSV_data <- read.csv("AppBridge.csv")
+CSV_data <- read.csv("AW.DWRdata.csv")
 
 CSV_Counties <- CSV_data$County
 
@@ -43,8 +43,8 @@ ui <- fluidPage(
     sidebarPanel(
       
       #selectInput(inputId="CountyChosen", label=" Choose County", choices=c(Unique_County), selected = NULL, multiple = FALSE),
-      selectInput(inputId="Crop_Chosen", label=" Choose Crop", choices=c(Unique_Crops), selected = NULL, multiple = FALSE),
-      selectInput(inputId="Year_Chosen", label=" Choose Year", choices=c(Unique_Years), selected = NULL, multiple = FALSE),
+      #selectInput(inputId="Crop_Chosen", label=" Choose Crop", choices=c(Unique_Crops), selected = NULL, multiple = FALSE),
+      #selectInput(inputId="Year_Chosen", label=" Choose Year", choices=c(Unique_Years), selected = NULL, multiple = FALSE),
       
       #sliderInput(inputId = "YearsChosen",
                   # = "Year Range",
