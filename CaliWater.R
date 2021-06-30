@@ -43,8 +43,8 @@ ui <- fluidPage(
     sidebarPanel(
       
       #selectInput(inputId="CountyChosen", label=" Choose County", choices=c(Unique_County), selected = NULL, multiple = FALSE),
-      selectInput(inputId="Crop_Chosen", label=" Choose Crop", choices=c(Unique_Crops), selected = NULL, multiple = FALSE),
-      selectInput(inputId="Year_Chosen", label=" Choose Year", choices=c(Unique_Years), selected = NULL, multiple = FALSE),
+      #selectInput(inputId="Crop_Chosen", label=" Choose Crop", choices=c(Unique_Crops), selected = NULL, multiple = FALSE),
+      #selectInput(inputId="Year_Chosen", label=" Choose Year", choices=c(Unique_Years), selected = NULL, multiple = FALSE),
       
       #sliderInput(inputId = "YearsChosen",
                   # = "Year Range",
