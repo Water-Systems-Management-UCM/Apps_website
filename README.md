@@ -1,6 +1,6 @@
 # App DWR land and water use visualization
 
-This repository contains the code and file for the web app in the website 
+This repository contains the code and file for the Shiny web app in the website 
 
 The .csv file contains the data from the original source DWR's land and water use estimates: https://water.ca.gov/Programs/Water-Use-And-Efficiency/Land-And-Water-Use/Agricultural-Land-And-Water-Use-Estimates
 
