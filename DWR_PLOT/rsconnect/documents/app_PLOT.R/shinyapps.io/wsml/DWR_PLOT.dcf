@@ -1,0 +1,13 @@
+name: DWR_PLOT
+title: DWR_PLOT
+username:
+account: wsml
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4372621
+bundleId: 4842676
+url: https://wsml.shinyapps.io/DWR_PLOT/
+when: 1626891143.50149
+lastSyncTime: 1626891143.5015
+asMultiple: FALSE
+asStatic: FALSE

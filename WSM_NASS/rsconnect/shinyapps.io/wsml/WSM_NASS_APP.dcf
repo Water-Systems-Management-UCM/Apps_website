@@ -1,0 +1,13 @@
+name: WSM_NASS_APP
+title: WSM_NASS_APP
+username:
+account: wsml
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4347394
+bundleId: 4842459
+url: https://wsml.shinyapps.io/WSM_NASS_APP/
+when: 1626886961.68805
+lastSyncTime: 1626886961.68806
+asMultiple: FALSE
+asStatic: FALSE

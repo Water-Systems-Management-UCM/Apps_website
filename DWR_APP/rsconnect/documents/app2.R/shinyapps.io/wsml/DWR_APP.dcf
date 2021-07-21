@@ -1,0 +1,14 @@
+name: DWR_APP
+title:
+username:
+account: wsml
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4347674
+bundleId: 4842634
+url: https://wsml.shinyapps.io/DWR_APP/
+when: 1626890274.60479
+lastSyncTime: 1626890274.6048
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .~lock.AW.DWRdata.csv#

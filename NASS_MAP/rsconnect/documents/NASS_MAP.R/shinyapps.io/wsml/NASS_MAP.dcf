@@ -1,0 +1,13 @@
+name: NASS_MAP
+title: NASS_MAP
+username:
+account: wsml
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4372910
+bundleId: 4839631
+url: https://wsml.shinyapps.io/NASS_MAP/
+when: 1626826870.83319
+lastSyncTime: 1626826870.8332
+asMultiple: FALSE
+asStatic: FALSE
