@@ -46,9 +46,9 @@ group_data$Value <-  as.numeric(group_data$Value)
 #Find proxy
 
 dgroup_data <- group_data%>%group_by(Group_name,Year,`County Code`)%>%mutate(`Total Area` = sum(Acres,na.rm=TRUE)/1000,`Value category`=sum(Value,na.rm=TRUE))%>%ungroup()
-dgroup_data2 <-  dgroup_data%>%group_by(`Commodity Code`,`County Code`,Year)%>%mutate(Rate = Acres/`Total Area`)%>%ungroup()
+dgroup_data2 <-  dgroup_data%>%group_by(`Commodity Code`,`County Code`,Year)%>%mutate(Rate = Acres/`Total Area`)%>%mutate(`Gross revenue`=Price*Yield)%>%ungroup()
 dgroup_data2 <-  dgroup_data2%>%group_by(`County Code`,Year)%>%mutate("Total Area1" = sum(Acres,na.rm=TRUE)/1000,"Tot Rev"=sum(Value,na.rm=TRUE)/1000)%>%ungroup()
-dgroup_data2 <- dgroup_data2%>%group_by(`County Code`,Group_name,Year)%>%mutate(max=max(Rate),`Gross revenue`=Price*Yield)%>%mutate(proxy=ifelse(Rate==max,1,0))%>%filter(proxy==1)%>%ungroup()
+dgroup_data2 <- dgroup_data2%>%group_by(`County Code`,Group_name,Year)%>%arrange(desc(Rate))%>%slice(1)%>%ungroup() 
 
 
 
@@ -80,7 +80,7 @@ data$variable <- as.character(data$variable)
 Unique_Crops <- sort(unique(data$Group_name))
 Unique_County <- sort(unique(data$NAME))
 data$Year<- as.integer(data$Year)
-Unique_Years <- unique(as.numeric(data$Year))
+Unique_Years <- unique(na.omit(as.numeric(data$Year)),fromLast = TRUE)
 Unique_Vars <- sort(unique(data$variable))
 Unique_Vars <- Unique_Vars[Unique_Vars != "Crop Name"]
 
@@ -111,7 +111,7 @@ ui <- fluidPage(
         sidebarPanel(
             
             selectInput(inputId="Crop_Chosen", label="Crop Category", choices=c(Unique_Crops), selected = NULL, multiple = FALSE),
-            selectInput(inputId="Year_Chosen", label="Year", choices=c(Unique_Years), selected = NULL, multiple = FALSE),
+            selectInput(inputId="Year_Chosen", label="Year", choices=Unique_Years, selected = NULL, multiple = FALSE),
             selectInput(inputId="Var_Chosen", label="Variable", choices=c(Unique_Vars), selected = NULL, multiple = FALSE),
             
             # Button

@@ -5,10 +5,10 @@ account: wsml
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4347674
-bundleId: 4842634
+bundleId: 4846916
 url: https://wsml.shinyapps.io/DWR_APP/
-when: 1626890274.60479
-lastSyncTime: 1626890274.6048
+when: 1626986501.69159
+lastSyncTime: 1626986501.6916
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: .~lock.AW.DWRdata.csv#

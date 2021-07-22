@@ -45,9 +45,9 @@ group_data$Value <-  as.numeric(group_data$Value)
 
 
 dgroup_data <- group_data%>%group_by(Group_name,Year,`County Code`)%>%mutate(`Total Area` = sum(Acres,na.rm=TRUE)/1000,`Value category`=sum(Value,na.rm=TRUE))%>%ungroup()
-dgroup_data2 <-  dgroup_data%>%group_by(`Commodity Code`,`County Code`,Year)%>%mutate(Rate = Acres/`Total Area`)%>%ungroup()
+dgroup_data2 <-  dgroup_data%>%group_by(`Commodity Code`,`County Code`,Year)%>%mutate(Rate = Acres/`Total Area`)%>%mutate(`Gross revenue`=Price*Yield)%>%ungroup()
 dgroup_data2 <-  dgroup_data2%>%group_by(`County Code`,Year)%>%mutate("Total Area1" = sum(Acres,na.rm=TRUE)/1000,"Tot Rev"=sum(Value,na.rm=TRUE)/1000)%>%ungroup()
-dgroup_data2 <- dgroup_data2%>%group_by(`County Code`,Group_name,Year)%>%mutate(max=max(Rate),`Gross revenue`=Price*Yield)%>%mutate(proxy=ifelse(Rate==max,1,0))%>%filter(proxy==1)%>%ungroup()
+dgroup_data2 <- dgroup_data2%>%group_by(`County Code`,Group_name,Year)%>%arrange(desc(Rate))%>%slice(1)%>%ungroup() 
 
 
 
