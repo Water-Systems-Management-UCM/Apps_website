@@ -1,0 +1,2609 @@
+Year,Commodity Code,Crop Name,County Code,County,Harvested Acres,Yield,Production,Price P/U,Unit,Value
+2021,,"Alfalfa, All",1,Alameda,95.0,,,,,125000.0
+2021,,"Alfalfa, All",5,Amador,855.0,,,,,1590000.0
+2021,,"Alfalfa, All",7,Butte,507.0,,,,,536000.0
+2021,,"Alfalfa, All",11,Colusa,7770.0,,,,,11300000.0
+2021,,"Alfalfa, All",13,Contra Costa,1730.0,,,,,1549000.0
+2021,,"Alfalfa, All",19,Fresno,26000.0,,,,,56628000.0
+2021,,"Alfalfa, All",21,Glenn,7750.0,,,,,12688000.0
+2021,,"Alfalfa, All",25,Imperial,151000.0,,,,,251683000.0
+2021,,"Alfalfa, All",27,Inyo,,,,,,2611000.0
+2021,,"Alfalfa, All",29,Kern,53900.0,,,,,89602000.0
+2021,,"Alfalfa, All",31,Kings,22400.0,,,,,45995000.0
+2021,,"Alfalfa, All",39,Madera,,,,,,18666000.0
+2021,,"Alfalfa, All",47,Merced,44400.0,,,,,68462000.0
+2021,,"Alfalfa, All",49,Modoc,39900.0,,,,,57364000.0
+2021,,"Alfalfa, All",51,Mono,,,,,,14844000.0
+2021,,"Alfalfa, All",53,Monterey,730.0,,,,,389000.0
+2021,,"Alfalfa, All",63,Plumas,5480.0,,,,,4024000.0
+2021,,"Alfalfa, All",65,Riverside,56200.0,,,,,82800000.0
+2021,,"Alfalfa, All",67,Sacramento,13200.0,,,,,18028000.0
+2021,,"Alfalfa, All",71,San Bernardino,4210.0,,,,,6542000.0
+2021,,"Alfalfa, All",77,San Joaquin,41100.0,,,,,62646000.0
+2021,,"Alfalfa, All",79,San Luis Obispo,1420.0,,,,,1872000.0
+2021,,"Alfalfa, All",89,Shasta,2400.0,,,,,3128000.0
+2021,,"Alfalfa, All",91,Sierra,3220.0,,,,,2001000.0
+2021,,"Alfalfa, All",93,Siskiyou,35000.0,,,,,45712000.0
+2021,,"Alfalfa, All",95,Solano,23200.0,,,,,28606000.0
+2021,,"Alfalfa, All",99,Stanislaus,13400.0,,,,,22353000.0
+2021,,"Alfalfa, All",101,Sutter,3690.0,,,,,5338000.0
+2021,,"Alfalfa, All",103,Tehama,1250.0,,,,,1704000.0
+2021,,"Alfalfa, All",107,Tulare,34800.0,,,,,109603000.0
+2021,,"Alfalfa, All",113,Yolo,23800.0,,,,,34336000.0
+2021,,"Alfalfa, All",115,Yuba,237.0,,,,,320000.0
+2021,,"Alfalfa, All",998,Sum of Others,7470.0,,,,,12944000.0
+2021,,"Alfalfa, All",999,State Total,627114.0,,,,,1075989000.0
+2021,181999.0,"Hay, Alfalfa",1,Alameda,95.0,6.0,570.0,219.3,Tons,125000.0
+2021,181999.0,"Hay, Alfalfa",5,Amador,855.0,6.0,5130.0,309.94,Tons,1590000.0
+2021,181999.0,"Hay, Alfalfa",7,Butte,507.0,4.5,2280.0,235.09,Tons,536000.0
+2021,181999.0,"Hay, Alfalfa",11,Colusa,7770.0,6.11,47500.0,237.9,Tons,11300000.0
+2021,181999.0,"Hay, Alfalfa",13,Contra Costa,1730.0,4.39,7600.0,203.82,Tons,1549000.0
+2021,181999.0,"Hay, Alfalfa",19,Fresno,26000.0,9.0,234000.0,242.0,Tons,56628000.0
+2021,181999.0,"Hay, Alfalfa",21,Glenn,7750.0,7.12,55200.0,229.85,Tons,12688000.0
+2021,181999.0,"Hay, Alfalfa",25,Imperial,151000.0,8.17,1234000.0,203.96,Tons,251683000.0
+2021,181999.0,"Hay, Alfalfa",27,Inyo,,,11400.0,229.04,Tons,2611000.0
+2021,181999.0,"Hay, Alfalfa",29,Kern,53900.0,7.31,394000.0,227.42,Tons,89602000.0
+2021,181999.0,"Hay, Alfalfa",31,Kings,22400.0,8.26,185000.0,248.62,Tons,45995000.0
+2021,181999.0,"Hay, Alfalfa",39,Madera,,,73100.0,239.0,Tons,17471000.0
+2021,181999.0,"Hay, Alfalfa",47,Merced,44400.0,6.37,283000.0,241.92,Tons,68462000.0
+2021,181999.0,"Hay, Alfalfa",49,Modoc,39900.0,5.84,233000.0,246.2,Tons,57364000.0
+2021,181999.0,"Hay, Alfalfa",51,Mono,,,58900.0,252.02,Tons,14844000.0
+2021,181999.0,"Hay, Alfalfa",53,Monterey,730.0,2.49,1820.0,213.74,Tons,389000.0
+2021,181999.0,"Hay, Alfalfa",63,Plumas,5480.0,3.19,17500.0,229.94,Tons,4024000.0
+2021,181999.0,"Hay, Alfalfa",65,Riverside,52300.0,7.99,418000.0,180.17,Tons,75312000.0
+2021,181999.0,"Hay, Alfalfa",67,Sacramento,13200.0,5.99,79100.0,227.91,Tons,18028000.0
+2021,181999.0,"Hay, Alfalfa",71,San Bernardino,4210.0,7.22,30400.0,215.2,Tons,6542000.0
+2021,181999.0,"Hay, Alfalfa",77,San Joaquin,41100.0,6.4,263000.0,238.2,Tons,62646000.0
+2021,181999.0,"Hay, Alfalfa",79,San Luis Obispo,1420.0,5.25,7460.0,250.94,Tons,1872000.0
+2021,181999.0,"Hay, Alfalfa",89,Shasta,2400.0,5.5,13200.0,236.97,Tons,3128000.0
+2021,181999.0,"Hay, Alfalfa",91,Sierra,3220.0,2.7,8700.0,230.0,Tons,2001000.0
+2021,181999.0,"Hay, Alfalfa",93,Siskiyou,35000.0,6.26,219000.0,208.73,Tons,45712000.0
+2021,181999.0,"Hay, Alfalfa",95,Solano,23200.0,5.52,128000.0,223.48,Tons,28606000.0
+2021,181999.0,"Hay, Alfalfa",99,Stanislaus,13400.0,7.09,95000.0,235.29,Tons,22353000.0
+2021,181999.0,"Hay, Alfalfa",101,Sutter,3690.0,5.74,21200.0,251.79,Tons,5338000.0
+2021,181999.0,"Hay, Alfalfa",103,Tehama,1250.0,5.95,7440.0,229.03,Tons,1704000.0
+2021,181999.0,"Hay, Alfalfa",107,Tulare,34800.0,9.86,343000.0,241.0,Tons,82663000.0
+2021,181999.0,"Hay, Alfalfa",113,Yolo,23800.0,6.22,148000.0,232.0,Tons,34336000.0
+2021,181999.0,"Hay, Alfalfa",115,Yuba,237.0,5.99,1420.0,225.35,Tons,320000.0
+2021,181999.0,"Hay, Alfalfa",998,Sum of Others,7470.0,,,,,12944000.0
+2021,181999.0,"Hay, Alfalfa",999,State Total,623214.0,7.28,4626920.0,222.05,Tons,1040366000.0
+2021,195199.0,Silage,39,Madera,,,21000.0,56.91,Tons,1195000.0
+2021,195199.0,Silage,65,Riverside,3900.0,8.0,31200.0,240.0,Tons,7488000.0
+2021,195199.0,Silage,107,Tulare,,,449000.0,60.0,Tons,26940000.0
+2021,195199.0,Silage,999,State Total,3900.0,8.0,501200.0,71.08,Tons,35623000.0
+2021,,"Almonds, All",7,Butte,37200.0,,,,,121933000.0
+2021,,"Almonds, All",11,Colusa,67700.0,,,,,222455000.0
+2021,,"Almonds, All",19,Fresno,287000.0,,,,,1437644000.0
+2021,,"Almonds, All",21,Glenn,64500.0,,,,,240530000.0
+2021,,"Almonds, All",29,Kern,231000.0,,,,,1198449000.0
+2021,,"Almonds, All",31,Kings,37100.0,,,,,190674000.0
+2021,,"Almonds, All",47,Merced,121000.0,,,,,520813000.0
+2021,,"Almonds, All",61,Placer,4170.0,,,,,11830000.0
+2021,,"Almonds, All",67,Sacramento,1750.0,,,,,7216000.0
+2021,,"Almonds, All",77,San Joaquin,109000.0,,,,,486964000.0
+2021,,"Almonds, All",95,Solano,22400.0,,,,,71123000.0
+2021,,"Almonds, All",99,Stanislaus,227000.0,,,,,1084744000.0
+2021,,"Almonds, All",107,Tulare,89600.0,,,,,355710000.0
+2021,,"Almonds, All",113,Yolo,45100.0,,,,,141965000.0
+2021,,"Almonds, All",115,Yuba,2640.0,,,,,6789000.0
+2021,,"Almonds, All",998,Sum of Others,196000.0,,,,,880149000.0
+2021,,"Almonds, All",999,State Total,1543160.0,,,,,6978988000.0
+2021,268099.0,Almond Hulls,7,Butte,,,49400.0,125.06,Tons,6178000.0
+2021,268099.0,Almond Hulls,11,Colusa,,,67700.0,70.02,Tons,4740000.0
+2021,268099.0,Almond Hulls,19,Fresno,,,598000.0,130.0,Tons,77740000.0
+2021,268099.0,Almond Hulls,21,Glenn,,,79800.0,135.0,Tons,10773000.0
+2021,268099.0,Almond Hulls,31,Kings,,,89200.0,129.93,Tons,11590000.0
+2021,268099.0,Almond Hulls,39,Madera,,,376000.0,140.12,Tons,52685000.0
+2021,268099.0,Almond Hulls,47,Merced,,,245000.0,142.67,Tons,34955000.0
+2021,268099.0,Almond Hulls,77,San Joaquin,,,251000.0,130.14,Tons,32666000.0
+2021,268099.0,Almond Hulls,99,Stanislaus,,,525000.0,129.97,Tons,68232000.0
+2021,268099.0,Almond Hulls,107,Tulare,,,174000.0,125.0,Tons,21750000.0
+2021,268099.0,Almond Hulls,113,Yolo,,,44100.0,110.0,Tons,4851000.0
+2021,268099.0,Almond Hulls,115,Yuba,,,,,,184000.0
+2021,268099.0,Almond Hulls,998,Sum of Others,,,,,,4216000.0
+2021,268099.0,Almond Hulls,999,State Total,,,2499200.0,130.51,Tons,330560000.0
+2021,261999.0,"Almonds, All",7,Butte,37200.0,0.9,33600.0,3445.06,Tons,115754000.0
+2021,261999.0,"Almonds, All",11,Colusa,67700.0,0.82,55500.0,3922.79,Tons,217715000.0
+2021,261999.0,"Almonds, All",19,Fresno,287000.0,1.27,364000.0,3736.0,Tons,1359904000.0
+2021,261999.0,"Almonds, All",21,Glenn,64500.0,0.99,63800.0,3601.21,Tons,229757000.0
+2021,261999.0,"Almonds, All",29,Kern,231000.0,1.13,260000.0,4356.86,Tons,1132783000.0
+2021,261999.0,"Almonds, All",31,Kings,37100.0,1.2,44600.0,4007.85,Tons,178750000.0
+2021,261999.0,"Almonds, All",39,Madera,160000.0,1.2,192000.0,3685.0,Tons,707520000.0
+2021,261999.0,"Almonds, All",47,Merced,121000.0,1.1,133000.0,3653.07,Tons,485858000.0
+2021,261999.0,"Almonds, All",61,Placer,4170.0,0.81,3380.0,3500.0,Tons,11830000.0
+2021,261999.0,"Almonds, All",67,Sacramento,1750.0,0.9,1580.0,4567.09,Tons,7216000.0
+2021,261999.0,"Almonds, All",77,San Joaquin,109000.0,1.16,126000.0,3601.3,Tons,453764000.0
+2021,261999.0,"Almonds, All",95,Solano,22400.0,0.88,19600.0,3628.72,Tons,71123000.0
+2021,261999.0,"Almonds, All",99,Stanislaus,227000.0,1.15,262000.0,3873.95,Tons,1014975000.0
+2021,261999.0,"Almonds, All",101,Sutter,18100.0,0.61,11000.0,3344.73,Tons,36792000.0
+2021,261999.0,"Almonds, All",103,Tehama,17900.0,0.97,17400.0,4480.8,Tons,77966000.0
+2021,261999.0,"Almonds, All",107,Tulare,89600.0,1.08,96800.0,3450.0,Tons,333960000.0
+2021,261999.0,"Almonds, All",113,Yolo,45100.0,0.85,38300.0,3580.0,Tons,137114000.0
+2021,261999.0,"Almonds, All",115,Yuba,2640.0,0.62,1640.0,4027.44,Tons,6605000.0
+2021,261999.0,"Almonds, All",998,Sum of Others,106.0,,,,,48400.0
+2021,261999.0,"Almonds, All",999,State Total,1543266.0,1.12,1724200.0,3815.91,Tons,6579434400.0
+2021,218899.0,"Fruits & Nuts, Unspecified",29,Kern,,,639000.0,102.76,Tons,65666000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",31,Kings,,,22300.0,14.98,Tons,334000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",77,San Joaquin,,,126000.0,4.24,Tons,534000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",99,Stanislaus,,,262000.0,5.87,Tons,1537000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",998,Sum of Others,,,,,,922000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",999,State Total,,,1049300.0,64.87,Tons,68993000.0
+2021,473999.0,"Animal Fibers, Misc",103,Tehama,,,20600.0,2.15,Lbs,44200.0
+2021,473999.0,"Animal Fibers, Misc",998,Sum of Others,,,,,,5460.0
+2021,473999.0,"Animal Fibers, Misc",999,State Total,,,20600.0,2.15,Lbs,49660.0
+2021,472999.0,Wool,21,Glenn,,,28400.0,2.15,Lbs,61000.0
+2021,472999.0,Wool,27,Inyo,,,29700.0,1.76,Lbs,52200.0
+2021,472999.0,Wool,29,Kern,,,445000.0,2.15,Lbs,956000.0
+2021,472999.0,Wool,31,Kings,,,117000.0,2.37,Lbs,277000.0
+2021,472999.0,Wool,41,Marin,,,29700.0,0.98,Lbs,29000.0
+2021,472999.0,Wool,45,Mendocino,,,20000.0,1.05,Lbs,21000.0
+2021,472999.0,Wool,47,Merced,,,63300.0,2.16,Lbs,137000.0
+2021,472999.0,Wool,51,Mono,,,62000.0,1.76,Lbs,109000.0
+2021,472999.0,Wool,63,Plumas,,,1930.0,5.0,Lbs,9640.0
+2021,472999.0,Wool,77,San Joaquin,,,68000.0,2.19,Lbs,149000.0
+2021,472999.0,Wool,91,Sierra,,,2530.0,8.73,Lbs,22100.0
+2021,472999.0,Wool,93,Siskiyou,,,13100.0,1.95,Lbs,25500.0
+2021,472999.0,Wool,95,Solano,,,72700.0,2.1,Lbs,153000.0
+2021,472999.0,Wool,97,Sonoma,,,71500.0,0.51,Lbs,36500.0
+2021,472999.0,Wool,99,Stanislaus,,,20700.0,0.48,Lbs,10000.0
+2021,472999.0,Wool,998,Sum of Others,,,,,,736000.0
+2021,472999.0,Wool,999,State Total,,,1045560.0,1.96,Lbs,2783940.0
+2021,333999.0,Anise (Fennel),53,Monterey,676.0,18.79,12700.0,870.0,Tons,11049000.0
+2021,333999.0,Anise (Fennel),998,Sum of Others,128.0,,,,,5744000.0
+2021,333999.0,Anise (Fennel),999,State Total,804.0,18.79,12700.0,870.0,Tons,16793000.0
+2021,,"Apiary, All",7,Butte,,,,,,18804000.0
+2021,,"Apiary, All",9,Calaveras,,,,,,33000.0
+2021,,"Apiary, All",11,Colusa,,,,,,27262000.0
+2021,,"Apiary, All",13,Contra Costa,,,,,,1480000.0
+2021,,"Apiary, All",17,El Dorado,,,,,,1969000.0
+2021,,"Apiary, All",19,Fresno,,,,,,133585000.0
+2021,,"Apiary, All",27,Inyo,,,,,,214000.0
+2021,,"Apiary, All",29,Kern,,,,,,107363000.0
+2021,,"Apiary, All",31,Kings,,,,,,19622000.0
+2021,,"Apiary, All",39,Madera,,,,,,68616000.0
+2021,,"Apiary, All",43,Mariposa,,,,,,48200.0
+2021,,"Apiary, All",47,Merced,,,,,,49448000.0
+2021,,"Apiary, All",49,Modoc,,,,,,247000.0
+2021,,"Apiary, All",53,Monterey,,,,,,181000.0
+2021,,"Apiary, All",57,Nevada,,,,,,451000.0
+2021,,"Apiary, All",61,Placer,,,,,,325000.0
+2021,,"Apiary, All",63,Plumas,,,,,,20700.0
+2021,,"Apiary, All",65,Riverside,,,,,,5924000.0
+2021,,"Apiary, All",67,Sacramento,,,,,,590000.0
+2021,,"Apiary, All",71,San Bernardino,,,,,,5132000.0
+2021,,"Apiary, All",73,San Diego,,,,,,3741000.0
+2021,,"Apiary, All",77,San Joaquin,,,,,,54045000.0
+2021,,"Apiary, All",81,San Mateo,,,,,,418000.0
+2021,,"Apiary, All",83,Santa Barbara,,,,,,665000.0
+2021,,"Apiary, All",85,Santa Clara,,,,,,332000.0
+2021,,"Apiary, All",89,Shasta,,,,,,10304000.0
+2021,,"Apiary, All",91,Sierra,,,,,,9820.0
+2021,,"Apiary, All",95,Solano,,,,,,7551000.0
+2021,,"Apiary, All",97,Sonoma,,,,,,596000.0
+2021,,"Apiary, All",99,Stanislaus,,,,,,111811000.0
+2021,,"Apiary, All",101,Sutter,,,,,,8589000.0
+2021,,"Apiary, All",103,Tehama,,,,,,19977000.0
+2021,,"Apiary, All",107,Tulare,,,,,,79128000.0
+2021,,"Apiary, All",109,Tuolumne,,,,,,52600.0
+2021,,"Apiary, All",111,Ventura,,,,,,7913000.0
+2021,,"Apiary, All",113,Yolo,,,,,,22085000.0
+2021,,"Apiary, All",115,Yuba,,,,,,691000.0
+2021,,"Apiary, All",998,Sum of Others,,,,,,58477000.0
+2021,,"Apiary, All",999,State Total,,,,,,827700320.0
+2021,483999.0,"Apiary Prod, Bees, Packaged, Bulk",21,Glenn,,,120000.0,37.63,Lbs,4516000.0
+2021,483999.0,"Apiary Prod, Bees, Packaged, Bulk",47,Merced,,,52400.0,31.24,Lbs,1637000.0
+2021,483999.0,"Apiary Prod, Bees, Packaged, Bulk",998,Sum of Others,,,,,,138000.0
+2021,483999.0,"Apiary Prod, Bees, Packaged, Bulk",999,State Total,,,172400.0,35.69,Lbs,6291000.0
+2021,485999.0,"Apiary Products, Bees, Queen",11,Colusa,,,40000.0,25.0,Count,1000000.0
+2021,485999.0,"Apiary Products, Bees, Queen",21,Glenn,,,380000.0,23.98,Count,9113000.0
+2021,485999.0,"Apiary Products, Bees, Queen",47,Merced,,,20200.0,19.75,Count,399000.0
+2021,485999.0,"Apiary Products, Bees, Queen",89,Shasta,,,258000.0,26.83,Count,6921000.0
+2021,485999.0,"Apiary Products, Bees, Queen",998,Sum of Others,,,,,,981000.0
+2021,485999.0,"Apiary Products, Bees, Queen",999,State Total,,,698200.0,24.97,Count,18414000.0
+2021,482999.0,"Apiary Products, Beeswax",19,Fresno,,,410000.0,4.05,Lbs,1661000.0
+2021,482999.0,"Apiary Products, Beeswax",29,Kern,,,544000.0,5.05,Lbs,2746000.0
+2021,482999.0,"Apiary Products, Beeswax",31,Kings,,,8250.0,3.25,Lbs,26800.0
+2021,482999.0,"Apiary Products, Beeswax",39,Madera,,,35000.0,3.26,Lbs,114000.0
+2021,482999.0,"Apiary Products, Beeswax",47,Merced,,,23000.0,2.44,Lbs,56000.0
+2021,482999.0,"Apiary Products, Beeswax",53,Monterey,,,339.0,4.69,Lbs,1590.0
+2021,482999.0,"Apiary Products, Beeswax",63,Plumas,,,82.0,4.26,Lbs,349.0
+2021,482999.0,"Apiary Products, Beeswax",65,Riverside,,,12100.0,3.1,Lbs,37500.0
+2021,482999.0,"Apiary Products, Beeswax",91,Sierra,,,22.0,4.36,Lbs,96.0
+2021,482999.0,"Apiary Products, Beeswax",99,Stanislaus,,,140000.0,3.19,Lbs,447000.0
+2021,482999.0,"Apiary Products, Beeswax",107,Tulare,,,83500.0,3.5,Lbs,292000.0
+2021,482999.0,"Apiary Products, Beeswax",111,Ventura,,,65800.0,4.07,Lbs,268000.0
+2021,482999.0,"Apiary Products, Beeswax",998,Sum of Others,,,,,,275000.0
+2021,482999.0,"Apiary Products, Beeswax",999,State Total,,,1322093.0,4.27,Lbs,5925335.0
+2021,481999.0,"Apiary Products, Honey",11,Colusa,,,55000.0,5.0,Lbs,275000.0
+2021,481999.0,"Apiary Products, Honey",19,Fresno,,,5192000.0,3.66,Lbs,19003000.0
+2021,481999.0,"Apiary Products, Honey",27,Inyo,,,51700.0,4.04,Lbs,209000.0
+2021,481999.0,"Apiary Products, Honey",29,Kern,,,4350000.0,2.4,Lbs,10440000.0
+2021,481999.0,"Apiary Products, Honey",31,Kings,,,606000.0,2.75,Lbs,1668000.0
+2021,481999.0,"Apiary Products, Honey",39,Madera,,,748000.0,2.35,Lbs,1758000.0
+2021,481999.0,"Apiary Products, Honey",47,Merced,,,1150000.0,2.4,Lbs,2760000.0
+2021,481999.0,"Apiary Products, Honey",53,Monterey,,,11300.0,2.71,Lbs,30600.0
+2021,481999.0,"Apiary Products, Honey",57,Nevada,,,25300.0,5.34,Lbs,135000.0
+2021,481999.0,"Apiary Products, Honey",63,Plumas,,,2260.0,9.03,Lbs,20400.0
+2021,481999.0,"Apiary Products, Honey",65,Riverside,,,569000.0,2.0,Lbs,1137000.0
+2021,481999.0,"Apiary Products, Honey",77,San Joaquin,,,4597000.0,2.95,Lbs,13561000.0
+2021,481999.0,"Apiary Products, Honey",81,San Mateo,,,38000.0,11.0,Lbs,418000.0
+2021,481999.0,"Apiary Products, Honey",89,Shasta,,,39100.0,2.35,Lbs,92000.0
+2021,481999.0,"Apiary Products, Honey",91,Sierra,,,1080.0,9.0,Lbs,9720.0
+2021,481999.0,"Apiary Products, Honey",99,Stanislaus,,,7084000.0,2.65,Lbs,18773000.0
+2021,481999.0,"Apiary Products, Honey",107,Tulare,,,16001000.0,2.49,Lbs,39772000.0
+2021,481999.0,"Apiary Products, Honey",111,Ventura,,,1092000.0,3.54,Lbs,3868000.0
+2021,481999.0,"Apiary Products, Honey",998,Sum of Others,,,,,,11193000.0
+2021,481999.0,"Apiary Products, Honey",999,State Total,,,41612740.0,2.74,Lbs,125122720.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",7,Butte,,,,,,3533000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",9,Calaveras,,,,,,33000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",11,Colusa,,,,,,1068000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",13,Contra Costa,,,,,,1480000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",17,El Dorado,,,,,,1969000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",27,Inyo,,,,,,5000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",29,Kern,,,,,,100000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",43,Mariposa,,,,,,48200.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",49,Modoc,,,,,,247000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",57,Nevada,,,,,,316000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",61,Placer,,,,,,325000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",67,Sacramento,,,,,,590000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",71,San Bernardino,,,,,,5132000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",73,San Diego,,,,,,79000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",77,San Joaquin,,,,,,843000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",83,Santa Barbara,,,,,,665000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",85,Santa Clara,,,,,,332000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",89,Shasta,,,,,,1520000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",95,Solano,,,,,,937000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",97,Sonoma,,,,,,596000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",99,Stanislaus,,,,,,1108000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",103,Tehama,,,,,,12613000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",109,Tuolumne,,,,,,52600.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",113,Yolo,,,,,,22085000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",998,Sum of Others,,,,,,724000.0
+2021,489999.0,"Apiary Products, Bees, Unspecified",999,State Total,,,,,,56400800.0
+2021,486999.0,"Apiary Products, Pollination Fees",7,Butte,,,,,,15271000.0
+2021,486999.0,"Apiary Products, Pollination Fees",11,Colusa,,,135000.0,184.58,Colonies,24919000.0
+2021,486999.0,"Apiary Products, Pollination Fees",19,Fresno,,,,,,112921000.0
+2021,486999.0,"Apiary Products, Pollination Fees",21,Glenn,,,,,,29832000.0
+2021,486999.0,"Apiary Products, Pollination Fees",25,Imperial,,,30700.0,75.41,Colonies,2315000.0
+2021,486999.0,"Apiary Products, Pollination Fees",29,Kern,,,483000.0,194.78,Colonies,94077000.0
+2021,486999.0,"Apiary Products, Pollination Fees",31,Kings,,,94200.0,190.32,Colonies,17928000.0
+2021,486999.0,"Apiary Products, Pollination Fees",39,Madera,,,324000.0,206.0,Colonies,66744000.0
+2021,486999.0,"Apiary Products, Pollination Fees",47,Merced,,,224000.0,199.09,Colonies,44596000.0
+2021,486999.0,"Apiary Products, Pollination Fees",53,Monterey,,,2340.0,63.67,Colonies,149000.0
+2021,486999.0,"Apiary Products, Pollination Fees",65,Riverside,,,25000.0,190.0,Colonies,4750000.0
+2021,486999.0,"Apiary Products, Pollination Fees",73,San Diego,,,,,,3662000.0
+2021,486999.0,"Apiary Products, Pollination Fees",77,San Joaquin,,,208000.0,190.58,Colonies,39641000.0
+2021,486999.0,"Apiary Products, Pollination Fees",89,Shasta,,,8630.0,205.21,Colonies,1771000.0
+2021,486999.0,"Apiary Products, Pollination Fees",95,Solano,,,39000.0,169.59,Colonies,6614000.0
+2021,486999.0,"Apiary Products, Pollination Fees",99,Stanislaus,,,453000.0,201.95,Colonies,91483000.0
+2021,486999.0,"Apiary Products, Pollination Fees",101,Sutter,,,69700.0,106.01,Colonies,7389000.0
+2021,486999.0,"Apiary Products, Pollination Fees",103,Tehama,,,37000.0,199.03,Colonies,7364000.0
+2021,486999.0,"Apiary Products, Pollination Fees",107,Tulare,,,251000.0,155.63,Colonies,39064000.0
+2021,486999.0,"Apiary Products, Pollination Fees",111,Ventura,,,,,,3777000.0
+2021,486999.0,"Apiary Products, Pollination Fees",115,Yuba,,,11600.0,59.57,Colonies,691000.0
+2021,486999.0,"Apiary Products, Pollination Fees",998,Sum of Others,,,,,,589000.0
+2021,486999.0,"Apiary Products, Pollination Fees",999,State Total,,,2396170.0,187.59,,615547000.0
+2021,211999.0,"Apples, All",17,El Dorado,831.0,,,,,31006000.0
+2021,211999.0,"Apples, All",45,Mendocino,216.0,1.1,237.0,691.98,Tons,164000.0
+2021,211999.0,"Apples, All",61,Placer,48.0,0.48,23.0,3365.22,Tons,77400.0
+2021,211999.0,"Apples, All",65,Riverside,22.0,2.64,58.0,1913.79,Tons,111000.0
+2021,211999.0,"Apples, All",69,San Benito,330.0,21.61,7130.0,213.88,Tons,1525000.0
+2021,211999.0,"Apples, All",71,San Bernardino,255.0,1.26,321.0,5869.16,Tons,1884000.0
+2021,211999.0,"Apples, All",73,San Diego,133.0,1.62,215.0,2372.09,,510000.0
+2021,211999.0,"Apples, All",77,San Joaquin,1730.0,23.87,41300.0,347.6,Tons,14356000.0
+2021,211999.0,"Apples, All",87,Santa Cruz,2010.0,14.83,29800.0,368.09,Tons,10969000.0
+2021,211999.0,"Apples, All",93,Siskiyou,26.0,,,,,38000.0
+2021,211999.0,"Apples, All",97,Sonoma,2140.0,3.08,6580.0,451.22,Tons,2969000.0
+2021,211999.0,"Apples, All",998,Sum of Others,800.0,,,,,6528000.0
+2021,211999.0,"Apples, All",999,State Total,8541.0,12.44,85664.0,380.15,,70137400.0
+2021,217999.0,"Apricots, All",13,Contra Costa,169.0,2.8,473.0,3369.98,Tons,1594000.0
+2021,217999.0,"Apricots, All",19,Fresno,1320.0,5.47,7220.0,1168.01,Tons,8433000.0
+2021,217999.0,"Apricots, All",31,Kings,513.0,12.71,6520.0,1440.03,Tons,9389000.0
+2021,217999.0,"Apricots, All",65,Riverside,12.0,2.42,29.0,1989.65,Tons,57700.0
+2021,217999.0,"Apricots, All",69,San Benito,545.0,3.47,1890.0,788.36,Tons,1490000.0
+2021,217999.0,"Apricots, All",77,San Joaquin,591.0,4.5,2660.0,971.8,Tons,2585000.0
+2021,217999.0,"Apricots, All",85,Santa Clara,95.0,2.2,209.0,1794.26,Tons,375000.0
+2021,217999.0,"Apricots, All",99,Stanislaus,2130.0,,,,,16283000.0
+2021,217999.0,"Apricots, All",107,Tulare,968.0,9.73,9420.0,2280.04,Tons,21478000.0
+2021,217999.0,"Apricots, All",998,Sum of Others,243.0,,,,,1684000.0
+2021,217999.0,"Apricots, All",999,State Total,6586.0,6.75,28421.0,1597.47,Tons,63368700.0
+2021,,"Aquaculture, All",25,Imperial,,,,,,22172000.0
+2021,,"Aquaculture, All",41,Marin,,,,,,8208000.0
+2021,,"Aquaculture, All",65,Riverside,,,,,,4873000.0
+2021,,"Aquaculture, All",67,Sacramento,,,,,,18524000.0
+2021,,"Aquaculture, All",998,Sum of Others,,,,,,6859000.0
+2021,,"Aquaculture, All",999,State Total,,,,,,60636000.0
+2021,478894.0,Fish & Fishbait,65,Riverside,,,,,,421000.0
+2021,478894.0,Fish & Fishbait,999,State Total,,,,,,421000.0
+2021,478899.0,Fish & Fishbait,25,Imperial,,,,,,22172000.0
+2021,478899.0,Fish & Fishbait,41,Marin,,,,,,8208000.0
+2021,478899.0,Fish & Fishbait,65,Riverside,,,,,,4452000.0
+2021,478899.0,Fish & Fishbait,67,Sacramento,,,,,,18524000.0
+2021,478899.0,Fish & Fishbait,998,Sum of Others,,,,,,6859000.0
+2021,478899.0,Fish & Fishbait,999,State Total,,,,,,60215000.0
+2021,301999.0,Artichokes,53,Monterey,3400.0,9.23,31400.0,1370.0,Tons,43018000.0
+2021,301999.0,Artichokes,65,Riverside,1010.0,9.73,9830.0,1604.98,Tons,15777000.0
+2021,301999.0,Artichokes,81,San Mateo,46.0,2.17,100.0,2340.0,Tons,234000.0
+2021,301999.0,Artichokes,111,Ventura,717.0,6.1,4370.0,2508.47,Tons,10962000.0
+2021,301999.0,Artichokes,998,Sum of Others,17.0,,,,,52000.0
+2021,301999.0,Artichokes,999,State Total,5190.0,8.83,45700.0,1531.53,Tons,70043000.0
+2021,302999.0,"Asparagus, Unspecified",19,Fresno,620.0,2.69,1670.0,3213.17,Tons,5366000.0
+2021,302999.0,"Asparagus, Unspecified",53,Monterey,180.0,5.46,983.0,1770.09,Tons,1740000.0
+2021,302999.0,"Asparagus, Unspecified",998,Sum of Others,183.0,,,,,1304000.0
+2021,302999.0,"Asparagus, Unspecified",999,State Total,983.0,3.32,2653.0,2678.48,Tons,8410000.0
+2021,221999.0,"Avocados, All",53,Monterey,210.0,5.48,1150.0,2670.44,Tons,3071000.0
+2021,221999.0,"Avocados, All",65,Riverside,3000.0,,,,,80100000.0
+2021,221999.0,"Avocados, All",71,San Bernardino,368.0,2.1,773.0,3705.04,Tons,2864000.0
+2021,221999.0,"Avocados, All",73,San Diego,14500.0,1.83,26600.0,3113.99,,82832000.0
+2021,221999.0,"Avocados, All",79,San Luis Obispo,4500.0,4.69,21100.0,2737.3,Tons,57757000.0
+2021,221999.0,"Avocados, All",83,Santa Barbara,5720.0,3.85,22000.0,2305.73,Tons,50726000.0
+2021,221999.0,"Avocados, All",111,Ventura,16400.0,2.99,49000.0,2568.14,Tons,125839000.0
+2021,221999.0,"Avocados, All",998,Sum of Others,1140.0,,,,,4096000.0
+2021,221999.0,"Avocados, All",999,State Total,45838.0,2.89,120623.0,2678.5,Tons,407285000.0
+2021,,"Barley, All",31,Kings,450.0,,,,,356000.0
+2021,,"Barley, All",47,Merced,915.0,,,,,350000.0
+2021,,"Barley, All",49,Modoc,2680.0,,,,,1324000.0
+2021,,"Barley, All",53,Monterey,3270.0,,,,,663000.0
+2021,,"Barley, All",65,Riverside,16.0,,,,,5600.0
+2021,,"Barley, All",79,San Luis Obispo,4130.0,,,,,804000.0
+2021,,"Barley, All",93,Siskiyou,5690.0,,,,,2787000.0
+2021,,"Barley, All",107,Tulare,750.0,,,,,287000.0
+2021,,"Barley, All",998,Sum of Others,9720.0,,,,,5677000.0
+2021,,"Barley, All",999,State Total,27621.0,,,,,12253600.0
+2021,113999.0,"Barley, Unspecified",29,Kern,670.0,1.0,670.0,382.09,Tons,256000.0
+2021,113999.0,"Barley, Unspecified",47,Merced,915.0,1.96,1790.0,195.53,Tons,350000.0
+2021,113999.0,"Barley, Unspecified",49,Modoc,2680.0,2.35,6310.0,209.83,Tons,1324000.0
+2021,113999.0,"Barley, Unspecified",53,Monterey,3270.0,0.93,3040.0,218.09,Tons,663000.0
+2021,113999.0,"Barley, Unspecified",65,Riverside,16.0,4.0,64.0,87.5,Tons,5600.0
+2021,113999.0,"Barley, Unspecified",79,San Luis Obispo,4130.0,0.66,2730.0,294.5,Tons,804000.0
+2021,113999.0,"Barley, Unspecified",93,Siskiyou,5690.0,2.25,12800.0,217.73,Tons,2787000.0
+2021,113999.0,"Barley, Unspecified",107,Tulare,750.0,1.96,1470.0,195.24,Tons,287000.0
+2021,113999.0,"Barley, Unspecified",998,Sum of Others,5320.0,,,,,2853000.0
+2021,113999.0,"Barley, Unspecified",999,State Total,23441.0,1.59,28874.0,224.31,Tons,9329600.0
+2021,114001.0,"Barley, Unspecified",31,Kings,450.0,15.82,7120.0,50.0,Tons,356000.0
+2021,114001.0,"Barley, Unspecified",998,Sum of Others,3730.0,,,,,2568000.0
+2021,114001.0,"Barley, Unspecified",999,State Total,4180.0,15.82,7120.0,50.0,Tons,2924000.0
+2021,,"Beans, All",7,Butte,530.0,1.91,1010.0,1296.04,Tons,1309000.0
+2021,,"Beans, All",11,Colusa,2640.0,1.28,3370.0,1200.89,Tons,4047000.0
+2021,,"Beans, All",21,Glenn,575.0,1.1,633.0,1069.51,Tons,677000.0
+2021,,"Beans, All",29,Kern,656.0,1.66,1090.0,997.25,Tons,1087000.0
+2021,,"Beans, All",53,Monterey,1320.0,1.57,2070.0,1870.05,Tons,3871000.0
+2021,,"Beans, All",77,San Joaquin,5800.0,1.36,7900.0,1408.99,Tons,11131000.0
+2021,,"Beans, All",81,San Mateo,142.0,0.58,82.0,10743.9,Tons,881000.0
+2021,,"Beans, All",83,Santa Barbara,415.0,,,,,525000.0
+2021,,"Beans, All",95,Solano,1400.0,1.21,1700.0,1343.53,Tons,2284000.0
+2021,,"Beans, All",99,Stanislaus,4880.0,,,,,11183000.0
+2021,,"Beans, All",101,Sutter,5770.0,0.62,3580.0,1087.99,Tons,3895000.0
+2021,,"Beans, All",107,Tulare,2210.0,1.31,2900.0,1180.0,Tons,3422000.0
+2021,,"Beans, All",998,Sum of Others,5580.0,,,,,6642000.0
+2021,,"Beans, All",999,State Total,31918.0,1.16,24335.0,1339.8,Tons,50954000.0
+2021,304999.0,"Beans, Snap, Unspecified",65,Riverside,643.0,4.14,2660.0,1801.5,Tons,4792000.0
+2021,304999.0,"Beans, Snap, Unspecified",71,San Bernardino,22.0,1.73,38.0,2263.16,Tons,86000.0
+2021,304999.0,"Beans, Snap, Unspecified",81,San Mateo,35.0,2.8,98.0,2295.92,Tons,225000.0
+2021,304999.0,"Beans, Snap, Unspecified",85,Santa Clara,943.0,3.61,3400.0,1358.82,Tons,4620000.0
+2021,304999.0,"Beans, Snap, Unspecified",998,Sum of Others,1340.0,,,,,6761000.0
+2021,304999.0,"Beans, Snap, Unspecified",999,State Total,2983.0,3.77,6196.0,1569.24,Tons,16484000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",99,Stanislaus,4830.0,,,,,11116000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",998,Sum of Others,1.0,,,,,750.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",999,State Total,4831.0,,,,,11116750.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",7,Butte,530.0,1.91,1010.0,1296.04,Tons,1309000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",11,Colusa,2640.0,1.28,3370.0,1200.89,Tons,4047000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",21,Glenn,575.0,1.1,633.0,1069.51,Tons,677000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",29,Kern,656.0,1.66,1090.0,997.25,Tons,1087000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",53,Monterey,1320.0,1.57,2070.0,1870.05,Tons,3871000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",77,San Joaquin,5800.0,1.36,7900.0,1408.99,Tons,11131000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",81,San Mateo,142.0,0.58,82.0,10743.9,Tons,881000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",83,Santa Barbara,415.0,,,,,525000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",95,Solano,1400.0,1.21,1700.0,1343.53,,2284000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",99,Stanislaus,49.0,,,,,67000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",101,Sutter,5770.0,0.62,3580.0,1087.99,Tons,3895000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",107,Tulare,2210.0,1.31,2900.0,1180.0,Tons,3422000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",998,Sum of Others,5580.0,,,,,6641000.0
+2021,169999.0,"Beans, Dry Edible, Unspecified",999,State Total,27087.0,1.16,24335.0,1339.8,Tons,39837000.0
+2021,305999.0,"Beets, Garden",65,Riverside,470.0,21.06,9900.0,350.0,Tons,3465000.0
+2021,305999.0,"Beets, Garden",111,Ventura,515.0,8.52,4390.0,1439.18,Tons,6318000.0
+2021,305999.0,"Beets, Garden",998,Sum of Others,4500.0,,,,,42698000.0
+2021,305999.0,"Beets, Garden",999,State Total,5485.0,14.51,14290.0,684.6,Tons,52481000.0
+2021,,"Berries, All",19,Fresno,1770.0,,,,,38597000.0
+2021,,"Berries, All",29,Kern,1030.0,,,,,54330000.0
+2021,,"Berries, All",53,Monterey,11200.0,,,,,1024959000.0
+2021,,"Berries, All",61,Placer,17.0,,,,,213000.0
+2021,,"Berries, All",65,Riverside,91.0,,,,,3620000.0
+2021,,"Berries, All",73,San Diego,395.0,,,,,24417000.0
+2021,,"Berries, All",77,San Joaquin,2320.0,,,,,60990000.0
+2021,,"Berries, All",79,San Luis Obispo,4170.0,,,,,319901000.0
+2021,,"Berries, All",83,Santa Barbara,13100.0,,,,,954053000.0
+2021,,"Berries, All",87,Santa Cruz,5190.0,,,,,390991000.0
+2021,,"Berries, All",107,Tulare,2520.0,,,,,96860000.0
+2021,,"Berries, All",111,Ventura,14600.0,,,,,966426000.0
+2021,,"Berries, All",998,Sum of Others,643.0,,,,,24714000.0
+2021,,"Berries, All",999,State Total,57046.0,,,,,3960071000.0
+2021,230639.0,"Berries, Blackberries",53,Monterey,238.0,8.61,2050.0,6490.24,Tons,13305000.0
+2021,230639.0,"Berries, Blackberries",71,San Bernardino,2.0,1.5,3.0,12666.67,Tons,38000.0
+2021,230639.0,"Berries, Blackberries",83,Santa Barbara,1010.0,10.3,10400.0,6297.12,Tons,65490000.0
+2021,230639.0,"Berries, Blackberries",87,Santa Cruz,1240.0,10.32,12800.0,5397.97,Tons,69094000.0
+2021,230639.0,"Berries, Blackberries",111,Ventura,767.0,8.62,6610.0,6000.6,Tons,39664000.0
+2021,230639.0,"Berries, Blackberries",998,Sum of Others,164.0,,,,,918000.0
+2021,230639.0,"Berries, Blackberries",999,State Total,3421.0,9.78,31863.0,5887.42,Tons,188509000.0
+2021,238199.0,"Berries, Blueberries",19,Fresno,1590.0,3.99,6350.0,5801.1,Tons,36837000.0
+2021,238199.0,"Berries, Blueberries",29,Kern,1020.0,5.69,5800.0,9341.38,Tons,54180000.0
+2021,238199.0,"Berries, Blueberries",71,San Bernardino,3.0,1.0,3.0,11266.67,Tons,33800.0
+2021,238199.0,"Berries, Blueberries",77,San Joaquin,2320.0,5.04,11700.0,5212.82,Tons,60990000.0
+2021,238199.0,"Berries, Blueberries",83,Santa Barbara,377.0,1.8,678.0,12663.72,Tons,8586000.0
+2021,238199.0,"Berries, Blueberries",107,Tulare,2520.0,6.63,16700.0,5800.0,Tons,96860000.0
+2021,238199.0,"Berries, Blueberries",111,Ventura,714.0,7.0,5000.0,9205.6,Tons,46028000.0
+2021,238199.0,"Berries, Blueberries",998,Sum of Others,309.0,,,,,2645000.0
+2021,238199.0,"Berries, Blueberries",999,State Total,8853.0,5.41,46231.0,6565.18,Tons,306159800.0
+2021,239999.0,"Berries, Bushberries, Unspecified",73,San Diego,,,,,,12208000.0
+2021,239999.0,"Berries, Bushberries, Unspecified",998,Sum of Others,10.0,,,,,226000.0
+2021,239999.0,"Berries, Bushberries, Unspecified",999,State Total,10.0,,,,,12434000.0
+2021,236199.0,"Berries, Raspberries",53,Monterey,590.0,9.41,5550.0,7850.09,Tons,43568000.0
+2021,236199.0,"Berries, Raspberries",83,Santa Barbara,500.0,9.28,4640.0,6518.97,Tons,30248000.0
+2021,236199.0,"Berries, Raspberries",87,Santa Cruz,1650.0,10.06,16600.0,6676.81,Tons,110835000.0
+2021,236199.0,"Berries, Raspberries",111,Ventura,3720.0,6.08,22600.0,7465.13,Tons,168712000.0
+2021,236199.0,"Berries, Raspberries",998,Sum of Others,79.0,,,,,14200.0
+2021,236199.0,"Berries, Raspberries",999,State Total,6539.0,7.65,49390.0,7154.54,Tons,353377200.0
+2021,,"Berries, Strawberries, All",53,Monterey,10400.0,37.02,385000.0,2514.51,Tons,968086000.0
+2021,,"Berries, Strawberries, All",61,Placer,17.0,5.0,85.0,2505.88,Tons,213000.0
+2021,,"Berries, Strawberries, All",65,Riverside,91.0,11.1,1010.0,3584.16,Tons,3620000.0
+2021,,"Berries, Strawberries, All",71,San Bernardino,43.0,8.46,364.0,3942.31,Tons,1435000.0
+2021,,"Berries, Strawberries, All",73,San Diego,200.0,23.0,4600.0,2654.13,Tons,12209000.0
+2021,,"Berries, Strawberries, All",79,San Luis Obispo,4170.0,29.98,125000.0,2559.21,Tons,319901000.0
+2021,,"Berries, Strawberries, All",83,Santa Barbara,11200.0,34.38,385000.0,2207.09,Tons,849729000.0
+2021,,"Berries, Strawberries, All",87,Santa Cruz,2300.0,35.04,80600.0,2618.64,Tons,211062000.0
+2021,,"Berries, Strawberries, All",111,Ventura,9430.0,24.07,227000.0,3136.66,Tons,712022000.0
+2021,,"Berries, Strawberries, All",998,Sum of Others,424.0,,,,,21314000.0
+2021,,"Berries, Strawberries, All",999,State Total,38275.0,31.93,1208659.0,2546.85,Tons,3099591000.0
+2021,237199.0,"Berries, Strawberries, Fresh Market",53,Monterey,,,364000.0,2620.0,Tons,953680000.0
+2021,237199.0,"Berries, Strawberries, Fresh Market",79,San Luis Obispo,,,94300.0,2989.16,Tons,281878000.0
+2021,237199.0,"Berries, Strawberries, Fresh Market",83,Santa Barbara,,,325000.0,2338.21,Tons,759918000.0
+2021,237199.0,"Berries, Strawberries, Fresh Market",111,Ventura,,,171000.0,3813.35,Tons,652083000.0
+2021,237199.0,"Berries, Strawberries, Fresh Market",998,Sum of Others,20.0,,,,,1001000.0
+2021,237199.0,"Berries, Strawberries, Fresh Market",999,State Total,20.0,,954300.0,2774.35,Tons,2648560000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",53,Monterey,10400.0,,,,,
+2021,237999.0,"Berries, Strawberries, Unspecified",61,Placer,17.0,5.0,85.0,2505.88,Tons,213000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",65,Riverside,91.0,11.1,1010.0,3584.16,Tons,3620000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",71,San Bernardino,43.0,8.46,364.0,3942.31,Tons,1435000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",73,San Diego,200.0,23.0,4600.0,2654.13,,12209000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",79,San Luis Obispo,4170.0,,,,,
+2021,237999.0,"Berries, Strawberries, Unspecified",83,Santa Barbara,11200.0,,,,,
+2021,237999.0,"Berries, Strawberries, Unspecified",87,Santa Cruz,2300.0,35.04,80600.0,2618.64,Tons,211062000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",101,Sutter,22.0,,,,,
+2021,237999.0,"Berries, Strawberries, Unspecified",111,Ventura,9430.0,,,,,
+2021,237999.0,"Berries, Strawberries, Unspecified",998,Sum of Others,382.0,,,,,20313000.0
+2021,237999.0,"Berries, Strawberries, Unspecified",999,State Total,38255.0,32.69,86659.0,2637.22,,248852000.0
+2021,237299.0,"Berries, Strawberries, Processing",53,Monterey,,,21000.0,686.0,Tons,14406000.0
+2021,237299.0,"Berries, Strawberries, Processing",79,San Luis Obispo,,,30700.0,1238.53,Tons,38023000.0
+2021,237299.0,"Berries, Strawberries, Processing",83,Santa Barbara,,,60300.0,1489.4,Tons,89811000.0
+2021,237299.0,"Berries, Strawberries, Processing",111,Ventura,,,56500.0,1060.87,Tons,59939000.0
+2021,237299.0,"Berries, Strawberries, Processing",999,State Total,,,168500.0,1199.88,Tons,202179000.0
+2021,937999.0,"Biomass, For Energy",47,Merced,,,63100.0,20.0,Tons,1262000.0
+2021,937999.0,"Biomass, For Energy",999,State Total,,,63100.0,20.0,Tons,1262000.0
+2021,218889.0,"Biomass, Orchard",29,Kern,,,220000.0,21.0,Tons,4620000.0
+2021,218889.0,"Biomass, Orchard",47,Merced,,,74200.0,9.47,Tons,703000.0
+2021,218889.0,"Biomass, Orchard",999,State Total,,,294200.0,18.09,Tons,5323000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",53,Monterey,337.0,10.24,3450.0,902.9,Tons,3115000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",71,San Bernardino,211.0,17.68,3730.0,538.61,Tons,2009000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",998,Sum of Others,1800.0,,,,,20580000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",999,State Total,2348.0,13.1,7180.0,713.65,Tons,25704000.0
+2021,307919.0,"Broccoli, Unspecified",25,Imperial,12600.0,5.99,75500.0,1751.36,Tons,132228000.0
+2021,307919.0,"Broccoli, Unspecified",53,Monterey,38900.0,7.12,277000.0,1117.29,Tons,309490000.0
+2021,307919.0,"Broccoli, Unspecified",65,Riverside,2840.0,12.39,35200.0,727.44,Tons,25606000.0
+2021,307919.0,"Broccoli, Unspecified",69,San Benito,3000.0,7.0,21000.0,1199.48,Tons,25189000.0
+2021,307919.0,"Broccoli, Unspecified",71,San Bernardino,2.0,,,,,58300.0
+2021,307919.0,"Broccoli, Unspecified",79,San Luis Obispo,6030.0,7.21,43500.0,1069.52,Tons,46524000.0
+2021,307919.0,"Broccoli, Unspecified",83,Santa Barbara,15100.0,6.95,105000.0,965.44,Tons,101371000.0
+2021,307919.0,"Broccoli, Unspecified",85,Santa Clara,872.0,5.5,4800.0,1229.58,Tons,5902000.0
+2021,307919.0,"Broccoli, Unspecified",107,Tulare,245.0,4.78,1170.0,740.17,Tons,866000.0
+2021,307919.0,"Broccoli, Unspecified",111,Ventura,123.0,10.24,1260.0,2560.32,Tons,3226000.0
+2021,307919.0,"Broccoli, Unspecified",998,Sum of Others,1270.0,,,,,19159000.0
+2021,307919.0,"Broccoli, Unspecified",999,State Total,80982.0,7.08,564430.0,1152.32,Tons,669619300.0
+2021,308999.0,Brussels Sprouts,53,Monterey,6300.0,9.11,57400.0,1840.0,Tons,105616000.0
+2021,308999.0,Brussels Sprouts,71,San Bernardino,1.0,,,,,31400.0
+2021,308999.0,Brussels Sprouts,79,San Luis Obispo,1030.0,9.71,10000.0,1461.8,Tons,14618000.0
+2021,308999.0,Brussels Sprouts,81,San Mateo,457.0,11.16,5100.0,1740.78,Tons,8878000.0
+2021,308999.0,Brussels Sprouts,83,Santa Barbara,1190.0,8.65,10300.0,1706.99,Tons,17582000.0
+2021,308999.0,Brussels Sprouts,87,Santa Cruz,861.0,12.54,10800.0,1342.41,Tons,14498000.0
+2021,308999.0,Brussels Sprouts,111,Ventura,573.0,10.21,5850.0,934.19,Tons,5465000.0
+2021,308999.0,Brussels Sprouts,998,Sum of Others,682.0,,,,,1271000.0
+2021,308999.0,Brussels Sprouts,999,State Total,11094.0,9.55,99450.0,1675.79,Tons,167959400.0
+2021,310999.0,"Cabbage, Head",25,Imperial,2060.0,12.18,25100.0,491.08,Tons,12326000.0
+2021,310999.0,"Cabbage, Head",53,Monterey,4430.0,20.54,91000.0,422.67,Tons,38463000.0
+2021,310999.0,"Cabbage, Head",65,Riverside,561.0,16.22,9100.0,400.0,Tons,3640000.0
+2021,310999.0,"Cabbage, Head",71,San Bernardino,1.0,,,,,73000.0
+2021,310999.0,"Cabbage, Head",79,San Luis Obispo,1290.0,19.84,25600.0,442.81,Tons,11336000.0
+2021,310999.0,"Cabbage, Head",83,Santa Barbara,2340.0,24.36,57000.0,375.37,Tons,21396000.0
+2021,310999.0,"Cabbage, Head",85,Santa Clara,493.0,31.64,15600.0,591.6,Tons,9229000.0
+2021,310999.0,"Cabbage, Head",111,Ventura,2850.0,30.18,86000.0,408.66,Tons,35145000.0
+2021,310999.0,"Cabbage, Head",998,Sum of Others,945.0,,,,,6498000.0
+2021,310999.0,"Cabbage, Head",999,State Total,14970.0,22.06,309400.0,425.13,Tons,138106000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",53,Monterey,472.0,18.71,8830.0,1069.99,Tons,9448000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",71,San Bernardino,336.0,9.17,3080.0,515.91,Tons,1589000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",998,Sum of Others,467.0,,,,,5518000.0
+2021,309999.0,"Cabbage, Chinese & Specialty",999,State Total,1275.0,14.74,11910.0,926.7,Tons,16555000.0
+2021,313999.0,"Carrots, Unspecified",25,Imperial,12900.0,,,,,63391000.0
+2021,313999.0,"Carrots, Unspecified",53,Monterey,2720.0,23.79,64700.0,492.77,Tons,31882000.0
+2021,313999.0,"Carrots, Unspecified",65,Riverside,4190.0,47.97,201000.0,131.0,Tons,26331000.0
+2021,313999.0,"Carrots, Unspecified",69,San Benito,553.0,,,,,2580000.0
+2021,313999.0,"Carrots, Unspecified",71,San Bernardino,1.0,37.0,37.0,2783.78,Tons,103000.0
+2021,313999.0,"Carrots, Unspecified",77,San Joaquin,1100.0,15.46,17000.0,887.24,Tons,15083000.0
+2021,313999.0,"Carrots, Unspecified",93,Siskiyou,345.0,29.57,10200.0,123.33,Tons,1258000.0
+2021,313999.0,"Carrots, Unspecified",111,Ventura,322.0,33.54,10800.0,208.52,Tons,2252000.0
+2021,313999.0,"Carrots, Unspecified",998,Sum of Others,29400.0,,,,,439440000.0
+2021,313999.0,"Carrots, Unspecified",999,State Total,51531.0,35.0,303737.0,253.21,,582320000.0
+2021,,"Cattle, All",1,Alameda,,,,,,11454000.0
+2021,,"Cattle, All",3,Alpine,,,,,,1408000.0
+2021,,"Cattle, All",5,Amador,,,,,,11097000.0
+2021,,"Cattle, All",7,Butte,,,,,,11880000.0
+2021,,"Cattle, All",9,Calaveras,,,,,,7988000.0
+2021,,"Cattle, All",11,Colusa,,,,,,22704000.0
+2021,,"Cattle, All",13,Contra Costa,,,,,,25806000.0
+2021,,"Cattle, All",17,El Dorado,,,,,,9399000.0
+2021,,"Cattle, All",19,Fresno,,,,,,417580000.0
+2021,,"Cattle, All",21,Glenn,,,,,,34014000.0
+2021,,"Cattle, All",25,Imperial,,,,,,464397000.0
+2021,,"Cattle, All",27,Inyo,,,,,,9268000.0
+2021,,"Cattle, All",29,Kern,,,,,,207214000.0
+2021,,"Cattle, All",31,Kings,,,,,,172131000.0
+2021,,"Cattle, All",33,Lake,,,,,,1230000.0
+2021,,"Cattle, All",39,Madera,,,,,,82766000.0
+2021,,"Cattle, All",41,Marin,,,,,,13900000.0
+2021,,"Cattle, All",43,Mariposa,,,,,,25062000.0
+2021,,"Cattle, All",45,Mendocino,,,,,,17498000.0
+2021,,"Cattle, All",47,Merced,,,,,,258246000.0
+2021,,"Cattle, All",49,Modoc,,,,,,82598000.0
+2021,,"Cattle, All",51,Mono,,,,,,10148000.0
+2021,,"Cattle, All",53,Monterey,,,,,,84941000.0
+2021,,"Cattle, All",55,Napa,,,,,,1388000.0
+2021,,"Cattle, All",57,Nevada,,,,,,7611000.0
+2021,,"Cattle, All",61,Placer,,,,,,11872000.0
+2021,,"Cattle, All",63,Plumas,,,,,,11668000.0
+2021,,"Cattle, All",65,Riverside,,,,,,11500000.0
+2021,,"Cattle, All",67,Sacramento,,,,,,15604000.0
+2021,,"Cattle, All",69,San Benito,,,,,,21489000.0
+2021,,"Cattle, All",71,San Bernardino,,,,,,78957000.0
+2021,,"Cattle, All",73,San Diego,,,,,,13992000.0
+2021,,"Cattle, All",77,San Joaquin,,,,,,111616000.0
+2021,,"Cattle, All",79,San Luis Obispo,,,,,,39754000.0
+2021,,"Cattle, All",81,San Mateo,,,,,,2924000.0
+2021,,"Cattle, All",83,Santa Barbara,,,,,,27743000.0
+2021,,"Cattle, All",85,Santa Clara,,,,,,4257000.0
+2021,,"Cattle, All",89,Shasta,,,,,,15936000.0
+2021,,"Cattle, All",91,Sierra,,,,,,5424000.0
+2021,,"Cattle, All",93,Siskiyou,,,,,,43899000.0
+2021,,"Cattle, All",95,Solano,,,,,,31882000.0
+2021,,"Cattle, All",97,Sonoma,,,,,,20516000.0
+2021,,"Cattle, All",99,Stanislaus,,,,,,161971000.0
+2021,,"Cattle, All",101,Sutter,,,,,,2906000.0
+2021,,"Cattle, All",103,Tehama,,,,,,29088000.0
+2021,,"Cattle, All",107,Tulare,,,,,,633600000.0
+2021,,"Cattle, All",109,Tuolumne,,,,,,5697000.0
+2021,,"Cattle, All",113,Yolo,,,,,,14811000.0
+2021,,"Cattle, All",998,Sum of Others,,,,,,663000.0
+2021,,"Cattle, All",999,State Total,,,,,,3309497000.0
+2021,,"Cattle, Beef, All",19,Fresno,,,,,,38946000.0
+2021,,"Cattle, Beef, All",21,Glenn,,,,,,8178000.0
+2021,,"Cattle, Beef, All",49,Modoc,,,,,,11798000.0
+2021,,"Cattle, Beef, All",53,Monterey,,,,,,60060000.0
+2021,,"Cattle, Beef, All",63,Plumas,,,,,,348000.0
+2021,,"Cattle, Beef, All",91,Sierra,,,,,,158000.0
+2021,,"Cattle, Beef, All",103,Tehama,,,,,,15630000.0
+2021,,"Cattle, Beef, All",109,Tuolumne,,,,,,464000.0
+2021,,"Cattle, Beef, All",999,State Total,,,,,,135582000.0
+2021,404499.0,"Cattle, Beef Cows, Cull",49,Modoc,,,,,,3932000.0
+2021,404499.0,"Cattle, Beef Cows, Cull",63,Plumas,,,,,,348000.0
+2021,404499.0,"Cattle, Beef Cows, Cull",91,Sierra,,,,,,158000.0
+2021,404499.0,"Cattle, Beef Cows, Cull",103,Tehama,,,,,,3511000.0
+2021,404499.0,"Cattle, Beef Cows, Cull",109,Tuolumne,,,,,,464000.0
+2021,404499.0,"Cattle, Beef Cows, Cull",999,State Total,,,,,,8413000.0
+2021,403699.0,"Cattle, Calves, Veal",19,Fresno,,,,,,17230000.0
+2021,403699.0,"Cattle, Calves, Veal",999,State Total,,,,,,17230000.0
+2021,404599.0,"Cattle, Stockers, Feeders",19,Fresno,,,,,,21716000.0
+2021,404599.0,"Cattle, Stockers, Feeders",21,Glenn,,,,,,8178000.0
+2021,404599.0,"Cattle, Stockers, Feeders",49,Modoc,,,,,,7866000.0
+2021,404599.0,"Cattle, Stockers, Feeders",53,Monterey,,,,,,60060000.0
+2021,404599.0,"Cattle, Stockers, Feeders",103,Tehama,,,,,,12119000.0
+2021,404599.0,"Cattle, Stockers, Feeders",999,State Total,,,,,,109939000.0
+2021,,"Cattle, Dairy, All",19,Fresno,,,,,,191873000.0
+2021,,"Cattle, Dairy, All",21,Glenn,,,,,,20250000.0
+2021,,"Cattle, Dairy, All",39,Madera,,,,,,31008000.0
+2021,,"Cattle, Dairy, All",71,San Bernardino,,,,,,50566000.0
+2021,,"Cattle, Dairy, All",103,Tehama,,,,,,1477000.0
+2021,,"Cattle, Dairy, All",999,State Total,,,,,,295174000.0
+2021,403499.0,"Cattle, Milk Cows",21,Glenn,,,,,,20250000.0
+2021,403499.0,"Cattle, Milk Cows",999,State Total,,,,,,20250000.0
+2021,403599.0,"Cattle, Milk Cows, Cull",19,Fresno,,,,,,23912000.0
+2021,403599.0,"Cattle, Milk Cows, Cull",71,San Bernardino,,,,,,27550000.0
+2021,403599.0,"Cattle, Milk Cows, Cull",999,State Total,,,,,,51462000.0
+2021,403299.0,"Cattle, Dairy Cows, Breeding",19,Fresno,,,,,,167961000.0
+2021,403299.0,"Cattle, Dairy Cows, Breeding",103,Tehama,,,,,,1477000.0
+2021,403299.0,"Cattle, Dairy Cows, Breeding",999,State Total,,,,,,169438000.0
+2021,403399.0,"Cattle, Dairy Heifers, Replacement",39,Madera,,,,,,31008000.0
+2021,403399.0,"Cattle, Dairy Heifers, Replacement",71,San Bernardino,,,,,,23016000.0
+2021,403399.0,"Cattle, Dairy Heifers, Replacement",999,State Total,,,,,,54024000.0
+2021,404699.0,"Cattle, Heifers & Steers, Fed",19,Fresno,,,,,,186761000.0
+2021,404699.0,"Cattle, Heifers & Steers, Fed",25,Imperial,,,,,,464397000.0
+2021,404699.0,"Cattle, Heifers & Steers, Fed",93,Siskiyou,,,,,,19609000.0
+2021,404699.0,"Cattle, Heifers & Steers, Fed",103,Tehama,,,,,,6202000.0
+2021,404699.0,"Cattle, Heifers & Steers, Fed",999,State Total,,,,,,676969000.0
+2021,409999.0,"Cattle & Calves, Unspecified",1,Alameda,,,,,,11454000.0
+2021,409999.0,"Cattle & Calves, Unspecified",3,Alpine,,,,,,1408000.0
+2021,409999.0,"Cattle & Calves, Unspecified",5,Amador,,,,,,11097000.0
+2021,409999.0,"Cattle & Calves, Unspecified",7,Butte,,,,,,11880000.0
+2021,409999.0,"Cattle & Calves, Unspecified",9,Calaveras,,,,,,7988000.0
+2021,409999.0,"Cattle & Calves, Unspecified",11,Colusa,,,,,,22704000.0
+2021,409999.0,"Cattle & Calves, Unspecified",13,Contra Costa,,,,,,25806000.0
+2021,409999.0,"Cattle & Calves, Unspecified",17,El Dorado,,,,,,9399000.0
+2021,409999.0,"Cattle & Calves, Unspecified",21,Glenn,,,,,,5586000.0
+2021,409999.0,"Cattle & Calves, Unspecified",27,Inyo,,,,,,9268000.0
+2021,409999.0,"Cattle & Calves, Unspecified",29,Kern,,,,,,207214000.0
+2021,409999.0,"Cattle & Calves, Unspecified",31,Kings,,,,,,172131000.0
+2021,409999.0,"Cattle & Calves, Unspecified",33,Lake,,,,,,1230000.0
+2021,409999.0,"Cattle & Calves, Unspecified",39,Madera,,,,,,51758000.0
+2021,409999.0,"Cattle & Calves, Unspecified",41,Marin,,,,,,13900000.0
+2021,409999.0,"Cattle & Calves, Unspecified",43,Mariposa,,,,,,25062000.0
+2021,409999.0,"Cattle & Calves, Unspecified",45,Mendocino,,,,,,17498000.0
+2021,409999.0,"Cattle & Calves, Unspecified",47,Merced,,,,,,258246000.0
+2021,409999.0,"Cattle & Calves, Unspecified",49,Modoc,,,,,,70800000.0
+2021,409999.0,"Cattle & Calves, Unspecified",51,Mono,,,,,,10148000.0
+2021,409999.0,"Cattle & Calves, Unspecified",53,Monterey,,,,,,24881000.0
+2021,409999.0,"Cattle & Calves, Unspecified",55,Napa,,,,,,1388000.0
+2021,409999.0,"Cattle & Calves, Unspecified",57,Nevada,,,,,,7611000.0
+2021,409999.0,"Cattle & Calves, Unspecified",61,Placer,,,,,,11872000.0
+2021,409999.0,"Cattle & Calves, Unspecified",63,Plumas,,,,,,11320000.0
+2021,409999.0,"Cattle & Calves, Unspecified",65,Riverside,,,,,,11500000.0
+2021,409999.0,"Cattle & Calves, Unspecified",67,Sacramento,,,,,,15604000.0
+2021,409999.0,"Cattle & Calves, Unspecified",69,San Benito,,,,,,21489000.0
+2021,409999.0,"Cattle & Calves, Unspecified",71,San Bernardino,,,,,,28391000.0
+2021,409999.0,"Cattle & Calves, Unspecified",73,San Diego,,,,,,13992000.0
+2021,409999.0,"Cattle & Calves, Unspecified",77,San Joaquin,,,,,,111616000.0
+2021,409999.0,"Cattle & Calves, Unspecified",79,San Luis Obispo,,,,,,39754000.0
+2021,409999.0,"Cattle & Calves, Unspecified",81,San Mateo,,,,,,2924000.0
+2021,409999.0,"Cattle & Calves, Unspecified",83,Santa Barbara,,,,,,27743000.0
+2021,409999.0,"Cattle & Calves, Unspecified",85,Santa Clara,,,,,,4257000.0
+2021,409999.0,"Cattle & Calves, Unspecified",89,Shasta,,,,,,15936000.0
+2021,409999.0,"Cattle & Calves, Unspecified",91,Sierra,,,,,,5266000.0
+2021,409999.0,"Cattle & Calves, Unspecified",93,Siskiyou,,,,,,24290000.0
+2021,409999.0,"Cattle & Calves, Unspecified",95,Solano,,,,,,31882000.0
+2021,409999.0,"Cattle & Calves, Unspecified",97,Sonoma,,,,,,20516000.0
+2021,409999.0,"Cattle & Calves, Unspecified",99,Stanislaus,,,,,,161971000.0
+2021,409999.0,"Cattle & Calves, Unspecified",101,Sutter,,,,,,2906000.0
+2021,409999.0,"Cattle & Calves, Unspecified",103,Tehama,,,,,,5778000.0
+2021,409999.0,"Cattle & Calves, Unspecified",107,Tulare,,,,,,633600000.0
+2021,409999.0,"Cattle & Calves, Unspecified",109,Tuolumne,,,,,,5233000.0
+2021,409999.0,"Cattle & Calves, Unspecified",113,Yolo,,,,,,14811000.0
+2021,409999.0,"Cattle & Calves, Unspecified",998,Sum of Others,,,,,,663000.0
+2021,409999.0,"Cattle & Calves, Unspecified",999,State Total,,,,,,2201771000.0
+2021,314999.0,"Cauliflower, Unspecified",25,Imperial,5740.0,14.15,81200.0,744.78,Tons,60476000.0
+2021,314999.0,"Cauliflower, Unspecified",53,Monterey,18400.0,9.84,181000.0,861.78,Tons,155983000.0
+2021,314999.0,"Cauliflower, Unspecified",65,Riverside,1380.0,7.39,10200.0,1300.69,Tons,13267000.0
+2021,314999.0,"Cauliflower, Unspecified",79,San Luis Obispo,3200.0,10.81,34600.0,701.5,Tons,24272000.0
+2021,314999.0,"Cauliflower, Unspecified",83,Santa Barbara,12500.0,8.08,101000.0,795.04,Tons,80299000.0
+2021,314999.0,"Cauliflower, Unspecified",998,Sum of Others,1050.0,,,,,8874000.0
+2021,314999.0,"Cauliflower, Unspecified",999,State Total,42270.0,9.9,408000.0,819.36,Tons,343171000.0
+2021,316999.0,"Celery, Unspecified",53,Monterey,9860.0,34.58,341000.0,430.03,Tons,146641000.0
+2021,316999.0,"Celery, Unspecified",65,Riverside,804.0,23.13,18600.0,400.43,Tons,7448000.0
+2021,316999.0,"Celery, Unspecified",69,San Benito,557.0,32.5,18100.0,320.06,Tons,5793000.0
+2021,316999.0,"Celery, Unspecified",79,San Luis Obispo,1010.0,28.02,28300.0,337.21,Tons,9543000.0
+2021,316999.0,"Celery, Unspecified",83,Santa Barbara,5990.0,25.71,154000.0,404.73,Tons,62328000.0
+2021,316999.0,"Celery, Unspecified",111,Ventura,14300.0,31.96,457000.0,248.05,Tons,113358000.0
+2021,316999.0,"Celery, Unspecified",998,Sum of Others,1570.0,,,,,25251000.0
+2021,316999.0,"Celery, Unspecified",999,State Total,34091.0,31.27,1017000.0,339.34,Tons,370362000.0
+2021,376999.0,Swiss Chard,53,Monterey,1040.0,5.06,5260.0,2289.92,Tons,12045000.0
+2021,376999.0,Swiss Chard,998,Sum of Others,4280.0,,,,,19619000.0
+2021,376999.0,Swiss Chard,999,State Total,5320.0,5.06,5260.0,2289.92,Tons,31664000.0
+2021,213199.0,"Cherries, Sweet",13,Contra Costa,1010.0,1.76,1780.0,4327.53,Tons,7703000.0
+2021,213199.0,"Cherries, Sweet",17,El Dorado,50.0,0.92,46.0,7000.0,Tons,322000.0
+2021,213199.0,"Cherries, Sweet",19,Fresno,4460.0,3.3,14700.0,3688.98,Tons,54228000.0
+2021,213199.0,"Cherries, Sweet",29,Kern,3230.0,3.16,10200.0,3846.76,Tons,39237000.0
+2021,213199.0,"Cherries, Sweet",31,Kings,2060.0,3.8,7830.0,3690.93,Tons,28900000.0
+2021,213199.0,"Cherries, Sweet",39,Madera,590.0,4.2,2480.0,4696.37,Tons,11647000.0
+2021,213199.0,"Cherries, Sweet",65,Riverside,10.0,1.0,10.0,3710.0,Tons,37100.0
+2021,213199.0,"Cherries, Sweet",67,Sacramento,1490.0,4.22,6280.0,3273.41,Tons,20557000.0
+2021,213199.0,"Cherries, Sweet",69,San Benito,510.0,5.55,2830.0,1305.3,Tons,3694000.0
+2021,213199.0,"Cherries, Sweet",77,San Joaquin,20400.0,4.02,81900.0,3907.07,Tons,319989000.0
+2021,213199.0,"Cherries, Sweet",85,Santa Clara,888.0,2.65,2350.0,3076.17,Tons,7229000.0
+2021,213199.0,"Cherries, Sweet",99,Stanislaus,3600.0,,,,,59735000.0
+2021,213199.0,"Cherries, Sweet",107,Tulare,3120.0,1.77,5520.0,3559.96,Tons,19651000.0
+2021,213199.0,"Cherries, Sweet",998,Sum of Others,2700.0,,,,,26541000.0
+2021,213199.0,"Cherries, Sweet",999,State Total,44118.0,3.59,135926.0,3775.54,Tons,599470100.0
+2021,,"Chickens, All",47,Merced,,,,,,276215000.0
+2021,,"Chickens, All",71,San Bernardino,,,,,,1772000.0
+2021,,"Chickens, All",73,San Diego,,,,,,3980000.0
+2021,,"Chickens, All",77,San Joaquin,,,,,,2224000.0
+2021,,"Chickens, All",998,Sum of Others,,,,,,485097000.0
+2021,,"Chickens, All",999,State Total,,,,,,769288000.0
+2021,604999.0,"Chickens, Broilers, Fryers",47,Merced,,,,,,276215000.0
+2021,604999.0,"Chickens, Broilers, Fryers",77,San Joaquin,,,,,,2224000.0
+2021,604999.0,"Chickens, Broilers, Fryers",998,Sum of Others,,,,,,784000.0
+2021,604999.0,"Chickens, Broilers, Fryers",999,State Total,,,,,,279223000.0
+2021,601269.0,"Chickens, Pullets, Laying",71,San Bernardino,,,,,,1772000.0
+2021,601269.0,"Chickens, Pullets, Laying",999,State Total,,,,,,1772000.0
+2021,609999.0,"Chickens, Unspecified",73,San Diego,,,,,,3980000.0
+2021,609999.0,"Chickens, Unspecified",998,Sum of Others,,,,,,484313000.0
+2021,609999.0,"Chickens, Unspecified",999,State Total,,,,,,488293000.0
+2021,851999.0,Christmas Trees & Cut Greens,45,Mendocino,,,,,,16000.0
+2021,851999.0,Christmas Trees & Cut Greens,57,Nevada,,,,,,89000.0
+2021,851999.0,Christmas Trees & Cut Greens,71,San Bernardino,4.0,,,,,49900.0
+2021,851999.0,Christmas Trees & Cut Greens,81,San Mateo,167.0,,,,,499000.0
+2021,851999.0,Christmas Trees & Cut Greens,85,Santa Clara,261.0,,,,,446000.0
+2021,851999.0,Christmas Trees & Cut Greens,89,Shasta,,,,,,52000.0
+2021,851999.0,Christmas Trees & Cut Greens,93,Siskiyou,,,,,,222000.0
+2021,851999.0,Christmas Trees & Cut Greens,97,Sonoma,,,,,,202000.0
+2021,851999.0,Christmas Trees & Cut Greens,998,Sum of Others,15.0,,,,,454000.0
+2021,851999.0,Christmas Trees & Cut Greens,999,State Total,447.0,,,,,2029900.0
+2021,939999.0,"Forest Products, Unspecified",17,El Dorado,,,,,,1837000.0
+2021,939999.0,"Forest Products, Unspecified",21,Glenn,,,,,,13000.0
+2021,939999.0,"Forest Products, Unspecified",49,Modoc,,,,,,1540.0
+2021,939999.0,"Forest Products, Unspecified",61,Placer,,,,,,315000.0
+2021,939999.0,"Forest Products, Unspecified",63,Plumas,,,,,,94800.0
+2021,939999.0,"Forest Products, Unspecified",65,Riverside,2.0,,,,,50000.0
+2021,939999.0,"Forest Products, Unspecified",91,Sierra,,,,,,19800.0
+2021,939999.0,"Forest Products, Unspecified",999,State Total,2.0,,,,,2331140.0
+2021,939999.0,"Forest Products, Unspecified",9,Calaveras,,,,,,1220.0
+2021,939999.0,"Forest Products, Unspecified",17,El Dorado,,,,,,36500.0
+2021,939999.0,"Forest Products, Unspecified",999,State Total,,,,,,37720.0
+2021,398559.0,Cilantro,53,Monterey,1280.0,7.16,9160.0,1189.96,Tons,10900000.0
+2021,398559.0,Cilantro,79,San Luis Obispo,1300.0,6.81,8850.0,1148.14,Tons,10161000.0
+2021,398559.0,Cilantro,111,Ventura,3680.0,9.56,35200.0,688.35,Tons,24230000.0
+2021,398559.0,Cilantro,998,Sum of Others,1480.0,,,,,15223000.0
+2021,398559.0,Cilantro,999,State Total,7740.0,8.5,53210.0,851.18,Tons,60514000.0
+2021,,"Citrus, All",7,Butte,150.0,,,,,1287000.0
+2021,,"Citrus, All",19,Fresno,61400.0,,,,,518151000.0
+2021,,"Citrus, All",53,Monterey,1320.0,,,,,35604000.0
+2021,,"Citrus, All",61,Placer,274.0,,,,,4028000.0
+2021,,"Citrus, All",65,Riverside,19400.0,,,,,127473000.0
+2021,,"Citrus, All",79,San Luis Obispo,2040.0,,,,,18583000.0
+2021,,"Citrus, All",83,Santa Barbara,1520.0,,,,,13632000.0
+2021,,"Citrus, All",99,Stanislaus,586.0,,,,,4831000.0
+2021,,"Citrus, All",107,Tulare,136000.0,,,,,2035775000.0
+2021,,"Citrus, All",111,Ventura,23000.0,,,,,282435000.0
+2021,,"Citrus, All",998,Sum of Others,91800.0,,,,,1573268000.0
+2021,,"Citrus, All",999,State Total,337490.0,,,,,4615067000.0
+2021,209999.0,"Citrus, Unspecified",7,Butte,150.0,4.7,705.0,1825.53,Tons,1287000.0
+2021,209999.0,"Citrus, Unspecified",19,Fresno,2070.0,16.14,33400.0,610.99,Tons,20407000.0
+2021,209999.0,"Citrus, Unspecified",65,Riverside,1700.0,10.12,17200.0,11.98,Tons,206000.0
+2021,209999.0,"Citrus, Unspecified",71,San Bernardino,16.0,7.38,118.0,2771.19,Tons,327000.0
+2021,209999.0,"Citrus, Unspecified",99,Stanislaus,586.0,,,,,4831000.0
+2021,209999.0,"Citrus, Unspecified",998,Sum of Others,319.0,,,,,1772000.0
+2021,209999.0,"Citrus, Unspecified",999,State Total,4841.0,13.06,51423.0,432.24,Tons,28830000.0
+2021,208059.0,"Citrus, By-Products, Misc.",25,Imperial,,,,,,2117000.0
+2021,208059.0,"Citrus, By-Products, Misc.",29,Kern,,,558000.0,30.24,Tons,16874000.0
+2021,208059.0,"Citrus, By-Products, Misc.",999,State Total,,,558000.0,30.24,,18991000.0
+2021,,"Corn, All",11,Colusa,2550.0,,,,,4346000.0
+2021,,"Corn, All",19,Fresno,25500.0,,,,,36600000.0
+2021,,"Corn, All",21,Glenn,10400.0,,,,,16202000.0
+2021,,"Corn, All",31,Kings,45000.0,,,,,79294000.0
+2021,,"Corn, All",47,Merced,92200.0,,,,,142472000.0
+2021,,"Corn, All",65,Riverside,780.0,,,,,1605000.0
+2021,,"Corn, All",67,Sacramento,21000.0,,,,,27490000.0
+2021,,"Corn, All",71,San Bernardino,1100.0,,,,,1038000.0
+2021,,"Corn, All",77,San Joaquin,65500.0,,,,,73020000.0
+2021,,"Corn, All",95,Solano,2290.0,,,,,2644000.0
+2021,,"Corn, All",97,Sonoma,99.0,,,,,86400.0
+2021,,"Corn, All",99,Stanislaus,55700.0,,,,,94190000.0
+2021,,"Corn, All",101,Sutter,5630.0,,,,,7020000.0
+2021,,"Corn, All",107,Tulare,121000.0,,,,,181792000.0
+2021,,"Corn, All",113,Yolo,4730.0,,,,,7270000.0
+2021,,"Corn, All",998,Sum of Others,50800.0,,,,,77167000.0
+2021,,"Corn, All",999,State Total,504279.0,,,,,752236400.0
+2021,111991.0,"Corn, Grain",11,Colusa,2550.0,7.18,18300.0,237.49,Tons,4346000.0
+2021,111991.0,"Corn, Grain",21,Glenn,9860.0,6.55,64600.0,239.91,Tons,15498000.0
+2021,111991.0,"Corn, Grain",47,Merced,3560.0,4.47,15900.0,354.91,Tons,5643000.0
+2021,111991.0,"Corn, Grain",67,Sacramento,12300.0,5.69,70000.0,235.46,Tons,16482000.0
+2021,111991.0,"Corn, Grain",77,San Joaquin,18100.0,4.92,89000.0,221.63,Tons,19725000.0
+2021,111991.0,"Corn, Grain",95,Solano,2290.0,6.03,13800.0,191.59,Tons,2644000.0
+2021,111991.0,"Corn, Grain",101,Sutter,5630.0,6.93,39000.0,180.0,Tons,7020000.0
+2021,111991.0,"Corn, Grain",103,Tehama,502.0,6.22,3120.0,207.37,Tons,647000.0
+2021,111991.0,"Corn, Grain",107,Tulare,1270.0,4.62,5870.0,342.08,Tons,2008000.0
+2021,111991.0,"Corn, Grain",113,Yolo,4730.0,6.89,32600.0,223.01,Tons,7270000.0
+2021,111991.0,"Corn, Grain",998,Sum of Others,8640.0,,,,,8029000.0
+2021,111991.0,"Corn, Grain",999,State Total,69432.0,5.79,352190.0,230.79,Tons,89312000.0
+2021,111992.0,"Corn, Silage",19,Fresno,25500.0,23.53,600000.0,61.0,Tons,36600000.0
+2021,111992.0,"Corn, Silage",21,Glenn,518.0,22.97,11900.0,59.16,Tons,704000.0
+2021,111992.0,"Corn, Silage",31,Kings,45000.0,25.31,1139000.0,69.62,Tons,79294000.0
+2021,111992.0,"Corn, Silage",39,Madera,16700.0,27.13,453000.0,62.01,Tons,28090000.0
+2021,111992.0,"Corn, Silage",47,Merced,88700.0,26.94,2390000.0,57.25,Tons,136829000.0
+2021,111992.0,"Corn, Silage",65,Riverside,780.0,30.0,23400.0,68.59,Tons,1605000.0
+2021,111992.0,"Corn, Silage",67,Sacramento,8760.0,26.48,232000.0,47.45,Tons,11008000.0
+2021,111992.0,"Corn, Silage",71,San Bernardino,1100.0,15.91,17500.0,59.31,Tons,1038000.0
+2021,111992.0,"Corn, Silage",77,San Joaquin,47400.0,27.57,1307000.0,40.78,Tons,53295000.0
+2021,111992.0,"Corn, Silage",97,Sonoma,99.0,14.54,1440.0,60.0,Tons,86400.0
+2021,111992.0,"Corn, Silage",99,Stanislaus,55700.0,27.25,1518000.0,62.05,Tons,94190000.0
+2021,111992.0,"Corn, Silage",107,Tulare,120000.0,22.0,2640000.0,68.1,Tons,179784000.0
+2021,111992.0,"Corn, Silage",998,Sum of Others,25000.0,,,,,40402000.0
+2021,111992.0,"Corn, Silage",999,State Total,435257.0,25.19,10333240.0,60.24,Tons,662925400.0
+2021,323999.0,"Corn, Sweet, All",13,Contra Costa,3040.0,10.86,33000.0,573.24,Tons,18917000.0
+2021,323999.0,"Corn, Sweet, All",19,Fresno,6480.0,7.41,48000.0,691.0,Tons,33168000.0
+2021,323999.0,"Corn, Sweet, All",25,Imperial,8050.0,9.24,74400.0,412.63,Tons,30700000.0
+2021,323999.0,"Corn, Sweet, All",65,Riverside,2280.0,9.47,21600.0,711.76,Tons,15374000.0
+2021,323999.0,"Corn, Sweet, All",71,San Bernardino,73.0,5.67,414.0,533.82,Tons,221000.0
+2021,323999.0,"Corn, Sweet, All",77,San Joaquin,3600.0,4.5,16200.0,219.75,Tons,3560000.0
+2021,323999.0,"Corn, Sweet, All",85,Santa Clara,1140.0,10.61,12100.0,606.61,Tons,7340000.0
+2021,323999.0,"Corn, Sweet, All",107,Tulare,133.0,11.28,1500.0,686.67,Tons,1030000.0
+2021,323999.0,"Corn, Sweet, All",998,Sum of Others,196.0,,,,,369000.0
+2021,323999.0,"Corn, Sweet, All",999,State Total,24992.0,8.36,207214.0,532.35,Tons,110679000.0
+2021,,"Cotton, Lint, All",21,Glenn,1900.0,0.75,1420.0,1403.52,Tons,1993000.0
+2021,,"Cotton, Lint, All",25,Imperial,2830.0,0.71,2000.0,2042.5,Tons,4085000.0
+2021,,"Cotton, Lint, All",29,Kern,8610.0,0.77,6650.0,4484.06,Tons,29819000.0
+2021,,"Cotton, Lint, All",31,Kings,44900.0,0.83,37100.0,4424.58,Tons,164152000.0
+2021,,"Cotton, Lint, All",47,Merced,20300.0,0.78,15800.0,4918.48,Tons,77712000.0
+2021,,"Cotton, Lint, All",65,Riverside,7060.0,,,,,9928000.0
+2021,,"Cotton, Lint, All",107,Tulare,11100.0,1.01,11200.0,2223.93,Tons,24908000.0
+2021,,"Cotton, Lint, All",998,Sum of Others,40700.0,,,,,128410000.0
+2021,,"Cotton, Lint, All",999,State Total,137400.0,0.83,74170.0,4080.75,Tons,441007000.0
+2021,121299.0,"Cotton Lint, Unspecified",107,Tulare,11100.0,1.01,11200.0,2223.93,Tons,24908000.0
+2021,121299.0,"Cotton Lint, Unspecified",998,Sum of Others,270.0,,,,,382000.0
+2021,121299.0,"Cotton Lint, Unspecified",999,State Total,11370.0,1.01,11200.0,2223.93,Tons,25290000.0
+2021,121229.0,"Cotton Lint, Pima",19,Fresno,37900.0,0.73,27700.0,4403.18,Tons,121968000.0
+2021,121229.0,"Cotton Lint, Pima",29,Kern,7660.0,0.75,5750.0,4758.96,Tons,27364000.0
+2021,121229.0,"Cotton Lint, Pima",31,Kings,37600.0,0.81,30400.0,4921.05,Tons,149600000.0
+2021,121229.0,"Cotton Lint, Pima",47,Merced,14400.0,0.76,11000.0,5592.46,Tons,61517000.0
+2021,121229.0,"Cotton Lint, Pima",998,Sum of Others,250.0,,,,,803000.0
+2021,121229.0,"Cotton Lint, Pima",999,State Total,97810.0,0.77,74850.0,4815.62,Tons,361252000.0
+2021,121219.0,"Cotton Lint, Upland",19,Fresno,2240.0,0.76,1700.0,3092.35,Tons,5257000.0
+2021,121219.0,"Cotton Lint, Upland",21,Glenn,1900.0,0.75,1420.0,1403.52,Tons,1993000.0
+2021,121219.0,"Cotton Lint, Upland",25,Imperial,2830.0,0.71,2000.0,2042.5,Tons,4085000.0
+2021,121219.0,"Cotton Lint, Upland",29,Kern,947.0,0.95,900.0,2727.78,Tons,2455000.0
+2021,121219.0,"Cotton Lint, Upland",31,Kings,7380.0,0.91,6740.0,2159.05,Tons,14552000.0
+2021,121219.0,"Cotton Lint, Upland",47,Merced,5900.0,0.81,4770.0,3395.18,Tons,16195000.0
+2021,121219.0,"Cotton Lint, Upland",65,Riverside,7060.0,,,,,9928000.0
+2021,121219.0,"Cotton Lint, Upland",999,State Total,28257.0,0.83,17530.0,2540.62,Tons,54465000.0
+2021,151999.0,"Seed, Cottonseed",19,Fresno,,,40800.0,450.56,Tons,18383000.0
+2021,151999.0,"Seed, Cottonseed",21,Glenn,,,2480.0,399.19,Tons,990000.0
+2021,151999.0,"Seed, Cottonseed",25,Imperial,,,2790.0,421.86,Tons,1177000.0
+2021,151999.0,"Seed, Cottonseed",29,Kern,,,9200.0,480.11,Tons,4417000.0
+2021,151999.0,"Seed, Cottonseed",31,Kings,,,61900.0,418.85,Tons,25927000.0
+2021,151999.0,"Seed, Cottonseed",47,Merced,,,9840.0,420.43,Tons,4137000.0
+2021,151999.0,"Seed, Cottonseed",65,Riverside,,,,,,3309000.0
+2021,151999.0,"Seed, Cottonseed",107,Tulare,,,18100.0,276.02,Tons,4996000.0
+2021,151999.0,"Seed, Cottonseed",998,Sum of Others,,,,,,107000.0
+2021,151999.0,"Seed, Cottonseed",999,State Total,,,145110.0,413.66,Tons,63443000.0
+2021,325999.0,Cucumbers,71,San Bernardino,5.0,6.8,34.0,8823.53,Tons,300000.0
+2021,325999.0,Cucumbers,73,San Diego,65.0,10.34,672.0,1687.5,,1134000.0
+2021,325999.0,Cucumbers,77,San Joaquin,3310.0,8.4,27800.0,293.27,Tons,8153000.0
+2021,325999.0,Cucumbers,111,Ventura,21.0,93.81,1970.0,1715.74,Tons,3380000.0
+2021,325999.0,Cucumbers,998,Sum of Others,76.0,,,,,1312000.0
+2021,325999.0,Cucumbers,999,State Total,3477.0,8.96,30476.0,425.48,Tons,14279000.0
+2021,224999.0,Dates,25,Imperial,3120.0,4.01,12500.0,2093.28,Tons,26166000.0
+2021,224999.0,Dates,65,Riverside,9000.0,,,,,83720000.0
+2021,224999.0,Dates,998,Sum of Others,31.0,,,,,100000.0
+2021,224999.0,Dates,999,State Total,12151.0,4.01,12500.0,2093.28,Tons,109986000.0
+2021,330999.0,"Eggplant, All",19,Fresno,830.0,12.65,10500.0,983.05,Tons,10322000.0
+2021,330999.0,"Eggplant, All",65,Riverside,265.0,17.51,4640.0,1149.35,Tons,5333000.0
+2021,330999.0,"Eggplant, All",998,Sum of Others,56.0,,,,,516000.0
+2021,330999.0,"Eggplant, All",999,State Total,1151.0,13.83,15140.0,1034.02,Tons,16171000.0
+2021,,"Eggs, Chicken, All",47,Merced,,,,,,69404000.0
+2021,,"Eggs, Chicken, All",57,Nevada,,,,,,163000.0
+2021,,"Eggs, Chicken, All",65,Riverside,,,,,,69377000.0
+2021,,"Eggs, Chicken, All",71,San Bernardino,,,,,,8251000.0
+2021,,"Eggs, Chicken, All",77,San Joaquin,,,,,,207583000.0
+2021,,"Eggs, Chicken, All",95,Solano,,,,,,581000.0
+2021,,"Eggs, Chicken, All",99,Stanislaus,,,,,,36157000.0
+2021,,"Eggs, Chicken, All",998,Sum of Others,,,,,,47524000.0
+2021,,"Eggs, Chicken, All",999,State Total,,,,,,439040000.0
+2021,651199.0,"Eggs, Chicken, Market",47,Merced,,,61284000.0,1.13,Doz,69404000.0
+2021,651199.0,"Eggs, Chicken, Market",65,Riverside,,,37100000.0,1.87,Doz,69377000.0
+2021,651199.0,"Eggs, Chicken, Market",99,Stanislaus,,,36357000.0,0.99,Doz,36157000.0
+2021,651199.0,"Eggs, Chicken, Market",999,State Total,,,134741000.0,1.3,Doz,174938000.0
+2021,651999.0,"Eggs, Chicken, Unspecified",57,Nevada,,,22300.0,7.31,doz,163000.0
+2021,651999.0,"Eggs, Chicken, Unspecified",71,San Bernardino,,,5302000.0,1.56,Doz,8251000.0
+2021,651999.0,"Eggs, Chicken, Unspecified",77,San Joaquin,,,59020000.0,3.52,Doz,207583000.0
+2021,651999.0,"Eggs, Chicken, Unspecified",95,Solano,,,112000.0,5.19,Doz,581000.0
+2021,651999.0,"Eggs, Chicken, Unspecified",998,Sum of Others,,,,,,47524000.0
+2021,651999.0,"Eggs, Chicken, Unspecified",999,State Total,,,64456300.0,3.36,doz,264102000.0
+2021,659999.0,"Eggs, Unspecified",27,Inyo,,,2100.0,5.95,Doz,12500.0
+2021,659999.0,"Eggs, Unspecified",29,Kern,,,,,,91564000.0
+2021,659999.0,"Eggs, Unspecified",63,Plumas,,,5020.0,4.64,Doz,23300.0
+2021,659999.0,"Eggs, Unspecified",99,Stanislaus,,,,,,3683000.0
+2021,659999.0,"Eggs, Unspecified",103,Tehama,,,,,,2443000.0
+2021,659999.0,"Eggs, Unspecified",998,Sum of Others,,,,,,136000.0
+2021,659999.0,"Eggs, Unspecified",999,State Total,,,7120.0,5.03,Doz,97861800.0
+2021,331999.0,"Endive, All",53,Monterey,288.0,10.1,2910.0,914.43,Tons,2661000.0
+2021,331999.0,"Endive, All",999,State Total,288.0,10.1,2910.0,914.43,Tons,2661000.0
+2021,332999.0,"Escarole, All",53,Monterey,155.0,10.19,1580.0,1032.91,Tons,1632000.0
+2021,332999.0,"Escarole, All",999,State Total,155.0,10.19,1580.0,1032.91,Tons,1632000.0
+2021,198999.0,"Field Crops, Unspecified",1,Alameda,419.0,,,,,4654000.0
+2021,198999.0,"Field Crops, Unspecified",5,Amador,545.0,,,,,267000.0
+2021,198999.0,"Field Crops, Unspecified",7,Butte,5570.0,,,,,7380000.0
+2021,198999.0,"Field Crops, Unspecified",9,Calaveras,354.0,,,,,49900.0
+2021,198999.0,"Field Crops, Unspecified",11,Colusa,,,,,,2000000.0
+2021,198999.0,"Field Crops, Unspecified",13,Contra Costa,1860.0,,,,,1770000.0
+2021,198999.0,"Field Crops, Unspecified",27,Inyo,790.0,,,,,1108000.0
+2021,198999.0,"Field Crops, Unspecified",31,Kings,43500.0,,,,,28707000.0
+2021,198999.0,"Field Crops, Unspecified",43,Mariposa,,,,,,14900.0
+2021,198999.0,"Field Crops, Unspecified",45,Mendocino,,,,,,2150000.0
+2021,198999.0,"Field Crops, Unspecified",51,Mono,,,,,,860000.0
+2021,198999.0,"Field Crops, Unspecified",53,Monterey,3120.0,,,,,776000.0
+2021,198999.0,"Field Crops, Unspecified",61,Placer,4750.0,,,,,2432000.0
+2021,198999.0,"Field Crops, Unspecified",65,Riverside,825.0,,,,,693000.0
+2021,198999.0,"Field Crops, Unspecified",67,Sacramento,2770.0,,,,,2470000.0
+2021,198999.0,"Field Crops, Unspecified",69,San Benito,,,,,,708000.0
+2021,198999.0,"Field Crops, Unspecified",77,San Joaquin,300.0,,,,,250000.0
+2021,198999.0,"Field Crops, Unspecified",79,San Luis Obispo,2230.0,,,,,1699000.0
+2021,198999.0,"Field Crops, Unspecified",81,San Mateo,99.0,,,,,24000.0
+2021,198999.0,"Field Crops, Unspecified",83,Santa Barbara,1810.0,,,,,3371000.0
+2021,198999.0,"Field Crops, Unspecified",85,Santa Clara,224.0,,,,,90000.0
+2021,198999.0,"Field Crops, Unspecified",89,Shasta,,,,,,2496000.0
+2021,198999.0,"Field Crops, Unspecified",93,Siskiyou,,,,,,2435000.0
+2021,198999.0,"Field Crops, Unspecified",95,Solano,4670.0,,,,,4194000.0
+2021,198999.0,"Field Crops, Unspecified",97,Sonoma,,,,,,248000.0
+2021,198999.0,"Field Crops, Unspecified",99,Stanislaus,2230.0,,,,,13315000.0
+2021,198999.0,"Field Crops, Unspecified",107,Tulare,19900.0,,,,,13862000.0
+2021,198999.0,"Field Crops, Unspecified",111,Ventura,1410.0,,,,,2104000.0
+2021,198999.0,"Field Crops, Unspecified",113,Yolo,4020.0,,,,,10366000.0
+2021,198999.0,"Field Crops, Unspecified",115,Yuba,4240.0,,,,,11123000.0
+2021,198999.0,"Field Crops, Unspecified",998,Sum of Others,38400.0,,,,,41241000.0
+2021,198999.0,"Field Crops, Unspecified",999,State Total,144036.0,,,,,162857800.0
+2021,225999.0,"Figs, Dried",39,Madera,4700.0,2.13,10000.0,2804.1,Tons,28041000.0
+2021,225999.0,"Figs, Dried",998,Sum of Others,1970.0,,,,,16145000.0
+2021,225999.0,"Figs, Dried",999,State Total,6670.0,2.13,10000.0,2804.1,Tons,44186000.0
+2021,933179.0,"Forest Products, Firewood",29,Kern,,,2000.0,355.0,Cord,710000.0
+2021,933179.0,"Forest Products, Firewood",47,Merced,,,12700.0,244.41,Cord,3104000.0
+2021,933179.0,"Forest Products, Firewood",73,San Diego,,,,,,865000.0
+2021,933179.0,"Forest Products, Firewood",77,San Joaquin,,,92500.0,170.0,Cord,15725000.0
+2021,933179.0,"Forest Products, Firewood",99,Stanislaus,,,97400.0,232.59,Cord,22654000.0
+2021,933179.0,"Forest Products, Firewood",109,Tuolumne,,,,,,2541000.0
+2021,933179.0,"Forest Products, Firewood",998,Sum of Others,,,,,,2380.0
+2021,933179.0,"Forest Products, Firewood",999,State Total,,,204600.0,206.22,Cord,45601380.0
+2021,218899.0,"Fruits & Nuts, Unspecified",39,Madera,,,4400.0,210.0,Cord,924000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",999,State Total,,,4400.0,210.0,Cord,924000.0
+2021,939999.0,"Forest Products, Unspecified",19,Fresno,,,,,,4386000.0
+2021,939999.0,"Forest Products, Unspecified",39,Madera,,,,,,827000.0
+2021,939999.0,"Forest Products, Unspecified",43,Mariposa,,,,,,967.0
+2021,939999.0,"Forest Products, Unspecified",51,Mono,,,,,,85100.0
+2021,939999.0,"Forest Products, Unspecified",107,Tulare,,,,,,1429000.0
+2021,939999.0,"Forest Products, Unspecified",109,Tuolumne,,,,,,5163000.0
+2021,939999.0,"Forest Products, Unspecified",998,Sum of Others,,,,,,2438000.0
+2021,939999.0,"Forest Products, Unspecified",999,State Total,,,,,,14329067.0
+2021,933999.0,"Forest Products, Lumber",5,Amador,,,8150.0,124.05,Mbf,1011000.0
+2021,933999.0,"Forest Products, Lumber",7,Butte,,,264000.0,90.0,Mbf,23761000.0
+2021,933999.0,"Forest Products, Lumber",9,Calaveras,,,16600.0,141.26,Mbf,2345000.0
+2021,933999.0,"Forest Products, Lumber",17,El Dorado,,,38900.0,123.32,Mbf,4797000.0
+2021,933999.0,"Forest Products, Lumber",19,Fresno,,,30500.0,39.97,Mbf,1219000.0
+2021,933999.0,"Forest Products, Lumber",29,Kern,,,571.0,22.24,Mbf,12700.0
+2021,933999.0,"Forest Products, Lumber",33,Lake,,,420.0,70.71,Mbf,29700.0
+2021,933999.0,"Forest Products, Lumber",39,Madera,,,2780.0,40.29,Mbf,112000.0
+2021,933999.0,"Forest Products, Lumber",45,Mendocino,,,83200.0,406.33,,33807000.0
+2021,933999.0,"Forest Products, Lumber",49,Modoc,,,25600.0,128.28,Mbf,3284000.0
+2021,933999.0,"Forest Products, Lumber",57,Nevada,,,7330.0,111.05,Mbf,814000.0
+2021,933999.0,"Forest Products, Lumber",61,Placer,,,8840.0,71.61,Mbf,633000.0
+2021,933999.0,"Forest Products, Lumber",63,Plumas,,,221000.0,98.15,Mbf,21691000.0
+2021,933999.0,"Forest Products, Lumber",81,San Mateo,,,12800.0,383.44,Mbf,4908000.0
+2021,933999.0,"Forest Products, Lumber",85,Santa Clara,,,818.0,564.79,Mbf,462000.0
+2021,933999.0,"Forest Products, Lumber",87,Santa Cruz,,,20900.0,388.18,Mbf,8113000.0
+2021,933999.0,"Forest Products, Lumber",89,Shasta,,,142000.0,214.91,Mbf,30517000.0
+2021,933999.0,"Forest Products, Lumber",91,Sierra,,,3140.0,88.85,Mbf,279000.0
+2021,933999.0,"Forest Products, Lumber",93,Siskiyou,,,144000.0,186.85,Tbf,26906000.0
+2021,933999.0,"Forest Products, Lumber",97,Sonoma,,,34700.0,324.55,Mbf,11262000.0
+2021,933999.0,"Forest Products, Lumber",103,Tehama,,,36400.0,136.84,Mbf,4981000.0
+2021,933999.0,"Forest Products, Lumber",107,Tulare,,,5480.0,44.53,Mbf,244000.0
+2021,933999.0,"Forest Products, Lumber",109,Tuolumne,,,40800.0,129.26,,5274000.0
+2021,933999.0,"Forest Products, Lumber",115,Yuba,,,1110.0,33.87,Mbf,37600.0
+2021,933999.0,"Forest Products, Lumber",999,State Total,,,1150039.0,162.17,Mbf,186500000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",1,Alameda,1900.0,,,,,6345000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",5,Amador,166.0,,,,,149000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",7,Butte,879.0,,,,,3874000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",9,Calaveras,,,,,,8640.0
+2021,218899.0,"Fruits & Nuts, Unspecified",11,Colusa,,,,,,25000000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",13,Contra Costa,634.0,,,,,2898000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",17,El Dorado,,,,,,3335000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",27,Inyo,32.0,,,,,386000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",31,Kings,6140.0,,,,,54293000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",33,Lake,106.0,,,,,244000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",43,Mariposa,,,,,,227000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",45,Mendocino,100.0,,,,,1085000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",51,Mono,17.0,,,,,45000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",53,Monterey,427.0,,,,,3542000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",55,Napa,,,,,,109000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",57,Nevada,41.0,,,,,349000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",61,Placer,,,,,,951000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",65,Riverside,400.0,,,,,7200000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",67,Sacramento,718.0,,,,,5102000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",69,San Benito,523.0,,,,,12006000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",77,San Joaquin,910.0,,,,,5236000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",79,San Luis Obispo,4110.0,,,,,36146000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",81,San Mateo,115.0,,,,,858000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",83,Santa Barbara,1360.0,,,,,5082000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",85,Santa Clara,233.0,,,,,2302000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",87,Santa Cruz,228.0,,,,,463000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",89,Shasta,,,,,,92000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",91,Sierra,6.0,,,,,3400.0
+2021,218899.0,"Fruits & Nuts, Unspecified",93,Siskiyou,5.0,,,,,9000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",95,Solano,530.0,,,,,4456000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",97,Sonoma,,,,,,315000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",99,Stanislaus,1880.0,,,,,18094000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",107,Tulare,1460.0,,,,,193825000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",109,Tuolumne,198.0,,,,,312000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",111,Ventura,935.0,,,,,12332000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",113,Yolo,1450.0,,,,,9476000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",115,Yuba,727.0,,,,,6427000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",998,Sum of Others,10700.0,,,,,83856000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",999,State Total,36930.0,,,,,506433040.0
+2021,335999.0,"Garlic, All",19,Fresno,22600.0,8.27,187000.0,1530.0,Tons,286110000.0
+2021,335999.0,"Garlic, All",29,Kern,5750.0,7.5,43100.0,2655.03,Tons,114432000.0
+2021,335999.0,"Garlic, All",49,Modoc,874.0,6.85,5990.0,419.87,Tons,2515000.0
+2021,335999.0,"Garlic, All",53,Monterey,2210.0,6.92,15300.0,1910.0,Tons,29223000.0
+2021,335999.0,"Garlic, All",77,San Joaquin,3910.0,4.71,18400.0,542.23,Tons,9977000.0
+2021,335999.0,"Garlic, All",85,Santa Clara,335.0,5.67,1900.0,1547.89,Tons,2941000.0
+2021,335999.0,"Garlic, All",998,Sum of Others,740.0,,,,,3341000.0
+2021,335999.0,"Garlic, All",999,State Total,36419.0,7.62,271690.0,1638.62,Tons,448539000.0
+2021,449999.0,"Goats & Kids, Unspecified",5,Amador,,,,,,424000.0
+2021,449999.0,"Goats & Kids, Unspecified",63,Plumas,,,,,,53900.0
+2021,449999.0,"Goats & Kids, Unspecified",99,Stanislaus,,,,,,3564000.0
+2021,449999.0,"Goats & Kids, Unspecified",103,Tehama,,,,,,778000.0
+2021,449999.0,"Goats & Kids, Unspecified",998,Sum of Others,,,,,,6485000.0
+2021,449999.0,"Goats & Kids, Unspecified",999,State Total,,,,,,11304900.0
+2021,202999.0,"Grapefruit, All",25,Imperial,641.0,15.04,9640.0,789.63,Tons,7612000.0
+2021,202999.0,"Grapefruit, All",29,Kern,1110.0,24.32,27000.0,1088.7,Tons,29395000.0
+2021,202999.0,"Grapefruit, All",65,Riverside,5980.0,14.13,84500.0,266.89,Tons,22552000.0
+2021,202999.0,"Grapefruit, All",71,San Bernardino,116.0,17.41,2020.0,462.38,Tons,934000.0
+2021,202999.0,"Grapefruit, All",73,San Diego,1060.0,17.17,18200.0,770.6,,14025000.0
+2021,202999.0,"Grapefruit, All",107,Tulare,2110.0,14.69,31000.0,1040.0,Tons,32240000.0
+2021,202999.0,"Grapefruit, All",998,Sum of Others,25.0,,,,,197000.0
+2021,202999.0,"Grapefruit, All",999,State Total,11042.0,15.64,172360.0,619.39,Tons,106955000.0
+2021,,"Grapes, All",1,Alameda,2690.0,5.61,15100.0,1466.03,Tons,22137000.0
+2021,,"Grapes, All",5,Amador,4320.0,3.36,14500.0,1714.9,Tons,24866000.0
+2021,,"Grapes, All",9,Calaveras,879.0,1.38,1210.0,1146.28,Tons,1387000.0
+2021,,"Grapes, All",11,Colusa,1460.0,4.4,6430.0,897.04,Tons,5768000.0
+2021,,"Grapes, All",13,Contra Costa,1840.0,5.28,9710.0,778.17,Tons,7556000.0
+2021,,"Grapes, All",17,El Dorado,2700.0,2.38,6430.0,1120.84,Tons,7207000.0
+2021,,"Grapes, All",19,Fresno,173000.0,11.26,1948000.0,685.58,Tons,1335503000.0
+2021,,"Grapes, All",29,Kern,91100.0,12.23,1114000.0,1679.83,Tons,1871328000.0
+2021,,"Grapes, All",31,Kings,6080.0,13.5,82100.0,482.1,Tons,39580000.0
+2021,,"Grapes, All",33,Lake,10400.0,3.21,33400.0,1778.23,Tons,59393000.0
+2021,,"Grapes, All",39,Madera,56600.0,11.64,659000.0,383.52,Tons,252743000.0
+2021,,"Grapes, All",41,Marin,188.0,1.71,322.0,2791.93,Tons,899000.0
+2021,,"Grapes, All",45,Mendocino,16500.0,2.86,47100.0,1793.74,Tons,84485000.0
+2021,,"Grapes, All",53,Monterey,42000.0,3.98,167000.0,1308.93,Tons,218591000.0
+2021,,"Grapes, All",55,Napa,46000.0,2.63,121000.0,6130.02,Tons,741732000.0
+2021,,"Grapes, All",57,Nevada,409.0,3.98,1630.0,1502.45,Tons,2449000.0
+2021,,"Grapes, All",61,Placer,350.0,3.49,1220.0,1506.56,Tons,1838000.0
+2021,,"Grapes, All",65,Riverside,6800.0,6.57,44700.0,2408.72,Tons,107670000.0
+2021,,"Grapes, All",67,Sacramento,37900.0,9.21,349000.0,585.78,Tons,204436000.0
+2021,,"Grapes, All",69,San Benito,4800.0,6.0,28800.0,1560.0,Tons,44928000.0
+2021,,"Grapes, All",71,San Bernardino,372.0,0.67,248.0,1814.52,Tons,450000.0
+2021,,"Grapes, All",77,San Joaquin,88700.0,7.74,687000.0,623.52,Tons,428359000.0
+2021,,"Grapes, All",79,San Luis Obispo,41300.0,4.02,166000.0,1695.89,Tons,281517000.0
+2021,,"Grapes, All",81,San Mateo,177.0,,,,,1790000.0
+2021,,"Grapes, All",83,Santa Barbara,15200.0,3.7,56200.0,1871.01,Tons,105151000.0
+2021,,"Grapes, All",85,Santa Clara,1770.0,3.24,5740.0,1652.96,Tons,9488000.0
+2021,,"Grapes, All",87,Santa Cruz,645.0,3.43,2210.0,3586.43,Tons,7926000.0
+2021,,"Grapes, All",89,Shasta,200.0,1.5,300.0,1400.0,Tons,420000.0
+2021,,"Grapes, All",95,Solano,3910.0,6.37,24900.0,1021.77,Tons,25442000.0
+2021,,"Grapes, All",97,Sonoma,57100.0,3.61,206000.0,2625.99,Tons,540954000.0
+2021,,"Grapes, All",99,Stanislaus,7650.0,10.93,83600.0,457.33,Tons,38233000.0
+2021,,"Grapes, All",103,Tehama,206.0,2.54,523.0,1705.55,Tons,892000.0
+2021,,"Grapes, All",107,Tulare,44000.0,11.96,526000.0,1299.62,Tons,683601000.0
+2021,,"Grapes, All",113,Yolo,19000.0,7.89,150000.0,776.85,Tons,116528000.0
+2021,,"Grapes, All",998,Sum of Others,15200.0,,,,,87686000.0
+2021,,"Grapes, All",999,State Total,801446.0,8.35,6559373.0,1108.87,Tons,7362933000.0
+2021,216999.0,"Grapes, Unspecified",13,Contra Costa,1840.0,5.28,9710.0,778.17,Tons,7556000.0
+2021,216999.0,"Grapes, Unspecified",69,San Benito,4800.0,6.0,28800.0,1560.0,Tons,44928000.0
+2021,216999.0,"Grapes, Unspecified",77,San Joaquin,88700.0,7.74,687000.0,623.52,Tons,428359000.0
+2021,216999.0,"Grapes, Unspecified",998,Sum of Others,328.0,,,,,349000.0
+2021,216999.0,"Grapes, Unspecified",999,State Total,95668.0,7.61,725510.0,662.77,Tons,481192000.0
+2021,216399.0,"Grapes, Raisin",19,Fresno,85300.0,10.66,909000.0,477.29,Tons,433856000.0
+2021,216399.0,"Grapes, Raisin",29,Kern,12700.0,15.98,203000.0,526.29,Tons,106837000.0
+2021,216399.0,"Grapes, Raisin",31,Kings,1850.0,10.0,18500.0,390.86,Tons,7231000.0
+2021,216399.0,"Grapes, Raisin",39,Madera,20800.0,10.58,220000.0,328.24,Tons,72213000.0
+2021,216399.0,"Grapes, Raisin",107,Tulare,6630.0,12.9,85500.0,685.44,Tons,58605000.0
+2021,216399.0,"Grapes, Raisin",998,Sum of Others,31.0,,,,,103000.0
+2021,216399.0,"Grapes, Raisin",999,State Total,127311.0,11.28,1436000.0,472.66,Tons,678845000.0
+2021,216199.0,"Grapes, Table",19,Fresno,31800.0,10.25,326000.0,2030.85,Tons,662056000.0
+2021,216199.0,"Grapes, Table",29,Kern,55200.0,13.12,724000.0,2345.69,Tons,1698282000.0
+2021,216199.0,"Grapes, Table",31,Kings,672.0,14.88,10000.0,1562.0,Tons,15620000.0
+2021,216199.0,"Grapes, Table",39,Madera,1500.0,14.33,21500.0,1950.84,Tons,41943000.0
+2021,216199.0,"Grapes, Table",65,Riverside,4950.0,6.5,32200.0,2713.6,Tons,87378000.0
+2021,216199.0,"Grapes, Table",107,Tulare,31800.0,11.23,357000.0,1670.23,Tons,596272000.0
+2021,216199.0,"Grapes, Table",998,Sum of Others,168.0,,,,,2940000.0
+2021,216199.0,"Grapes, Table",999,State Total,126090.0,11.68,1470700.0,2108.89,Tons,3104491000.0
+2021,,"Grapes, Wine, All",1,Alameda,2690.0,5.61,15100.0,1466.03,Tons,22137000.0
+2021,,"Grapes, Wine, All",5,Amador,4320.0,3.36,14500.0,1714.9,Tons,24866000.0
+2021,,"Grapes, Wine, All",9,Calaveras,879.0,1.38,1210.0,1146.28,Tons,1387000.0
+2021,,"Grapes, Wine, All",11,Colusa,1460.0,4.4,6430.0,897.04,Tons,5768000.0
+2021,,"Grapes, Wine, All",17,El Dorado,2700.0,2.38,6430.0,1120.84,Tons,7207000.0
+2021,,"Grapes, Wine, All",19,Fresno,55500.0,12.83,712000.0,336.5,Tons,239591000.0
+2021,,"Grapes, Wine, All",29,Kern,23200.0,8.06,187000.0,354.06,Tons,66209000.0
+2021,,"Grapes, Wine, All",31,Kings,3560.0,15.06,53600.0,312.11,Tons,16729000.0
+2021,,"Grapes, Wine, All",33,Lake,10400.0,3.21,33400.0,1778.23,Tons,59393000.0
+2021,,"Grapes, Wine, All",39,Madera,34300.0,12.19,418000.0,331.55,Tons,138587000.0
+2021,,"Grapes, Wine, All",41,Marin,188.0,1.71,322.0,2791.93,Tons,899000.0
+2021,,"Grapes, Wine, All",45,Mendocino,16500.0,2.86,47100.0,1793.74,Tons,84485000.0
+2021,,"Grapes, Wine, All",47,Merced,13600.0,11.62,158000.0,506.9,Tons,80090000.0
+2021,,"Grapes, Wine, All",53,Monterey,42000.0,3.98,167000.0,1308.93,Tons,218591000.0
+2021,,"Grapes, Wine, All",55,Napa,46000.0,2.63,121000.0,6130.02,Tons,741732000.0
+2021,,"Grapes, Wine, All",57,Nevada,409.0,3.98,1630.0,1502.45,Tons,2449000.0
+2021,,"Grapes, Wine, All",61,Placer,350.0,3.49,1220.0,1506.56,Tons,1838000.0
+2021,,"Grapes, Wine, All",65,Riverside,1850.0,6.76,12500.0,1623.36,Tons,20292000.0
+2021,,"Grapes, Wine, All",67,Sacramento,37900.0,9.21,349000.0,585.78,Tons,204436000.0
+2021,,"Grapes, Wine, All",71,San Bernardino,372.0,0.67,248.0,1814.52,Tons,450000.0
+2021,,"Grapes, Wine, All",73,San Diego,986.0,2.27,2240.0,1807.14,Tons,4048000.0
+2021,,"Grapes, Wine, All",79,San Luis Obispo,41300.0,4.02,166000.0,1695.89,Tons,281517000.0
+2021,,"Grapes, Wine, All",81,San Mateo,177.0,,,,,1790000.0
+2021,,"Grapes, Wine, All",83,Santa Barbara,15200.0,3.7,56200.0,1871.01,Tons,105151000.0
+2021,,"Grapes, Wine, All",85,Santa Clara,1770.0,3.24,5740.0,1652.96,Tons,9488000.0
+2021,,"Grapes, Wine, All",87,Santa Cruz,645.0,3.43,2210.0,3586.43,Tons,7926000.0
+2021,,"Grapes, Wine, All",89,Shasta,200.0,1.5,300.0,1400.0,Tons,420000.0
+2021,,"Grapes, Wine, All",95,Solano,3910.0,6.37,24900.0,1021.77,Tons,25442000.0
+2021,,"Grapes, Wine, All",97,Sonoma,57100.0,3.61,206000.0,2625.99,Tons,540954000.0
+2021,,"Grapes, Wine, All",99,Stanislaus,7650.0,10.93,83600.0,457.33,Tons,38233000.0
+2021,,"Grapes, Wine, All",103,Tehama,206.0,2.54,523.0,1705.55,Tons,892000.0
+2021,,"Grapes, Wine, All",107,Tulare,5530.0,15.1,83500.0,344.0,Tons,28724000.0
+2021,,"Grapes, Wine, All",113,Yolo,19000.0,7.89,150000.0,776.85,Tons,116528000.0
+2021,,"Grapes, Wine, All",998,Sum of Others,107.0,,,,,156000.0
+2021,,"Grapes, Wine, All",999,State Total,451959.0,6.83,3086903.0,1003.1,Tons,3098405000.0
+2021,216299.0,"Grapes, Wine",5,Amador,4320.0,3.36,14500.0,1714.9,Tons,24866000.0
+2021,216299.0,"Grapes, Wine",9,Calaveras,879.0,1.38,1210.0,1146.28,Tons,1387000.0
+2021,216299.0,"Grapes, Wine",11,Colusa,1460.0,4.4,6430.0,897.04,Tons,5768000.0
+2021,216299.0,"Grapes, Wine",17,El Dorado,2700.0,2.38,6430.0,1120.84,Tons,7207000.0
+2021,216299.0,"Grapes, Wine",19,Fresno,55500.0,12.83,712000.0,336.5,Tons,239591000.0
+2021,216299.0,"Grapes, Wine",29,Kern,23200.0,8.06,187000.0,354.06,Tons,66209000.0
+2021,216299.0,"Grapes, Wine",31,Kings,3560.0,15.06,53600.0,312.11,Tons,16729000.0
+2021,216299.0,"Grapes, Wine",41,Marin,188.0,1.71,322.0,2791.93,Tons,899000.0
+2021,216299.0,"Grapes, Wine",45,Mendocino,,,,,,84485000.0
+2021,216299.0,"Grapes, Wine",47,Merced,13600.0,11.62,158000.0,506.9,Tons,80090000.0
+2021,216299.0,"Grapes, Wine",61,Placer,350.0,3.49,1220.0,1506.56,Tons,1838000.0
+2021,216299.0,"Grapes, Wine",65,Riverside,1850.0,6.76,12500.0,1623.36,Tons,20292000.0
+2021,216299.0,"Grapes, Wine",67,Sacramento,37900.0,9.21,349000.0,585.78,Tons,204436000.0
+2021,216299.0,"Grapes, Wine",71,San Bernardino,372.0,0.67,248.0,1814.52,Tons,450000.0
+2021,216299.0,"Grapes, Wine",73,San Diego,986.0,2.27,2240.0,1807.14,,4048000.0
+2021,216299.0,"Grapes, Wine",79,San Luis Obispo,41300.0,4.02,166000.0,1695.89,Tons,281517000.0
+2021,216299.0,"Grapes, Wine",87,Santa Cruz,645.0,3.43,2210.0,3586.43,Tons,7926000.0
+2021,216299.0,"Grapes, Wine",89,Shasta,200.0,1.5,300.0,1400.0,Tons,420000.0
+2021,216299.0,"Grapes, Wine",97,Sonoma,57100.0,3.61,206000.0,2625.99,Tons,540954000.0
+2021,216299.0,"Grapes, Wine",103,Tehama,206.0,2.54,523.0,1705.55,Tons,892000.0
+2021,216299.0,"Grapes, Wine",107,Tulare,5530.0,15.1,83500.0,344.0,Tons,28724000.0
+2021,216299.0,"Grapes, Wine",998,Sum of Others,107.0,,,,,156000.0
+2021,216299.0,"Grapes, Wine",999,State Total,251953.0,7.8,1963233.0,781.49,Tons,1618884000.0
+2021,216299.0,"Grapes, Wine",1,Alameda,1890.0,4.87,9200.0,1539.13,Tons,14160000.0
+2021,216299.0,"Grapes, Wine",33,Lake,7250.0,3.05,22100.0,2054.89,Tons,45413000.0
+2021,216299.0,"Grapes, Wine",39,Madera,21600.0,10.42,225000.0,342.44,Tons,77048000.0
+2021,216299.0,"Grapes, Wine",45,Mendocino,11000.0,2.46,27000.0,,,
+2021,216299.0,"Grapes, Wine",53,Monterey,21600.0,3.85,83200.0,1465.11,Tons,121897000.0
+2021,216299.0,"Grapes, Wine",55,Napa,36600.0,2.59,94700.0,7004.95,Tons,663369000.0
+2021,216299.0,"Grapes, Wine",57,Nevada,315.0,3.81,1200.0,1546.67,Tons,1856000.0
+2021,216299.0,"Grapes, Wine",81,San Mateo,137.0,,,,,1414000.0
+2021,216299.0,"Grapes, Wine",83,Santa Barbara,9160.0,3.06,28000.0,2174.86,Tons,60896000.0
+2021,216299.0,"Grapes, Wine",85,Santa Clara,1270.0,2.94,3730.0,1789.01,Tons,6673000.0
+2021,216299.0,"Grapes, Wine",95,Solano,2180.0,5.55,12100.0,1233.72,Tons,14928000.0
+2021,216299.0,"Grapes, Wine",99,Stanislaus,4600.0,10.15,46700.0,493.85,Tons,23063000.0
+2021,216299.0,"Grapes, Wine",113,Yolo,7270.0,6.0,43600.0,1000.0,Tons,43600000.0
+2021,216299.0,"Grapes, Wine",999,Yolo,124872.0,4.78,596530.0,1883.84,Tons,1074317000.0
+2021,216299.0,"Grapes, Wine",1,Alameda,802.0,7.41,5940.0,1342.93,Tons,7977000.0
+2021,216299.0,"Grapes, Wine",33,Lake,3110.0,3.6,11200.0,1248.21,Tons,13980000.0
+2021,216299.0,"Grapes, Wine",39,Madera,12700.0,15.2,193000.0,318.86,Tons,61539000.0
+2021,216299.0,"Grapes, Wine",45,Mendocino,5530.0,3.63,20100.0,,,
+2021,216299.0,"Grapes, Wine",53,Monterey,20400.0,4.09,83500.0,1158.01,Tons,96694000.0
+2021,216299.0,"Grapes, Wine",55,Napa,9380.0,2.76,25900.0,3025.6,Tons,78363000.0
+2021,216299.0,"Grapes, Wine",57,Nevada,94.0,4.53,426.0,1392.02,Tons,593000.0
+2021,216299.0,"Grapes, Wine",81,San Mateo,40.0,,,,,376000.0
+2021,216299.0,"Grapes, Wine",83,Santa Barbara,6050.0,4.66,28200.0,1569.33,Tons,44255000.0
+2021,216299.0,"Grapes, Wine",85,Santa Clara,497.0,4.04,2010.0,1400.5,Tons,2815000.0
+2021,216299.0,"Grapes, Wine",95,Solano,1730.0,7.4,12800.0,821.41,Tons,10514000.0
+2021,216299.0,"Grapes, Wine",99,Stanislaus,3050.0,12.1,36900.0,411.11,Tons,15170000.0
+2021,216299.0,"Grapes, Wine",113,Yolo,11800.0,8.98,106000.0,688.0,Tons,72928000.0
+2021,216299.0,"Grapes, Wine",999,State Total,75183.0,7.0,525976.0,800.25,Tons,405204000.0
+2021,195299.0,"Hay, Green Chop",97,Sonoma,1140.0,3.33,3790.0,24.01,Tons,91000.0
+2021,195299.0,"Hay, Green Chop",998,Sum of Others,3350.0,,,,,1414000.0
+2021,195299.0,"Hay, Green Chop",999,State Total,4490.0,3.33,3790.0,24.01,Tons,1505000.0
+2021,394199.0,Salad Greens Nec,53,Monterey,3990.0,9.35,37300.0,1160.0,Tons,43268000.0
+2021,394199.0,Salad Greens Nec,111,Ventura,700.0,8.8,6160.0,1259.9,Tons,7761000.0
+2021,394199.0,Salad Greens Nec,998,Sum of Others,332.0,,,,,2811000.0
+2021,394199.0,Salad Greens Nec,999,State Total,5022.0,9.27,43460.0,1174.16,Tons,53840000.0
+2021,,"Hay, All",1,Alameda,2540.0,,,,,805000.0
+2021,,"Hay, All",3,Alpine,320.0,,,,,218000.0
+2021,,"Hay, All",5,Amador,2340.0,,,,,2459000.0
+2021,,"Hay, All",7,Butte,507.0,,,,,536000.0
+2021,,"Hay, All",11,Colusa,9620.0,,,,,12065000.0
+2021,,"Hay, All",13,Contra Costa,5260.0,,,,,2032000.0
+2021,,"Hay, All",17,El Dorado,225.0,,,,,50300.0
+2021,,"Hay, All",25,Imperial,289000.0,,,,,408377000.0
+2021,,"Hay, All",27,Inyo,,,,,,2611000.0
+2021,,"Hay, All",31,Kings,25000.0,,,,,47487000.0
+2021,,"Hay, All",41,Marin,1250.0,,,,,191000.0
+2021,,"Hay, All",47,Merced,96700.0,,,,,108840000.0
+2021,,"Hay, All",49,Modoc,74300.0,,,,,83956000.0
+2021,,"Hay, All",51,Mono,,,,,,14844000.0
+2021,,"Hay, All",53,Monterey,730.0,,,,,389000.0
+2021,,"Hay, All",55,Napa,250.0,,,,,26300.0
+2021,,"Hay, All",63,Plumas,7940.0,,,,,5234000.0
+2021,,"Hay, All",65,Riverside,62300.0,,,,,88842000.0
+2021,,"Hay, All",67,Sacramento,18300.0,,,,,20961000.0
+2021,,"Hay, All",69,San Benito,10000.0,,,,,6384000.0
+2021,,"Hay, All",77,San Joaquin,46800.0,,,,,68617000.0
+2021,,"Hay, All",79,San Luis Obispo,8910.0,,,,,5302000.0
+2021,,"Hay, All",81,San Mateo,643.0,,,,,233000.0
+2021,,"Hay, All",85,Santa Clara,2340.0,,,,,805000.0
+2021,,"Hay, All",89,Shasta,20100.0,,,,,26095000.0
+2021,,"Hay, All",91,Sierra,4970.0,,,,,2751000.0
+2021,,"Hay, All",93,Siskiyou,56300.0,,,,,66712000.0
+2021,,"Hay, All",95,Solano,48400.0,,,,,42585000.0
+2021,,"Hay, All",97,Sonoma,3360.0,,,,,2502000.0
+2021,,"Hay, All",99,Stanislaus,48100.0,,,,,45377000.0
+2021,,"Hay, All",101,Sutter,7860.0,,,,,7353000.0
+2021,,"Hay, All",107,Tulare,52900.0,,,,,92158000.0
+2021,,"Hay, All",109,Tuolumne,352.0,,,,,68600.0
+2021,,"Hay, All",113,Yolo,35500.0,,,,,41019000.0
+2021,,"Hay, All",115,Yuba,1570.0,,,,,1827000.0
+2021,,"Hay, All",998,Sum of Others,290000.0,,,,,313760000.0
+2021,,"Hay, All",999,State Total,1234687.0,,,,,1523472200.0
+2021,188999.0,"Hay, Other, Unspecified",25,Imperial,74900.0,8.49,636000.0,156.18,Tons,99329000.0
+2021,188999.0,"Hay, Other, Unspecified",65,Riverside,5780.0,7.99,46200.0,207.04,Tons,9565000.0
+2021,188999.0,"Hay, Other, Unspecified",998,Sum of Others,37.0,,,,,14200.0
+2021,188999.0,"Hay, Other, Unspecified",999,State Total,80717.0,8.46,682200.0,159.62,Tons,108908200.0
+2021,188499.0,"Hay, Grain",5,Amador,1490.0,,,,,869000.0
+2021,188499.0,"Hay, Grain",11,Colusa,1850.0,1.95,3610.0,211.91,Tons,765000.0
+2021,188499.0,"Hay, Grain",13,Contra Costa,3530.0,1.21,4270.0,113.11,Tons,483000.0
+2021,188499.0,"Hay, Grain",29,Kern,11000.0,5.4,59400.0,186.65,Tons,11087000.0
+2021,188499.0,"Hay, Grain",47,Merced,38600.0,5.18,200000.0,167.54,Tons,33507000.0
+2021,188499.0,"Hay, Grain",49,Modoc,32400.0,3.52,114000.0,199.19,Tons,22708000.0
+2021,188499.0,"Hay, Grain",63,Plumas,990.0,1.86,1840.0,200.0,Tons,368000.0
+2021,188499.0,"Hay, Grain",65,Riverside,1080.0,5.0,5400.0,192.59,Tons,1040000.0
+2021,188499.0,"Hay, Grain",69,San Benito,10000.0,2.66,26600.0,240.0,Tons,6384000.0
+2021,188499.0,"Hay, Grain",73,San Diego,1780.0,1.4,2500.0,194.4,,486000.0
+2021,188499.0,"Hay, Grain",79,San Luis Obispo,7490.0,2.14,16000.0,214.38,Tons,3430000.0
+2021,188499.0,"Hay, Grain",81,San Mateo,478.0,2.05,980.0,213.26,Tons,209000.0
+2021,188499.0,"Hay, Grain",85,Santa Clara,2340.0,1.66,3880.0,207.47,Tons,805000.0
+2021,188499.0,"Hay, Grain",91,Sierra,961.0,1.86,1790.0,199.44,Tons,357000.0
+2021,188499.0,"Hay, Grain",93,Siskiyou,90.0,,,,,12500.0
+2021,188499.0,"Hay, Grain",95,Solano,3330.0,3.06,10200.0,202.35,Tons,2064000.0
+2021,188499.0,"Hay, Grain",97,Sonoma,2950.0,5.42,16000.0,149.06,Tons,2385000.0
+2021,188499.0,"Hay, Grain",101,Sutter,4160.0,2.36,9830.0,204.99,Tons,2015000.0
+2021,188499.0,"Hay, Grain",103,Tehama,1190.0,2.25,2680.0,179.85,Tons,482000.0
+2021,188499.0,"Hay, Grain",107,Tulare,11600.0,2.54,29500.0,190.0,Tons,5605000.0
+2021,188499.0,"Hay, Grain",998,Sum of Others,4100.0,,,,,1853000.0
+2021,188499.0,"Hay, Grain",999,State Total,141409.0,3.75,508480.0,185.22,Tons,96914500.0
+2021,188999.0,"Hay, Other, Unspecified",1,Alameda,2440.0,1.75,4280.0,158.88,Tons,680000.0
+2021,188999.0,"Hay, Other, Unspecified",3,Alpine,320.0,3.22,1030.0,211.65,,218000.0
+2021,188999.0,"Hay, Other, Unspecified",17,El Dorado,225.0,1.08,243.0,207.0,Tons,50300.0
+2021,188999.0,"Hay, Other, Unspecified",19,Fresno,103000.0,3.1,319000.0,174.0,Tons,55506000.0
+2021,188999.0,"Hay, Other, Unspecified",21,Glenn,2410.0,3.98,9580.0,186.12,Tons,1783000.0
+2021,188999.0,"Hay, Other, Unspecified",25,Imperial,19700.0,8.48,167000.0,145.19,Tons,24246000.0
+2021,188999.0,"Hay, Other, Unspecified",29,Kern,1590.0,4.4,7000.0,198.43,Tons,1389000.0
+2021,188999.0,"Hay, Other, Unspecified",39,Madera,1600.0,8.69,13900.0,56.98,Tons,792000.0
+2021,188999.0,"Hay, Other, Unspecified",41,Marin,1250.0,1.06,1320.0,144.7,Tons,191000.0
+2021,188999.0,"Hay, Other, Unspecified",55,Napa,250.0,0.75,188.0,139.89,Tons,26300.0
+2021,188999.0,"Hay, Other, Unspecified",63,Plumas,1460.0,2.31,3370.0,249.85,Tons,842000.0
+2021,188999.0,"Hay, Other, Unspecified",67,Sacramento,857.0,2.4,2060.0,208.25,Tons,429000.0
+2021,188999.0,"Hay, Other, Unspecified",77,San Joaquin,5670.0,5.34,30300.0,197.06,Tons,5971000.0
+2021,188999.0,"Hay, Other, Unspecified",89,Shasta,17700.0,4.41,78000.0,294.45,Tons,22967000.0
+2021,188999.0,"Hay, Other, Unspecified",91,Sierra,784.0,2.0,1570.0,249.68,Tons,392000.0
+2021,188999.0,"Hay, Other, Unspecified",93,Siskiyou,20500.0,4.43,90800.0,229.5,Tons,20839000.0
+2021,188999.0,"Hay, Other, Unspecified",95,Solano,10800.0,2.62,28300.0,191.06,,5407000.0
+2021,188999.0,"Hay, Other, Unspecified",99,Stanislaus,1160.0,,,,,908000.0
+2021,188999.0,"Hay, Other, Unspecified",103,Tehama,1440.0,3.96,5700.0,271.75,Tons,1549000.0
+2021,188999.0,"Hay, Other, Unspecified",109,Tuolumne,352.0,1.5,528.0,129.92,Tons,68600.0
+2021,188999.0,"Hay, Other, Unspecified",113,Yolo,11700.0,3.5,41000.0,163.0,Tons,6683000.0
+2021,188999.0,"Hay, Other, Unspecified",115,Yuba,1330.0,3.68,4890.0,308.18,Tons,1507000.0
+2021,188999.0,"Hay, Other, Unspecified",998,Sum of Others,1860.0,,,,,1214000.0
+2021,188999.0,"Hay, Other, Unspecified",999,State Total,208398.0,3.94,810059.0,187.07,Tons,153658200.0
+2021,188899.0,"Hay, Sudan",25,Imperial,43800.0,3.93,172000.0,192.55,Tons,33119000.0
+2021,188899.0,"Hay, Sudan",47,Merced,13700.0,2.7,37000.0,185.7,Tons,6871000.0
+2021,188899.0,"Hay, Sudan",65,Riverside,2760.0,5.0,13800.0,197.97,Tons,2732000.0
+2021,188899.0,"Hay, Sudan",67,Sacramento,940.0,3.7,3480.0,197.7,Tons,688000.0
+2021,188899.0,"Hay, Sudan",71,San Bernardino,497.0,7.3,3630.0,139.94,Tons,508000.0
+2021,188899.0,"Hay, Sudan",95,Solano,4500.0,3.33,15000.0,198.47,Tons,2977000.0
+2021,188899.0,"Hay, Sudan",107,Tulare,6520.0,3.19,20800.0,187.02,Tons,3890000.0
+2021,188899.0,"Hay, Sudan",998,Sum of Others,1930.0,,,,,1082000.0
+2021,188899.0,"Hay, Sudan",999,State Total,74647.0,3.65,265710.0,191.13,Tons,51867000.0
+2021,188799.0,"Hay, Wild",49,Modoc,1990.0,6.48,12900.0,301.08,Tons,3884000.0
+2021,188799.0,"Hay, Wild",81,San Mateo,165.0,1.35,223.0,107.62,Tons,24000.0
+2021,188799.0,"Hay, Wild",97,Sonoma,413.0,1.87,774.0,151.16,Tons,117000.0
+2021,188799.0,"Hay, Wild",999,State Total,2568.0,5.41,13897.0,289.63,Tons,4025000.0
+2021,121799.0,"Hemp, Unspecified",33,Lake,9.0,,,,,
+2021,121799.0,"Hemp, Unspecified",53,Monterey,52.0,,,,,374000.0
+2021,121799.0,"Hemp, Unspecified",63,Plumas,5.0,,,,,120000.0
+2021,121799.0,"Hemp, Unspecified",65,Riverside,270.0,,,,,11400000.0
+2021,121799.0,"Hemp, Unspecified",69,San Benito,105.0,,,,,1947000.0
+2021,121799.0,"Hemp, Unspecified",87,Santa Cruz,2.0,,,,,
+2021,121799.0,"Hemp, Unspecified",111,Ventura,23.0,,,,,2463000.0
+2021,121799.0,"Hemp, Unspecified",998,Sum of Others,147.0,,,,,12525000.0
+2021,121799.0,"Hemp, Unspecified",999,State Total,613.0,,,,,28829000.0
+2021,398599.0,Spices And Herbs,65,Riverside,1090.0,7.29,7950.0,520.0,Tons,4134000.0
+2021,398599.0,Spices And Herbs,71,San Bernardino,61.0,3.56,217.0,5562.21,Tons,1207000.0
+2021,398599.0,Spices And Herbs,998,Sum of Others,345.0,,,,,14218000.0
+2021,398599.0,Spices And Herbs,999,State Total,1496.0,7.1,8167.0,653.97,Tons,19559000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",5,Amador,,,,,,40000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",19,Fresno,,,,,,11937000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",21,Glenn,,,,,,58000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",29,Kern,,,,,,140000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",45,Mendocino,,,,,,81300.0
+2021,429999.0,"Hogs & Pigs, Unspecified",53,Monterey,,,,,,255000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",63,Plumas,,,,,,60700.0
+2021,429999.0,"Hogs & Pigs, Unspecified",73,San Diego,,,,,,250000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",89,Shasta,,,,,,111000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",97,Sonoma,,,,,,429000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",99,Stanislaus,,,,,,3114000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",998,Sum of Others,,,,,,358000.0
+2021,429999.0,"Hogs & Pigs, Unspecified",999,State Total,,,,,,16834000.0
+2021,393999.0,Horseradish,49,Modoc,597.0,2.51,1500.0,497.33,Tons,746000.0
+2021,393999.0,Horseradish,93,Siskiyou,170.0,0.12,21.0,10619.05,Tons,223000.0
+2021,393999.0,Horseradish,999,State Total,767.0,1.98,1521.0,637.08,Tons,969000.0
+2021,,"Horticulture, All",1,Alameda,116.0,,,,,5768000.0
+2021,,"Horticulture, All",5,Amador,,,,,,208000.0
+2021,,"Horticulture, All",7,Butte,215.0,,,,,17154000.0
+2021,,"Horticulture, All",9,Calaveras,,,,,,113000.0
+2021,,"Horticulture, All",13,Contra Costa,16.0,,,,,10472000.0
+2021,,"Horticulture, All",17,El Dorado,47.0,,,,,2439000.0
+2021,,"Horticulture, All",19,Fresno,,,,,,47941000.0
+2021,,"Horticulture, All",25,Imperial,371.0,,,,,15728000.0
+2021,,"Horticulture, All",27,Inyo,221.0,,,,,4346000.0
+2021,,"Horticulture, All",29,Kern,2730.0,,,,,122229000.0
+2021,,"Horticulture, All",33,Lake,22.0,,,,,1136000.0
+2021,,"Horticulture, All",39,Madera,277.0,,,,,23310000.0
+2021,,"Horticulture, All",41,Marin,7.0,,,,,274000.0
+2021,,"Horticulture, All",43,Mariposa,,,,,,56800.0
+2021,,"Horticulture, All",45,Mendocino,19.0,,,,,1821000.0
+2021,,"Horticulture, All",49,Modoc,,,,,,240000.0
+2021,,"Horticulture, All",51,Mono,1.0,,,,,21500.0
+2021,,"Horticulture, All",53,Monterey,587.0,,,,,99778000.0
+2021,,"Horticulture, All",55,Napa,4.0,,,,,212000.0
+2021,,"Horticulture, All",57,Nevada,14.0,,,,,810000.0
+2021,,"Horticulture, All",59,Orange,453.0,,,,,55282000.0
+2021,,"Horticulture, All",61,Placer,,,,,,7620000.0
+2021,,"Horticulture, All",63,Plumas,3.0,,,,,27700.0
+2021,,"Horticulture, All",65,Riverside,6400.0,,,,,267497000.0
+2021,,"Horticulture, All",67,Sacramento,517.0,,,,,34878000.0
+2021,,"Horticulture, All",69,San Benito,135.0,,,,,6801000.0
+2021,,"Horticulture, All",71,San Bernardino,654.0,,,,,41064000.0
+2021,,"Horticulture, All",73,San Diego,11400.0,,,,,1312708000.0
+2021,,"Horticulture, All",77,San Joaquin,,,,,,138155000.0
+2021,,"Horticulture, All",79,San Luis Obispo,199.0,,,,,76503000.0
+2021,,"Horticulture, All",81,San Mateo,498.0,,,,,60268000.0
+2021,,"Horticulture, All",83,Santa Barbara,1090.0,,,,,154631000.0
+2021,,"Horticulture, All",85,Santa Clara,1040.0,,,,,109372000.0
+2021,,"Horticulture, All",87,Santa Cruz,893.0,,,,,136730000.0
+2021,,"Horticulture, All",89,Shasta,,,,,,3366000.0
+2021,,"Horticulture, All",93,Siskiyou,2460.0,,,,,158208000.0
+2021,,"Horticulture, All",95,Solano,1330.0,,,,,43086000.0
+2021,,"Horticulture, All",97,Sonoma,,,,,,60370000.0
+2021,,"Horticulture, All",99,Stanislaus,1500.0,,,,,207780000.0
+2021,,"Horticulture, All",101,Sutter,352.0,,,,,45782000.0
+2021,,"Horticulture, All",103,Tehama,,,,,,17600000.0
+2021,,"Horticulture, All",107,Tulare,,,,,,118779000.0
+2021,,"Horticulture, All",109,Tuolumne,,,,,,529000.0
+2021,,"Horticulture, All",111,Ventura,3800.0,,,,,248081000.0
+2021,,"Horticulture, All",113,Yolo,421.0,,,,,20481000.0
+2021,,"Horticulture, All",115,Yuba,62.0,,,,,4663000.0
+2021,,"Horticulture, All",998,Sum of Others,9290.0,,,,,236627000.0
+2021,,"Horticulture, All",999,State Total,47144.0,,,,,3920946000.0
+2021,864999.0,"Flowers, Bedding Plants",63,Plumas,3.0,,,,,27700.0
+2021,864999.0,"Flowers, Bedding Plants",71,San Bernardino,15.0,,,,,922000.0
+2021,864999.0,"Flowers, Bedding Plants",77,San Joaquin,,,,,,905000.0
+2021,864999.0,"Flowers, Bedding Plants",81,San Mateo,7.0,,,,,6072000.0
+2021,864999.0,"Flowers, Bedding Plants",85,Santa Clara,113.0,,,,,26772000.0
+2021,864999.0,"Flowers, Bedding Plants",97,Sonoma,,,,,,5923000.0
+2021,864999.0,"Flowers, Bedding Plants",998,Sum of Others,18.0,,,,,5273000.0
+2021,864999.0,"Flowers, Bedding Plants",999,State Total,156.0,,,,,45894700.0
+2021,825379.0,"Nursery Plants, Strawberry",93,Siskiyou,2460.0,,,,,142806000.0
+2021,825379.0,"Nursery Plants, Strawberry",999,State Total,2460.0,,,,,142806000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",53,Monterey,230.0,,,,,47722000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",77,San Joaquin,,,,,,9580000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",79,San Luis Obispo,66.0,,,,,32150000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",111,Ventura,150.0,,,,,18773000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",115,Yuba,62.0,,,,,4663000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",998,Sum of Others,12.0,,,,,3705000.0
+2021,834999.0,"Nursery Plants, Vegetable Bedding",999,State Total,520.0,,,,,116593000.0
+2021,876130.0,"Flowers, Cacti, Succulents",59,Orange,20.0,,,,,1920000.0
+2021,876130.0,"Flowers, Cacti, Succulents",999,State Total,20.0,,,,,1920000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",53,Monterey,112.0,,,,,3607000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",57,Nevada,8.0,,,,,237000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",65,Riverside,3.0,,,,,101000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",73,San Diego,2600.0,,,,,46218000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",79,San Luis Obispo,20.0,,,,,18382000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",81,San Mateo,205.0,,,,,5486000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",83,Santa Barbara,761.0,,,,,35494000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",87,Santa Cruz,326.0,,,,,25805000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",97,Sonoma,,,,,,6142000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",111,Ventura,560.0,,,,,34142000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",998,Sum of Others,,,,,,147000.0
+2021,868999.0,"Flowers, Foliage, Cut, All",999,State Total,4595.0,,,,,175761000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",29,Kern,860.0,,,,,80787000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",73,San Diego,235.0,,,,,24050000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",77,San Joaquin,,,,,,13600000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",93,Siskiyou,,,,,,8180000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",95,Solano,58.0,,,,,461000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",99,Stanislaus,780.0,,,,,145577000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",101,Sutter,347.0,,,,,45586000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",107,Tulare,,,,,,40803000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",111,Ventura,225.0,,,,,29437000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",113,Yolo,341.0,,,,,15362000.0
+2021,824999.0,"Nursery, Fruit/Vine/Nut, Non-Bearing",999,State Total,2846.0,,,,,403843000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",19,Fresno,,,,,,6324000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",29,Kern,,,,,,1000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",71,San Bernardino,46.0,,,,,8489000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",85,Santa Clara,69.0,,,,,12071000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",111,Ventura,100.0,,,,,14529000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",998,Sum of Others,6530.0,,,,,2912000.0
+2021,894999.0,"Nursery, Herbaceous Perennials",999,State Total,6745.0,,,,,44326000.0
+2021,899999.0,"Nursery Products, Misc",1,Alameda,62.0,,,,,909000.0
+2021,899999.0,"Nursery Products, Misc",5,Amador,,,,,,208000.0
+2021,899999.0,"Nursery Products, Misc",7,Butte,215.0,,,,,17154000.0
+2021,899999.0,"Nursery Products, Misc",9,Calaveras,,,,,,113000.0
+2021,899999.0,"Nursery Products, Misc",13,Contra Costa,16.0,,,,,10472000.0
+2021,899999.0,"Nursery Products, Misc",17,El Dorado,47.0,,,,,2439000.0
+2021,899999.0,"Nursery Products, Misc",19,Fresno,,,,,,37650000.0
+2021,899999.0,"Nursery Products, Misc",25,Imperial,371.0,,,,,15728000.0
+2021,899999.0,"Nursery Products, Misc",27,Inyo,221.0,,,,,4346000.0
+2021,899999.0,"Nursery Products, Misc",33,Lake,22.0,,,,,1136000.0
+2021,899999.0,"Nursery Products, Misc",39,Madera,277.0,,,,,23310000.0
+2021,899999.0,"Nursery Products, Misc",41,Marin,7.0,,,,,274000.0
+2021,899999.0,"Nursery Products, Misc",43,Mariposa,,,,,,56800.0
+2021,899999.0,"Nursery Products, Misc",45,Mendocino,19.0,,,,,1805000.0
+2021,899999.0,"Nursery Products, Misc",49,Modoc,,,,,,240000.0
+2021,899999.0,"Nursery Products, Misc",51,Mono,1.0,,,,,21500.0
+2021,899999.0,"Nursery Products, Misc",53,Monterey,245.0,,,,,48449000.0
+2021,899999.0,"Nursery Products, Misc",55,Napa,4.0,,,,,212000.0
+2021,899999.0,"Nursery Products, Misc",57,Nevada,6.0,,,,,484000.0
+2021,899999.0,"Nursery Products, Misc",61,Placer,,,,,,7620000.0
+2021,899999.0,"Nursery Products, Misc",65,Riverside,152.0,,,,,2335000.0
+2021,899999.0,"Nursery Products, Misc",67,Sacramento,517.0,,,,,34878000.0
+2021,899999.0,"Nursery Products, Misc",69,San Benito,135.0,,,,,6801000.0
+2021,899999.0,"Nursery Products, Misc",71,San Bernardino,32.0,,,,,867000.0
+2021,899999.0,"Nursery Products, Misc",73,San Diego,2770.0,,,,,503645000.0
+2021,899999.0,"Nursery Products, Misc",77,San Joaquin,,,,,,40404000.0
+2021,899999.0,"Nursery Products, Misc",79,San Luis Obispo,64.0,,,,,19205000.0
+2021,899999.0,"Nursery Products, Misc",81,San Mateo,73.0,,,,,12637000.0
+2021,899999.0,"Nursery Products, Misc",83,Santa Barbara,333.0,,,,,119137000.0
+2021,899999.0,"Nursery Products, Misc",85,Santa Clara,265.0,,,,,25658000.0
+2021,899999.0,"Nursery Products, Misc",87,Santa Cruz,567.0,,,,,110925000.0
+2021,899999.0,"Nursery Products, Misc",89,Shasta,,,,,,3314000.0
+2021,899999.0,"Nursery Products, Misc",93,Siskiyou,,,,,,7000000.0
+2021,899999.0,"Nursery Products, Misc",95,Solano,1270.0,,,,,42625000.0
+2021,899999.0,"Nursery Products, Misc",97,Sonoma,,,,,,22147000.0
+2021,899999.0,"Nursery Products, Misc",99,Stanislaus,286.0,,,,,22525000.0
+2021,899999.0,"Nursery Products, Misc",101,Sutter,5.0,,,,,196000.0
+2021,899999.0,"Nursery Products, Misc",103,Tehama,,,,,,17600000.0
+2021,899999.0,"Nursery Products, Misc",107,Tulare,,,,,,8334000.0
+2021,899999.0,"Nursery Products, Misc",109,Tuolumne,,,,,,529000.0
+2021,899999.0,"Nursery Products, Misc",111,Ventura,942.0,,,,,52684000.0
+2021,899999.0,"Nursery Products, Misc",113,Yolo,80.0,,,,,5119000.0
+2021,899999.0,"Nursery Products, Misc",998,Sum of Others,1660.0,,,,,123511000.0
+2021,899999.0,"Nursery Products, Misc",999,State Total,10664.0,,,,,1354703300.0
+2021,899999.0,"Nursery Products, Misc",59,Orange,11.0,,,,,9250000.0
+2021,899999.0,"Nursery Products, Misc",999,State Total,11.0,,,,,9250000.0
+2021,879999.0,"Flowers, Foliage Plants",71,San Bernardino,6.0,,,,,18429000.0
+2021,879999.0,"Flowers, Foliage Plants",73,San Diego,881.0,,,,,356408000.0
+2021,879999.0,"Flowers, Foliage Plants",77,San Joaquin,,,,,,19014000.0
+2021,879999.0,"Flowers, Foliage Plants",81,San Mateo,47.0,,,,,35574000.0
+2021,879999.0,"Flowers, Foliage Plants",111,Ventura,111.0,,,,,17403000.0
+2021,879999.0,"Flowers, Foliage Plants",998,Sum of Others,11.0,,,,,5400000.0
+2021,879999.0,"Flowers, Foliage Plants",999,State Total,1056.0,,,,,452228000.0
+2021,863999.0,"Nursery, Flower Propagative Materials",29,Kern,,,,,,6027000.0
+2021,863999.0,"Nursery, Flower Propagative Materials",111,Ventura,16.0,,,,,5465000.0
+2021,863999.0,"Nursery, Flower Propagative Materials",999,State Total,16.0,,,,,11492000.0
+2021,892999.0,"Nursery, Turf",29,Kern,344.0,,,,,7784000.0
+2021,892999.0,"Nursery, Turf",65,Riverside,2300.0,,,,,32500000.0
+2021,892999.0,"Nursery, Turf",71,San Bernardino,551.0,,,,,12307000.0
+2021,892999.0,"Nursery, Turf",998,Sum of Others,,,,,,2350000.0
+2021,892999.0,"Nursery, Turf",999,State Total,3195.0,,,,,54941000.0
+2021,895999.0,"Nursery, Woody Ornamentals",1,Alameda,54.0,,,,,4859000.0
+2021,895999.0,"Nursery, Woody Ornamentals",19,Fresno,,,,,,3967000.0
+2021,895999.0,"Nursery, Woody Ornamentals",29,Kern,1530.0,,,,,27630000.0
+2021,895999.0,"Nursery, Woody Ornamentals",59,Orange,378.0,,,,,42683000.0
+2021,895999.0,"Nursery, Woody Ornamentals",65,Riverside,3950.0,,,,,232560000.0
+2021,895999.0,"Nursery, Woody Ornamentals",73,San Diego,4950.0,,,,,382388000.0
+2021,895999.0,"Nursery, Woody Ornamentals",77,San Joaquin,,,,,,54652000.0
+2021,895999.0,"Nursery, Woody Ornamentals",79,San Luis Obispo,49.0,,,,,6766000.0
+2021,895999.0,"Nursery, Woody Ornamentals",85,Santa Clara,331.0,,,,,44425000.0
+2021,895999.0,"Nursery, Woody Ornamentals",97,Sonoma,,,,,,25955000.0
+2021,895999.0,"Nursery, Woody Ornamentals",99,Stanislaus,438.0,,,,,39678000.0
+2021,895999.0,"Nursery, Woody Ornamentals",107,Tulare,,,,,,69642000.0
+2021,895999.0,"Nursery, Woody Ornamentals",111,Ventura,1690.0,,,,,75648000.0
+2021,895999.0,"Nursery, Woody Ornamentals",998,Sum of Others,1100.0,,,,,94304000.0
+2021,895999.0,"Nursery, Woody Ornamentals",999,State Total,14470.0,,,,,1105157000.0
+2021,215399.0,"Aprium, Plumcots, Pluots",19,Fresno,1120.0,5.84,6540.0,2381.04,Tons,15572000.0
+2021,215399.0,"Aprium, Plumcots, Pluots",998,Sum of Others,99.0,,,,,1797000.0
+2021,215399.0,"Aprium, Plumcots, Pluots",999,State Total,1219.0,5.84,6540.0,2381.04,Tons,17369000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",71,San Bernardino,82.0,2.4,197.0,6040.61,Tons,1190000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",998,Sum of Others,166.0,,,,,868000.0
+2021,218899.0,"Fruits & Nuts, Unspecified",999,State Total,248.0,2.4,197.0,6040.61,Tons,2058000.0
+2021,337999.0,Kale,53,Monterey,1340.0,7.54,10100.0,1190.0,Tons,12019000.0
+2021,337999.0,Kale,65,Riverside,332.0,5.51,1830.0,1402.19,Tons,2566000.0
+2021,337999.0,Kale,69,San Benito,656.0,9.3,6100.0,1190.16,Tons,7260000.0
+2021,337999.0,Kale,111,Ventura,1010.0,3.04,3070.0,6000.98,Tons,18423000.0
+2021,337999.0,Kale,998,Sum of Others,3430.0,,,,,22956000.0
+2021,337999.0,Kale,999,State Total,6768.0,6.32,21100.0,1908.44,Tons,63224000.0
+2021,229999.0,Kiwifruit,7,Butte,573.0,5.76,3300.0,898.79,Tons,2966000.0
+2021,229999.0,Kiwifruit,107,Tulare,1910.0,8.27,15800.0,2570.0,Tons,40606000.0
+2021,229999.0,Kiwifruit,115,Yuba,843.0,6.49,5470.0,3580.62,Tons,19586000.0
+2021,229999.0,Kiwifruit,998,Sum of Others,1220.0,,,,,11672000.0
+2021,229999.0,Kiwifruit,999,State Total,4546.0,7.39,24570.0,2570.53,Tons,74830000.0
+2021,338999.0,Kohlrabi,998,Sum of Others,91.0,,,,,1296000.0
+2021,338999.0,Kohlrabi,999,State Total,91.0,,,,,1296000.0
+2021,207999.0,Kumquats,73,San Diego,51.0,3.65,186.0,3553.76,,661000.0
+2021,207999.0,Kumquats,998,Sum of Others,2.0,,,,,9550.0
+2021,207999.0,Kumquats,999,State Total,53.0,3.65,186.0,3553.76,,670550.0
+2021,387999.0,Leeks,53,Monterey,623.0,12.28,7650.0,1260.0,Tons,9639000.0
+2021,387999.0,Leeks,81,San Mateo,40.0,14.28,571.0,1169.88,Tons,668000.0
+2021,387999.0,Leeks,998,Sum of Others,214.0,,,,,1558000.0
+2021,387999.0,Leeks,999,State Total,877.0,12.4,8221.0,1253.74,Tons,11865000.0
+2021,204999.0,"Lemons, All",19,Fresno,4870.0,11.89,57900.0,645.99,Tons,37403000.0
+2021,204999.0,"Lemons, All",25,Imperial,4700.0,11.64,54700.0,563.91,Tons,30846000.0
+2021,204999.0,"Lemons, All",29,Kern,5060.0,13.89,70300.0,1209.77,Tons,85047000.0
+2021,204999.0,"Lemons, All",53,Monterey,1320.0,29.32,38700.0,920.0,Tons,35604000.0
+2021,204999.0,"Lemons, All",65,Riverside,7800.0,9.2,71800.0,949.47,Tons,68172000.0
+2021,204999.0,"Lemons, All",71,San Bernardino,764.0,8.51,6500.0,758.77,Tons,4932000.0
+2021,204999.0,"Lemons, All",73,San Diego,2850.0,16.88,48100.0,1243.66,,59820000.0
+2021,204999.0,"Lemons, All",79,San Luis Obispo,2040.0,13.28,27100.0,685.72,Tons,18583000.0
+2021,204999.0,"Lemons, All",83,Santa Barbara,1520.0,18.88,28700.0,474.98,Tons,13632000.0
+2021,204999.0,"Lemons, All",107,Tulare,12300.0,13.9,171000.0,2030.0,Tons,347130000.0
+2021,204999.0,"Lemons, All",111,Ventura,18300.0,18.58,340000.0,746.2,Tons,253708000.0
+2021,204999.0,"Lemons, All",998,Sum of Others,325.0,,,,,1311000.0
+2021,204999.0,"Lemons, All",999,State Total,61849.0,14.87,914800.0,1043.81,Tons,956188000.0
+2021,,"Lettuce, All",19,Fresno,8750.0,16.8,147000.0,695.08,Tons,102176000.0
+2021,,"Lettuce, All",25,Imperial,34900.0,15.85,553000.0,747.89,Tons,413582000.0
+2021,,"Lettuce, All",53,Monterey,94800.0,18.71,1774000.0,670.16,Tons,1188861000.0
+2021,,"Lettuce, All",65,Riverside,3860.0,12.54,48400.0,721.45,Tons,34918000.0
+2021,,"Lettuce, All",69,San Benito,10400.0,4.6,47800.0,1185.19,Tons,56652000.0
+2021,,"Lettuce, All",71,San Bernardino,24.0,5.83,140.0,1757.14,Tons,246000.0
+2021,,"Lettuce, All",79,San Luis Obispo,3990.0,17.57,70100.0,493.68,Tons,34607000.0
+2021,,"Lettuce, All",83,Santa Barbara,14700.0,15.24,224000.0,669.29,Tons,149921000.0
+2021,,"Lettuce, All",85,Santa Clara,2770.0,6.21,17200.0,1017.62,Tons,17503000.0
+2021,,"Lettuce, All",87,Santa Cruz,3040.0,20.72,63000.0,412.81,Tons,26007000.0
+2021,,"Lettuce, All",111,Ventura,1540.0,19.29,29700.0,1090.2,Tons,32379000.0
+2021,,"Lettuce, All",998,Sum of Others,2420.0,,,,,19349000.0
+2021,,"Lettuce, All",999,State Total,181194.0,16.64,2974340.0,691.53,Tons,2076201000.0
+2021,340999.0,"Lettuce, Head",19,Fresno,4670.0,22.7,106000.0,655.61,Tons,69495000.0
+2021,340999.0,"Lettuce, Head",25,Imperial,15600.0,21.35,333000.0,676.86,Tons,225394000.0
+2021,340999.0,"Lettuce, Head",53,Monterey,37800.0,22.49,850000.0,531.24,Tons,451556000.0
+2021,340999.0,"Lettuce, Head",65,Riverside,2980.0,12.48,37200.0,761.02,Tons,28310000.0
+2021,340999.0,"Lettuce, Head",69,San Benito,865.0,12.37,10700.0,368.88,Tons,3947000.0
+2021,340999.0,"Lettuce, Head",79,San Luis Obispo,2620.0,20.19,52900.0,405.16,Tons,21433000.0
+2021,340999.0,"Lettuce, Head",83,Santa Barbara,7940.0,18.01,143000.0,517.93,Tons,74064000.0
+2021,340999.0,"Lettuce, Head",87,Santa Cruz,1640.0,22.99,37700.0,383.5,Tons,14458000.0
+2021,340999.0,"Lettuce, Head",998,Sum of Others,712.0,,,,,6889000.0
+2021,340999.0,"Lettuce, Head",999,State Total,74827.0,21.19,1570500.0,565.84,Tons,895546000.0
+2021,342999.0,"Lettuce, Leaf",25,Imperial,10700.0,9.81,105000.0,1182.1,Tons,124120000.0
+2021,342999.0,"Lettuce, Leaf",53,Monterey,8740.0,11.9,104000.0,912.74,Tons,94925000.0
+2021,342999.0,"Lettuce, Leaf",79,San Luis Obispo,1370.0,12.55,17200.0,765.93,Tons,13174000.0
+2021,342999.0,"Lettuce, Leaf",83,Santa Barbara,6810.0,11.95,81400.0,931.9,Tons,75857000.0
+2021,342999.0,"Lettuce, Leaf",87,Santa Cruz,1410.0,17.94,25300.0,456.48,Tons,11549000.0
+2021,342999.0,"Lettuce, Leaf",111,Ventura,592.0,19.59,11600.0,2552.41,Tons,29608000.0
+2021,342999.0,"Lettuce, Leaf",998,Sum of Others,1020.0,,,,,7260000.0
+2021,342999.0,"Lettuce, Leaf",999,State Total,30642.0,11.63,344500.0,1013.74,Tons,356493000.0
+2021,339999.0,"Lettuce, Unspecified",19,Fresno,4080.0,10.0,40800.0,801.0,Tons,32681000.0
+2021,339999.0,"Lettuce, Unspecified",53,Monterey,,,34600.0,585.0,Tons,20241000.0
+2021,339999.0,"Lettuce, Unspecified",69,San Benito,6650.0,,,,,36077000.0
+2021,339999.0,"Lettuce, Unspecified",71,San Bernardino,24.0,5.83,140.0,1757.14,Tons,246000.0
+2021,339999.0,"Lettuce, Unspecified",85,Santa Clara,2770.0,6.21,17200.0,1017.62,Tons,17503000.0
+2021,339999.0,"Lettuce, Unspecified",998,Sum of Others,35.0,,,,,101000.0
+2021,339999.0,"Lettuce, Unspecified",999,State Total,13559.0,8.46,92740.0,762.03,Tons,106849000.0
+2021,341999.0,"Lettuce, Romaine",25,Imperial,8650.0,13.3,115000.0,557.11,Tons,64068000.0
+2021,341999.0,"Lettuce, Romaine",53,Monterey,48300.0,16.27,786000.0,791.52,Tons,622139000.0
+2021,341999.0,"Lettuce, Romaine",65,Riverside,880.0,12.73,11200.0,590.0,Tons,6608000.0
+2021,341999.0,"Lettuce, Romaine",69,San Benito,2860.0,12.97,37100.0,448.19,Tons,16628000.0
+2021,341999.0,"Lettuce, Romaine",111,Ventura,950.0,19.05,18100.0,153.09,Tons,2771000.0
+2021,341999.0,"Lettuce, Romaine",998,Sum of Others,657.0,,,,,5099000.0
+2021,341999.0,"Lettuce, Romaine",999,State Total,62297.0,15.69,967400.0,736.22,Tons,717313000.0
+2021,205999.0,"Limes, All",73,San Diego,244.0,4.43,1080.0,1622.22,,1752000.0
+2021,205999.0,"Limes, All",998,Sum of Others,6.0,,,,,50400.0
+2021,205999.0,"Limes, All",999,State Total,250.0,4.43,1080.0,1622.22,,1802400.0
+2021,478999.0,"Livestock Products, Misc.",5,Amador,,,,,,61100.0
+2021,478999.0,"Livestock Products, Misc.",9,Calaveras,,,,,,10300.0
+2021,478999.0,"Livestock Products, Misc.",11,Colusa,,,,,,50000.0
+2021,478999.0,"Livestock Products, Misc.",43,Mariposa,,,,,,528000.0
+2021,478999.0,"Livestock Products, Misc.",45,Mendocino,,,,,,1368000.0
+2021,478999.0,"Livestock Products, Misc.",53,Monterey,,,,,,28010000.0
+2021,478999.0,"Livestock Products, Misc.",55,Napa,,,,,,1224000.0
+2021,478999.0,"Livestock Products, Misc.",61,Placer,,,,,,1606000.0
+2021,478999.0,"Livestock Products, Misc.",65,Riverside,,,,,,1700000.0
+2021,478999.0,"Livestock Products, Misc.",67,Sacramento,,,,,,591000.0
+2021,478999.0,"Livestock Products, Misc.",69,San Benito,,,,,,3011000.0
+2021,478999.0,"Livestock Products, Misc.",81,San Mateo,,,,,,986000.0
+2021,478999.0,"Livestock Products, Misc.",95,Solano,,,,,,22800000.0
+2021,478999.0,"Livestock Products, Misc.",97,Sonoma,,,,,,25826000.0
+2021,478999.0,"Livestock Products, Misc.",101,Sutter,,,,,,3000.0
+2021,478999.0,"Livestock Products, Misc.",107,Tulare,,,,,,1736000.0
+2021,478999.0,"Livestock Products, Misc.",109,Tuolumne,,,,,,162000.0
+2021,478999.0,"Livestock Products, Misc.",998,Sum of Others,,,,,,961000.0
+2021,478999.0,"Livestock Products, Misc.",999,State Total,,,,,,90633400.0
+2021,469999.0,"Livestock, Unspecified",1,Alameda,,,,,,608000.0
+2021,469999.0,"Livestock, Unspecified",5,Amador,,,,,,294000.0
+2021,469999.0,"Livestock, Unspecified",7,Butte,,,,,,2100000.0
+2021,469999.0,"Livestock, Unspecified",9,Calaveras,,,,,,68200.0
+2021,469999.0,"Livestock, Unspecified",11,Colusa,,,,,,1850000.0
+2021,469999.0,"Livestock, Unspecified",13,Contra Costa,,,,,,1573000.0
+2021,469999.0,"Livestock, Unspecified",17,El Dorado,,,,,,3175000.0
+2021,469999.0,"Livestock, Unspecified",25,Imperial,,,,,,40921000.0
+2021,469999.0,"Livestock, Unspecified",27,Inyo,,,,,,135000.0
+2021,469999.0,"Livestock, Unspecified",29,Kern,,,,,,1094000.0
+2021,469999.0,"Livestock, Unspecified",31,Kings,,,,,,311000.0
+2021,469999.0,"Livestock, Unspecified",33,Lake,,,,,,815000.0
+2021,469999.0,"Livestock, Unspecified",43,Mariposa,,,,,,573000.0
+2021,469999.0,"Livestock, Unspecified",45,Mendocino,,,,,,469000.0
+2021,469999.0,"Livestock, Unspecified",51,Mono,,,,,,2190000.0
+2021,469999.0,"Livestock, Unspecified",55,Napa,,,,,,12800.0
+2021,469999.0,"Livestock, Unspecified",57,Nevada,,,,,,1011000.0
+2021,469999.0,"Livestock, Unspecified",61,Placer,,,,,,5885000.0
+2021,469999.0,"Livestock, Unspecified",67,Sacramento,,,,,,758000.0
+2021,469999.0,"Livestock, Unspecified",77,San Joaquin,,,,,,6169000.0
+2021,469999.0,"Livestock, Unspecified",79,San Luis Obispo,,,,,,3354000.0
+2021,469999.0,"Livestock, Unspecified",83,Santa Barbara,,,,,,8260000.0
+2021,469999.0,"Livestock, Unspecified",85,Santa Clara,,,,,,230000.0
+2021,469999.0,"Livestock, Unspecified",87,Santa Cruz,,,,,,6330000.0
+2021,469999.0,"Livestock, Unspecified",89,Shasta,,,,,,5341000.0
+2021,469999.0,"Livestock, Unspecified",93,Siskiyou,,,,,,288000.0
+2021,469999.0,"Livestock, Unspecified",95,Solano,,,,,,1158000.0
+2021,469999.0,"Livestock, Unspecified",97,Sonoma,,,,,,12063000.0
+2021,469999.0,"Livestock, Unspecified",107,Tulare,,,,,,8769000.0
+2021,469999.0,"Livestock, Unspecified",109,Tuolumne,,,,,,11992000.0
+2021,469999.0,"Livestock, Unspecified",111,Ventura,,,,,,4636000.0
+2021,469999.0,"Livestock, Unspecified",113,Yolo,,,,,,3570000.0
+2021,469999.0,"Livestock, Unspecified",115,Yuba,,,,,,25059000.0
+2021,469999.0,"Livestock, Unspecified",998,Sum of Others,,,,,,7498000.0
+2021,469999.0,"Livestock, Unspecified",999,State Total,,,,,,168560000.0
+2021,478799.0,Manure,19,Fresno,,,1848000.0,8.34,Tons,15412000.0
+2021,478799.0,Manure,29,Kern,,,625000.0,12.14,Tons,7589000.0
+2021,478799.0,Manure,31,Kings,,,881000.0,5.4,Tons,4757000.0
+2021,478799.0,Manure,47,Merced,,,1617000.0,9.53,Tons,15413000.0
+2021,478799.0,Manure,77,San Joaquin,,,220000.0,4.03,Tons,886000.0
+2021,478799.0,Manure,99,Stanislaus,,,946000.0,8.29,Tons,7839000.0
+2021,478799.0,Manure,107,Tulare,,,2895000.0,3.08,Tons,8917000.0
+2021,478799.0,Manure,998,Sum of Others,,,,,,1177000.0
+2021,478799.0,Manure,999,State Total,,,9032000.0,6.73,Tons,61990000.0
+2021,343999.0,"Melons, Cantaloupe",19,Fresno,9640.0,14.73,142000.0,430.0,Tons,61060000.0
+2021,343999.0,"Melons, Cantaloupe",25,Imperial,4380.0,12.49,54700.0,505.89,Tons,27672000.0
+2021,343999.0,"Melons, Cantaloupe",47,Merced,3720.0,18.55,69000.0,211.91,Tons,14622000.0
+2021,343999.0,"Melons, Cantaloupe",65,Riverside,830.0,16.02,13300.0,384.96,Tons,5120000.0
+2021,343999.0,"Melons, Cantaloupe",998,Sum of Others,336.0,,,,,983000.0
+2021,343999.0,"Melons, Cantaloupe",999,State Total,18906.0,15.02,279000.0,388.8,Tons,109457000.0
+2021,348999.0,"Melons, Honeydew",19,Fresno,3440.0,17.91,61600.0,478.0,Tons,29445000.0
+2021,348999.0,"Melons, Honeydew",25,Imperial,994.0,20.02,19900.0,364.72,Tons,7258000.0
+2021,348999.0,"Melons, Honeydew",65,Riverside,400.0,16.0,6400.0,500.0,Tons,3200000.0
+2021,348999.0,"Melons, Honeydew",998,Sum of Others,939.0,,,,,5728000.0
+2021,348999.0,"Melons, Honeydew",999,State Total,5773.0,18.18,87900.0,453.96,Tons,45631000.0
+2021,354299.0,"Melons, Unspecified",19,Fresno,2000.0,12.95,25900.0,585.98,Tons,15177000.0
+2021,354299.0,"Melons, Unspecified",65,Riverside,930.0,16.02,14900.0,500.0,Tons,7450000.0
+2021,354299.0,"Melons, Unspecified",77,San Joaquin,1080.0,19.82,21400.0,102.8,Tons,2200000.0
+2021,354299.0,"Melons, Unspecified",99,Stanislaus,3460.0,,,,,28733000.0
+2021,354299.0,"Melons, Unspecified",998,Sum of Others,190.0,,,,,1076000.0
+2021,354299.0,"Melons, Unspecified",999,State Total,7660.0,15.51,62200.0,399.15,Tons,54636000.0
+2021,354999.0,"Melons, Watermelon",19,Fresno,3440.0,23.92,82300.0,306.0,Tons,25184000.0
+2021,354999.0,"Melons, Watermelon",29,Kern,1280.0,33.67,43100.0,362.46,Tons,15622000.0
+2021,354999.0,"Melons, Watermelon",65,Riverside,1000.0,16.0,16000.0,378.12,Tons,6050000.0
+2021,354999.0,"Melons, Watermelon",71,San Bernardino,51.0,22.75,1160.0,316.38,Tons,367000.0
+2021,354999.0,"Melons, Watermelon",77,San Joaquin,2170.0,45.25,98200.0,380.66,Tons,37381000.0
+2021,354999.0,"Melons, Watermelon",998,Sum of Others,1310.0,,,,,11368000.0
+2021,354999.0,"Melons, Watermelon",999,State Total,9251.0,30.32,240760.0,351.4,Tons,95972000.0
+2021,,"Milk, Cow's, All",7,Butte,,,,,,1179000.0
+2021,,"Milk, Cow's, All",19,Fresno,,,,,,484548000.0
+2021,,"Milk, Cow's, All",21,Glenn,,,,,,68928000.0
+2021,,"Milk, Cow's, All",29,Kern,,,,,,688624000.0
+2021,,"Milk, Cow's, All",31,Kings,,,,,,722744000.0
+2021,,"Milk, Cow's, All",39,Madera,,,,,,330812000.0
+2021,,"Milk, Cow's, All",41,Marin,,,,,,35931000.0
+2021,,"Milk, Cow's, All",47,Merced,,,,,,1093632000.0
+2021,,"Milk, Cow's, All",65,Riverside,,,,,,174800000.0
+2021,,"Milk, Cow's, All",67,Sacramento,,,,,,66624000.0
+2021,,"Milk, Cow's, All",71,San Bernardino,,,,,,115490000.0
+2021,,"Milk, Cow's, All",77,San Joaquin,,,,,,445621000.0
+2021,,"Milk, Cow's, All",93,Siskiyou,,,,,,3380000.0
+2021,,"Milk, Cow's, All",97,Sonoma,,,,,,124451000.0
+2021,,"Milk, Cow's, All",99,Stanislaus,,,,,,797694000.0
+2021,,"Milk, Cow's, All",103,Tehama,,,,,,10056000.0
+2021,,"Milk, Cow's, All",107,Tulare,,,,,,1943043000.0
+2021,,"Milk, Cow's, All",998,Sum of Others,,,,,,18592000.0
+2021,,"Milk, Cow's, All",999,State Total,,,,,,7126149000.0
+2021,501199.0,"Milk, Market, Fluid",71,San Bernardino,,,,,,111308000.0
+2021,501199.0,"Milk, Market, Fluid",93,Siskiyou,,,200000.0,16.9,Cwt,3380000.0
+2021,501199.0,"Milk, Market, Fluid",103,Tehama,,,510000.0,19.72,Cwt,10056000.0
+2021,501199.0,"Milk, Market, Fluid",998,Sum of Others,,,,,,7844000.0
+2021,501199.0,"Milk, Market, Fluid",999,State Total,,,710000.0,18.92,,132588000.0
+2021,501299.0,"Milk, Manufacturing",71,San Bernardino,,,,,,4182000.0
+2021,501299.0,"Milk, Manufacturing",999,State Total,,,,,,4182000.0
+2021,501999.0,"Milk, Unspecified, Cow's",7,Butte,,,,,,1179000.0
+2021,501999.0,"Milk, Unspecified, Cow's",19,Fresno,,,24951000.0,19.42,Cwt,484548000.0
+2021,501999.0,"Milk, Unspecified, Cow's",21,Glenn,,,3590000.0,19.2,Cwt,68928000.0
+2021,501999.0,"Milk, Unspecified, Cow's",29,Kern,,,35680000.0,19.3,Cwt,688624000.0
+2021,501999.0,"Milk, Unspecified, Cow's",31,Kings,,,37840000.0,19.1,Cwt,722744000.0
+2021,501999.0,"Milk, Unspecified, Cow's",39,Madera,,,17320000.0,19.1,Cwt,330812000.0
+2021,501999.0,"Milk, Unspecified, Cow's",41,Marin,,,1234000.0,29.12,Cwt,35931000.0
+2021,501999.0,"Milk, Unspecified, Cow's",47,Merced,,,56960000.0,19.2,Cwt,1093632000.0
+2021,501999.0,"Milk, Unspecified, Cow's",65,Riverside,,,9200000.0,19.0,,174800000.0
+2021,501999.0,"Milk, Unspecified, Cow's",67,Sacramento,,,3470000.0,19.2,Cwt,66624000.0
+2021,501999.0,"Milk, Unspecified, Cow's",77,San Joaquin,,,23830000.0,18.7,Cwt,445621000.0
+2021,501999.0,"Milk, Unspecified, Cow's",97,Sonoma,,,4464000.0,27.88,Cwt,124451000.0
+2021,501999.0,"Milk, Unspecified, Cow's",99,Stanislaus,,,41547000.0,19.2,Cwt,797694000.0
+2021,501999.0,"Milk, Unspecified, Cow's",107,Tulare,,,101730000.0,19.1,Cwt,1943043000.0
+2021,501999.0,"Milk, Unspecified, Cow's",998,Sum of Others,,,,,,10748000.0
+2021,501999.0,"Milk, Unspecified, Cow's",999,State Total,,,361816000.0,19.28,,6989379000.0
+2021,478119.0,"Goats, Milk",31,Kings,,,136000.0,45.35,Cwt,6167000.0
+2021,478119.0,"Goats, Milk",47,Merced,,,72900.0,41.93,Cwt,3057000.0
+2021,478119.0,"Goats, Milk",63,Plumas,,,53.0,40.0,Cwt,2120.0
+2021,478119.0,"Goats, Milk",99,Stanislaus,,,105000.0,36.17,Cwt,3798000.0
+2021,478119.0,"Goats, Milk",998,Sum of Others,,,,,,1812000.0
+2021,478119.0,"Goats, Milk",999,State Total,,,313953.0,41.48,Cwt,14836120.0
+2021,398699.0,Mint,49,Modoc,1740.0,0.04,70.0,45685.71,Tons,3198000.0
+2021,398699.0,Mint,93,Siskiyou,265.0,0.04,11.0,45090.91,Tons,496000.0
+2021,398699.0,Mint,999,State Total,2005.0,0.04,81.0,45604.94,Tons,3694000.0
+2021,355999.0,Mushrooms,53,Monterey,116.0,163.79,19000.0,4122.47,Tons,78327000.0
+2021,355999.0,Mushrooms,85,Santa Clara,133.0,131.58,17500.0,4541.71,Tons,79480000.0
+2021,355999.0,Mushrooms,998,Sum of Others,6.0,,,,,47600.0
+2021,355999.0,Mushrooms,999,State Total,255.0,146.59,36500.0,4323.48,Tons,157854600.0
+2021,218199.0,Nectarines,19,Fresno,10900.0,9.27,101000.0,1489.0,Tons,150389000.0
+2021,218199.0,Nectarines,31,Kings,1120.0,12.14,13600.0,1354.19,Tons,18417000.0
+2021,218199.0,Nectarines,93,Siskiyou,1.0,,,,,15000.0
+2021,218199.0,Nectarines,107,Tulare,8830.0,9.41,83100.0,1530.0,Tons,127143000.0
+2021,218199.0,Nectarines,998,Sum of Others,172.0,,,,,2315000.0
+2021,218199.0,Nectarines,999,State Total,21023.0,9.48,197700.0,1496.96,Tons,298279000.0
+2021,,"Oats, All",21,Glenn,4620.0,,,,,1981000.0
+2021,,"Oats, All",31,Kings,2500.0,,,,,777000.0
+2021,,"Oats, All",39,Madera,2000.0,,,,,1061000.0
+2021,,"Oats, All",53,Monterey,467.0,,,,,97600.0
+2021,,"Oats, All",65,Riverside,1780.0,,,,,659000.0
+2021,,"Oats, All",67,Sacramento,6370.0,,,,,3025000.0
+2021,,"Oats, All",93,Siskiyou,671.0,,,,,391000.0
+2021,,"Oats, All",97,Sonoma,105.0,,,,,21700.0
+2021,,"Oats, All",99,Stanislaus,34900.0,,,,,23604000.0
+2021,,"Oats, All",998,Sum of Others,16200.0,,,,,7437000.0
+2021,,"Oats, All",999,State Total,69613.0,,,,,39054300.0
+2021,112999.0,"Oats, Grain",65,Riverside,850.0,,,,,355000.0
+2021,112999.0,"Oats, Grain",93,Siskiyou,671.0,2.74,1840.0,212.5,Tons,391000.0
+2021,112999.0,"Oats, Grain",97,Sonoma,105.0,0.58,61.0,355.74,Tons,21700.0
+2021,112999.0,"Oats, Grain",998,Sum of Others,3130.0,,,,,910000.0
+2021,112999.0,"Oats, Grain",999,State Total,4756.0,2.45,1901.0,217.1,,1677700.0
+2021,188499.0,"Hay, Grain",21,Glenn,4620.0,3.03,14000.0,141.5,Tons,1981000.0
+2021,188499.0,"Hay, Grain",31,Kings,1260.0,1.97,2480.0,153.63,Tons,381000.0
+2021,188499.0,"Hay, Grain",39,Madera,2000.0,3.12,6240.0,170.03,Tons,1061000.0
+2021,188499.0,"Hay, Grain",65,Riverside,400.0,2.4,960.0,200.0,Tons,192000.0
+2021,188499.0,"Hay, Grain",67,Sacramento,3300.0,3.21,10600.0,171.32,Tons,1816000.0
+2021,188499.0,"Hay, Grain",99,Stanislaus,24800.0,3.67,91000.0,188.5,Tons,17153000.0
+2021,188499.0,"Hay, Grain",998,Sum of Others,10800.0,,,,,5548000.0
+2021,188499.0,"Hay, Grain",999,State Total,47180.0,3.44,125280.0,180.27,Tons,28132000.0
+2021,198999.0,"Field Crops, Unspecified",53,Monterey,467.0,,,,,97600.0
+2021,198999.0,"Field Crops, Unspecified",999,State Total,467.0,,,,,97600.0
+2021,195199.0,Silage,31,Kings,1230.0,10.73,13200.0,30.0,Tons,396000.0
+2021,195199.0,Silage,65,Riverside,530.0,4.3,2280.0,49.12,Tons,112000.0
+2021,195199.0,Silage,67,Sacramento,3070.0,14.69,45100.0,26.81,Tons,1209000.0
+2021,195199.0,Silage,99,Stanislaus,10100.0,14.95,151000.0,42.72,Tons,6451000.0
+2021,195199.0,Silage,998,Sum of Others,2340.0,,,,,979000.0
+2021,195199.0,Silage,999,State Total,17270.0,14.17,211580.0,38.6,Tons,9147000.0
+2021,357999.0,Okra,65,Riverside,1140.0,7.37,8400.0,949.88,Tons,7979000.0
+2021,357999.0,Okra,998,Sum of Others,546.0,,,,,2580000.0
+2021,357999.0,Okra,999,State Total,1686.0,7.37,8400.0,949.88,Tons,10559000.0
+2021,226999.0,Olives,7,Butte,758.0,3.1,2350.0,700.0,Tons,1645000.0
+2021,226999.0,Olives,9,Calaveras,18.0,1.39,25.0,992.0,,24800.0
+2021,226999.0,Olives,11,Colusa,209.0,4.78,1000.0,803.0,Tons,803000.0
+2021,226999.0,Olives,13,Contra Costa,238.0,4.79,1140.0,1051.75,Tons,1199000.0
+2021,226999.0,Olives,17,El Dorado,65.0,,,,,102000.0
+2021,226999.0,Olives,21,Glenn,8100.0,4.12,33400.0,936.92,Tons,31293000.0
+2021,226999.0,Olives,39,Madera,510.0,2.61,1330.0,1015.04,Tons,1350000.0
+2021,226999.0,Olives,45,Mendocino,123.0,,,,,
+2021,226999.0,Olives,55,Napa,57.0,1.88,107.0,2112.15,Tons,226000.0
+2021,226999.0,Olives,69,San Benito,174.0,1.88,327.0,703.36,Tons,230000.0
+2021,226999.0,Olives,77,San Joaquin,5180.0,3.49,18100.0,704.53,Tons,12752000.0
+2021,226999.0,Olives,95,Solano,295.0,1.29,380.0,3663.16,Tons,1392000.0
+2021,226999.0,Olives,97,Sonoma,391.0,,,,,400000.0
+2021,226999.0,Olives,99,Stanislaus,1080.0,4.44,4800.0,729.17,Tons,3500000.0
+2021,226999.0,Olives,101,Sutter,1030.0,4.48,4620.0,860.82,Tons,3977000.0
+2021,226999.0,Olives,103,Tehama,7850.0,4.99,39200.0,815.15,Tons,31954000.0
+2021,226999.0,Olives,107,Tulare,8240.0,2.4,19800.0,1320.0,Tons,26136000.0
+2021,226999.0,Olives,113,Yolo,6050.0,3.65,22100.0,783.98,Tons,17326000.0
+2021,226999.0,Olives,998,Sum of Others,4690.0,,,,,24462000.0
+2021,226999.0,Olives,999,State Total,45058.0,3.74,148679.0,899.98,Tons,158771800.0
+2021,358999.0,Onions,19,Fresno,15600.0,17.56,274000.0,412.0,Tons,112888000.0
+2021,358999.0,Onions,25,Imperial,14900.0,,,,,62802000.0
+2021,358999.0,Onions,29,Kern,5460.0,30.4,166000.0,264.81,Tons,43958000.0
+2021,358999.0,Onions,49,Modoc,1870.0,22.51,42100.0,174.58,Tons,7350000.0
+2021,358999.0,Onions,53,Monterey,1690.0,31.24,52800.0,487.99,Tons,25766000.0
+2021,358999.0,Onions,65,Riverside,5100.0,18.0,91800.0,120.0,Tons,11016000.0
+2021,358999.0,Onions,71,San Bernardino,18.0,17.44,314.0,675.16,Tons,212000.0
+2021,358999.0,Onions,77,San Joaquin,1710.0,23.16,39600.0,238.91,Tons,9461000.0
+2021,358999.0,Onions,85,Santa Clara,50.0,14.6,730.0,494.52,Tons,361000.0
+2021,358999.0,Onions,93,Siskiyou,2650.0,28.75,76200.0,174.97,Tons,13333000.0
+2021,358999.0,Onions,998,Sum of Others,1110.0,,,,,7089000.0
+2021,358999.0,Onions,999,State Total,50158.0,21.77,743544.0,301.72,Tons,294236000.0
+2021,,"Oranges, All",19,Fresno,60700.0,16.64,1010000.0,472.34,Tons,477060000.0
+2021,,"Oranges, All",29,Kern,68600.0,19.78,1357000.0,900.59,Tons,1222098000.0
+2021,,"Oranges, All",39,Madera,4200.0,15.43,64800.0,470.34,Tons,30478000.0
+2021,,"Oranges, All",65,Riverside,4360.0,12.38,54000.0,406.94,Tons,21975000.0
+2021,,"Oranges, All",71,San Bernardino,2410.0,8.13,19600.0,542.55,Tons,10634000.0
+2021,,"Oranges, All",73,San Diego,8100.0,12.59,102000.0,602.87,Tons,61493000.0
+2021,,"Oranges, All",107,Tulare,177000.0,21.03,3722000.0,658.19,Tons,2449770000.0
+2021,,"Oranges, All",111,Ventura,6130.0,8.06,49400.0,544.01,Tons,26874000.0
+2021,,"Oranges, All",998,Sum of Others,556.0,,,,,2005000.0
+2021,,"Oranges, All",999,State Total,332056.0,19.24,6378800.0,674.17,Tons,4302387000.0
+2021,201999.0,"Oranges, Unspecified",39,Madera,2100.0,15.43,32400.0,470.34,Tons,15239000.0
+2021,201999.0,"Oranges, Unspecified",73,San Diego,4050.0,12.59,51000.0,602.88,,30747000.0
+2021,201999.0,"Oranges, Unspecified",998,Sum of Others,257.0,,,,,960000.0
+2021,201999.0,"Oranges, Unspecified",999,State Total,6407.0,13.56,83400.0,551.39,Tons,46946000.0
+2021,201119.0,"Oranges, Navel",19,Fresno,28000.0,16.07,450000.0,456.8,Tons,205559000.0
+2021,201119.0,"Oranges, Navel",29,Kern,29900.0,20.17,603000.0,912.1,Tons,549993000.0
+2021,201119.0,"Oranges, Navel",65,Riverside,1300.0,14.0,18200.0,390.0,Tons,7098000.0
+2021,201119.0,"Oranges, Navel",71,San Bernardino,790.0,7.66,6050.0,576.86,Tons,3490000.0
+2021,201119.0,"Oranges, Navel",107,Tulare,74800.0,20.75,1552000.0,660.11,Tons,1024491000.0
+2021,201119.0,"Oranges, Navel",111,Ventura,473.0,10.44,4940.0,422.06,Tons,2085000.0
+2021,201119.0,"Oranges, Navel",998,Sum of Others,12.0,,,,,21800.0
+2021,201119.0,"Oranges, Navel",999,State Total,135275.0,19.48,2634190.0,680.56,Tons,1792737800.0
+2021,201519.0,"Oranges, Valencia",19,Fresno,2310.0,23.77,54900.0,600.57,Tons,32971000.0
+2021,201519.0,"Oranges, Valencia",29,Kern,4420.0,17.06,75400.0,809.76,Tons,61056000.0
+2021,201519.0,"Oranges, Valencia",65,Riverside,880.0,10.0,8800.0,442.04,Tons,3890000.0
+2021,201519.0,"Oranges, Valencia",71,San Bernardino,416.0,9.04,3760.0,485.9,Tons,1827000.0
+2021,201519.0,"Oranges, Valencia",107,Tulare,13500.0,22.89,309000.0,648.52,Tons,200394000.0
+2021,201519.0,"Oranges, Valencia",111,Ventura,2590.0,7.64,19800.0,573.33,Tons,11352000.0
+2021,201519.0,"Oranges, Valencia",998,Sum of Others,8.0,,,,,21300.0
+2021,201519.0,"Oranges, Valencia",999,State Total,24124.0,19.56,471660.0,660.41,Tons,311511300.0
+2021,359999.0,Parsley,53,Monterey,250.0,15.84,3960.0,1319.95,Tons,5227000.0
+2021,359999.0,Parsley,111,Ventura,938.0,22.92,21500.0,855.72,Tons,18398000.0
+2021,359999.0,Parsley,998,Sum of Others,1890.0,,,,,8731000.0
+2021,359999.0,Parsley,999,State Total,3078.0,21.43,25460.0,927.93,Tons,32356000.0
+2021,,"Pasture, All",1,Alameda,135000.0,,,,,3150000.0
+2021,,"Pasture, All",3,Alpine,136000.0,,,,,4587000.0
+2021,,"Pasture, All",5,Amador,159000.0,,,,,3418000.0
+2021,,"Pasture, All",7,Butte,201000.0,,,,,4800000.0
+2021,,"Pasture, All",9,Calaveras,99900.0,,,,,2085000.0
+2021,,"Pasture, All",11,Colusa,171000.0,,,,,4110000.0
+2021,,"Pasture, All",13,Contra Costa,153000.0,,,,,4754000.0
+2021,,"Pasture, All",17,El Dorado,235000.0,,,,,7298000.0
+2021,,"Pasture, All",21,Glenn,223000.0,,,,,5189000.0
+2021,,"Pasture, All",25,Imperial,,,,,,1119000.0
+2021,,"Pasture, All",27,Inyo,1164000.0,,,,,2183000.0
+2021,,"Pasture, All",29,Kern,1454000.0,,,,,41649000.0
+2021,,"Pasture, All",31,Kings,338000.0,,,,,9153000.0
+2021,,"Pasture, All",33,Lake,90300.0,,,,,930000.0
+2021,,"Pasture, All",39,Madera,380000.0,,,,,9175000.0
+2021,,"Pasture, All",41,Marin,154000.0,,,,,8470000.0
+2021,,"Pasture, All",43,Mariposa,402000.0,,,,,7635000.0
+2021,,"Pasture, All",45,Mendocino,721000.0,,,,,11748000.0
+2021,,"Pasture, All",47,Merced,564000.0,,,,,18964000.0
+2021,,"Pasture, All",49,Modoc,523000.0,,,,,11810000.0
+2021,,"Pasture, All",51,Mono,1098000.0,,,,,3013000.0
+2021,,"Pasture, All",53,Monterey,1154000.0,,,,,21922000.0
+2021,,"Pasture, All",55,Napa,65000.0,,,,,266000.0
+2021,,"Pasture, All",57,Nevada,105000.0,,,,,3700000.0
+2021,,"Pasture, All",61,Placer,146000.0,,,,,3800000.0
+2021,,"Pasture, All",63,Plumas,113000.0,,,,,4985000.0
+2021,,"Pasture, All",65,Riverside,11500.0,,,,,198000.0
+2021,,"Pasture, All",67,Sacramento,150000.0,,,,,4500000.0
+2021,,"Pasture, All",69,San Benito,504000.0,,,,,16380000.0
+2021,,"Pasture, All",73,San Diego,177000.0,,,,,2428000.0
+2021,,"Pasture, All",77,San Joaquin,134000.0,,,,,6935000.0
+2021,,"Pasture, All",79,San Luis Obispo,,,,,,7084000.0
+2021,,"Pasture, All",81,San Mateo,24800.0,,,,,739000.0
+2021,,"Pasture, All",83,Santa Barbara,570000.0,,,,,6734000.0
+2021,,"Pasture, All",85,Santa Clara,254000.0,,,,,3300000.0
+2021,,"Pasture, All",89,Shasta,421000.0,,,,,8250000.0
+2021,,"Pasture, All",91,Sierra,57000.0,,,,,2658000.0
+2021,,"Pasture, All",93,Siskiyou,681000.0,,,,,13156000.0
+2021,,"Pasture, All",95,Solano,206000.0,,,,,5850000.0
+2021,,"Pasture, All",97,Sonoma,315000.0,,,,,6176000.0
+2021,,"Pasture, All",99,Stanislaus,424000.0,,,,,20715000.0
+2021,,"Pasture, All",103,Tehama,931000.0,,,,,14032000.0
+2021,,"Pasture, All",107,Tulare,780000.0,,,,,58231000.0
+2021,,"Pasture, All",109,Tuolumne,334000.0,,,,,5610000.0
+2021,,"Pasture, All",111,Ventura,195000.0,,,,,350000.0
+2021,,"Pasture, All",113,Yolo,35800.0,,,,,1625000.0
+2021,,"Pasture, All",115,Yuba,196000.0,,,,,5692000.0
+2021,,"Pasture, All",998,Sum of Others,2288000.0,,,,,33600000.0
+2021,,"Pasture, All",999,State Total,18673300.0,,,,,424156000.0
+2021,194599.0,"Pasture, Irrigated",3,Alpine,2900.0,,,,,597000.0
+2021,194599.0,"Pasture, Irrigated",5,Amador,2350.0,,,,,282000.0
+2021,194599.0,"Pasture, Irrigated",7,Butte,11000.0,,,,,1760000.0
+2021,194599.0,"Pasture, Irrigated",9,Calaveras,1290.0,,,,,311000.0
+2021,194599.0,"Pasture, Irrigated",11,Colusa,1200.0,,,,,210000.0
+2021,194599.0,"Pasture, Irrigated",13,Contra Costa,5450.0,,,,,1646000.0
+2021,194599.0,"Pasture, Irrigated",17,El Dorado,1580.0,,,,,308000.0
+2021,194599.0,"Pasture, Irrigated",21,Glenn,9530.0,,,,,2525000.0
+2021,194599.0,"Pasture, Irrigated",27,Inyo,13700.0,,,,,904000.0
+2021,194599.0,"Pasture, Irrigated",29,Kern,5500.0,,,,,1045000.0
+2021,194599.0,"Pasture, Irrigated",33,Lake,300.0,,,,,30000.0
+2021,194599.0,"Pasture, Irrigated",39,Madera,440.0,,,,,55000.0
+2021,194599.0,"Pasture, Irrigated",45,Mendocino,3200.0,,,,,979000.0
+2021,194599.0,"Pasture, Irrigated",47,Merced,13100.0,,,,,2154000.0
+2021,194599.0,"Pasture, Irrigated",49,Modoc,23500.0,,,,,10000000.0
+2021,194599.0,"Pasture, Irrigated",51,Mono,19900.0,,,,,1471000.0
+2021,194599.0,"Pasture, Irrigated",57,Nevada,10000.0,,,,,1800000.0
+2021,194599.0,"Pasture, Irrigated",61,Placer,18000.0,,,,,2520000.0
+2021,194599.0,"Pasture, Irrigated",63,Plumas,17000.0,,,,,3062000.0
+2021,194599.0,"Pasture, Irrigated",65,Riverside,1520.0,,,,,185000.0
+2021,194599.0,"Pasture, Irrigated",71,San Bernardino,240.0,,,,,437000.0
+2021,194599.0,"Pasture, Irrigated",73,San Diego,714.0,,,,,1466000.0
+2021,194599.0,"Pasture, Irrigated",77,San Joaquin,14500.0,,,,,3335000.0
+2021,194599.0,"Pasture, Irrigated",81,San Mateo,221.0,,,,,52000.0
+2021,194599.0,"Pasture, Irrigated",83,Santa Barbara,2750.0,,,,,663000.0
+2021,194599.0,"Pasture, Irrigated",89,Shasta,28000.0,,,,,3920000.0
+2021,194599.0,"Pasture, Irrigated",91,Sierra,9480.0,,,,,1707000.0
+2021,194599.0,"Pasture, Irrigated",93,Siskiyou,87500.0,,,,,7225000.0
+2021,194599.0,"Pasture, Irrigated",95,Solano,18400.0,,,,,2541000.0
+2021,194599.0,"Pasture, Irrigated",97,Sonoma,6340.0,,,,,526000.0
+2021,194599.0,"Pasture, Irrigated",99,Stanislaus,23100.0,,,,,6784000.0
+2021,194599.0,"Pasture, Irrigated",103,Tehama,17600.0,,,,,4212000.0
+2021,194599.0,"Pasture, Irrigated",107,Tulare,111000.0,,,,,32967000.0
+2021,194599.0,"Pasture, Irrigated",109,Tuolumne,854.0,,,,,145000.0
+2021,194599.0,"Pasture, Irrigated",113,Yolo,5770.0,,,,,843000.0
+2021,194599.0,"Pasture, Irrigated",115,Yuba,8760.0,,,,,1576000.0
+2021,194599.0,"Pasture, Irrigated",998,Sum of Others,19300.0,,,,,2143000.0
+2021,194599.0,"Pasture, Irrigated",999,State Total,515989.0,,,,,102386000.0
+2021,194799.0,"Pasture, Forage, Misc",25,Imperial,,,,,,1119000.0
+2021,194799.0,"Pasture, Forage, Misc",29,Kern,,,,,,1419000.0
+2021,194799.0,"Pasture, Forage, Misc",45,Mendocino,363000.0,,,,,6850000.0
+2021,194799.0,"Pasture, Forage, Misc",89,Shasta,100000.0,,,,,1400000.0
+2021,194799.0,"Pasture, Forage, Misc",103,Tehama,,,,,,42300.0
+2021,194799.0,"Pasture, Forage, Misc",107,Tulare,53500.0,,,,,2140000.0
+2021,194799.0,"Pasture, Forage, Misc",998,Sum of Others,2040.0,,,,,2048000.0
+2021,194799.0,"Pasture, Forage, Misc",999,State Total,518540.0,,,,,15018300.0
+2021,194699.0,"Pasture, Range",1,Alameda,135000.0,,,,,3150000.0
+2021,194699.0,"Pasture, Range",3,Alpine,133000.0,,,,,3990000.0
+2021,194699.0,"Pasture, Range",5,Amador,157000.0,,,,,3136000.0
+2021,194699.0,"Pasture, Range",7,Butte,190000.0,,,,,3040000.0
+2021,194699.0,"Pasture, Range",9,Calaveras,98600.0,,,,,1775000.0
+2021,194699.0,"Pasture, Range",11,Colusa,170000.0,,,,,3900000.0
+2021,194699.0,"Pasture, Range",13,Contra Costa,148000.0,,,,,3108000.0
+2021,194699.0,"Pasture, Range",17,El Dorado,233000.0,,,,,6990000.0
+2021,194699.0,"Pasture, Range",21,Glenn,213000.0,,,,,2664000.0
+2021,194699.0,"Pasture, Range",27,Inyo,1150000.0,,,,,1279000.0
+2021,194699.0,"Pasture, Range",29,Kern,1448000.0,,,,,39185000.0
+2021,194699.0,"Pasture, Range",31,Kings,338000.0,,,,,9153000.0
+2021,194699.0,"Pasture, Range",33,Lake,90000.0,,,,,900000.0
+2021,194699.0,"Pasture, Range",39,Madera,380000.0,,,,,9120000.0
+2021,194699.0,"Pasture, Range",41,Marin,154000.0,,,,,8470000.0
+2021,194699.0,"Pasture, Range",43,Mariposa,402000.0,,,,,7635000.0
+2021,194699.0,"Pasture, Range",45,Mendocino,355000.0,,,,,3919000.0
+2021,194699.0,"Pasture, Range",47,Merced,551000.0,,,,,16810000.0
+2021,194699.0,"Pasture, Range",49,Modoc,500000.0,,,,,1810000.0
+2021,194699.0,"Pasture, Range",51,Mono,1078000.0,,,,,1542000.0
+2021,194699.0,"Pasture, Range",53,Monterey,1154000.0,,,,,21922000.0
+2021,194699.0,"Pasture, Range",55,Napa,65000.0,,,,,266000.0
+2021,194699.0,"Pasture, Range",57,Nevada,95000.0,,,,,1900000.0
+2021,194699.0,"Pasture, Range",61,Placer,128000.0,,,,,1280000.0
+2021,194699.0,"Pasture, Range",63,Plumas,96100.0,,,,,1922000.0
+2021,194699.0,"Pasture, Range",65,Riverside,10000.0,,,,,12500.0
+2021,194699.0,"Pasture, Range",67,Sacramento,150000.0,,,,,4500000.0
+2021,194699.0,"Pasture, Range",69,San Benito,504000.0,,,,,16380000.0
+2021,194699.0,"Pasture, Range",71,San Bernardino,1349000.0,,,,,13489000.0
+2021,194699.0,"Pasture, Range",73,San Diego,176000.0,,,,,962000.0
+2021,194699.0,"Pasture, Range",77,San Joaquin,120000.0,,,,,3600000.0
+2021,194699.0,"Pasture, Range",79,San Luis Obispo,,,,,,7084000.0
+2021,194699.0,"Pasture, Range",81,San Mateo,24500.0,,,,,687000.0
+2021,194699.0,"Pasture, Range",83,Santa Barbara,568000.0,,,,,6071000.0
+2021,194699.0,"Pasture, Range",85,Santa Clara,254000.0,,,,,3300000.0
+2021,194699.0,"Pasture, Range",89,Shasta,293000.0,,,,,2930000.0
+2021,194699.0,"Pasture, Range",91,Sierra,47600.0,,,,,951000.0
+2021,194699.0,"Pasture, Range",93,Siskiyou,594000.0,,,,,5931000.0
+2021,194699.0,"Pasture, Range",95,Solano,188000.0,,,,,3309000.0
+2021,194699.0,"Pasture, Range",97,Sonoma,309000.0,,,,,5650000.0
+2021,194699.0,"Pasture, Range",99,Stanislaus,401000.0,,,,,13931000.0
+2021,194699.0,"Pasture, Range",103,Tehama,914000.0,,,,,9778000.0
+2021,194699.0,"Pasture, Range",107,Tulare,615000.0,,,,,23124000.0
+2021,194699.0,"Pasture, Range",109,Tuolumne,333000.0,,,,,5465000.0
+2021,194699.0,"Pasture, Range",111,Ventura,195000.0,,,,,350000.0
+2021,194699.0,"Pasture, Range",113,Yolo,30100.0,,,,,782000.0
+2021,194699.0,"Pasture, Range",115,Yuba,187000.0,,,,,4116000.0
+2021,194699.0,"Pasture, Range",998,Sum of Others,918000.0,,,,,15483000.0
+2021,194699.0,"Pasture, Range",999,State Total,17641900.0,,,,,306751500.0
+2021,,"Peaches, All",7,Butte,1340.0,14.55,19500.0,499.69,Tons,9744000.0
+2021,,"Peaches, All",13,Contra Costa,121.0,3.86,467.0,3059.96,Tons,1429000.0
+2021,,"Peaches, All",17,El Dorado,110.0,4.67,514.0,5480.54,Tons,2817000.0
+2021,,"Peaches, All",19,Fresno,18000.0,10.11,182000.0,1232.42,Tons,224301000.0
+2021,,"Peaches, All",31,Kings,2410.0,14.31,34500.0,928.81,Tons,32044000.0
+2021,,"Peaches, All",47,Merced,2900.0,16.52,47900.0,480.5,Tons,23016000.0
+2021,,"Peaches, All",61,Placer,94.0,1.86,175.0,2000.0,Tons,350000.0
+2021,,"Peaches, All",65,Riverside,100.0,3.0,300.0,2900.0,Tons,870000.0
+2021,,"Peaches, All",77,San Joaquin,1620.0,14.51,23500.0,480.38,Tons,11289000.0
+2021,,"Peaches, All",93,Siskiyou,5.0,,,,,84000.0
+2021,,"Peaches, All",99,Stanislaus,3390.0,,,,,31238000.0
+2021,,"Peaches, All",107,Tulare,12100.0,13.97,169000.0,1164.87,Tons,196863000.0
+2021,,"Peaches, All",115,Yuba,2100.0,9.57,20100.0,579.35,Tons,11645000.0
+2021,,"Peaches, All",998,Sum of Others,9300.0,,,,,81336000.0
+2021,,"Peaches, All",999,State Total,53590.0,12.18,497956.0,1032.96,Tons,627026000.0
+2021,212399.0,"Peaches, Clingstone",19,Fresno,1970.0,15.48,30500.0,522.0,Tons,15921000.0
+2021,212399.0,"Peaches, Clingstone",31,Kings,816.0,17.65,14400.0,509.24,Tons,7333000.0
+2021,212399.0,"Peaches, Clingstone",47,Merced,1320.0,15.23,20100.0,521.34,Tons,10479000.0
+2021,212399.0,"Peaches, Clingstone",77,San Joaquin,1050.0,11.62,12200.0,514.18,Tons,6273000.0
+2021,212399.0,"Peaches, Clingstone",101,Sutter,7780.0,14.4,112000.0,497.9,Tons,55765000.0
+2021,212399.0,"Peaches, Clingstone",107,Tulare,1030.0,16.31,16800.0,521.01,Tons,8753000.0
+2021,212399.0,"Peaches, Clingstone",115,Yuba,2100.0,9.57,20100.0,579.35,Tons,11645000.0
+2021,212399.0,"Peaches, Clingstone",998,Sum of Others,450.0,,,,,5165000.0
+2021,212399.0,"Peaches, Clingstone",999,State Total,16516.0,14.07,226100.0,513.8,Tons,121334000.0
+2021,212199.0,"Peaches, Freestone",19,Fresno,16100.0,9.38,151000.0,1380.0,Tons,208380000.0
+2021,212199.0,"Peaches, Freestone",31,Kings,1600.0,12.56,20100.0,1229.4,Tons,24711000.0
+2021,212199.0,"Peaches, Freestone",47,Merced,1570.0,17.71,27800.0,450.97,Tons,12537000.0
+2021,212199.0,"Peaches, Freestone",77,San Joaquin,565.0,20.0,11300.0,443.89,Tons,5016000.0
+2021,212199.0,"Peaches, Freestone",107,Tulare,11100.0,13.69,152000.0,1237.57,Tons,188110000.0
+2021,212199.0,"Peaches, Freestone",998,Sum of Others,302.0,,,,,4629000.0
+2021,212199.0,"Peaches, Freestone",999,State Total,31237.0,11.71,362200.0,1211.36,Tons,443383000.0
+2021,212999.0,"Peaches, Unspecified",7,Butte,1340.0,14.55,19500.0,499.69,Tons,9744000.0
+2021,212999.0,"Peaches, Unspecified",13,Contra Costa,121.0,3.86,467.0,3059.96,Tons,1429000.0
+2021,212999.0,"Peaches, Unspecified",17,El Dorado,110.0,4.67,514.0,5480.54,Tons,2817000.0
+2021,212999.0,"Peaches, Unspecified",61,Placer,94.0,1.86,175.0,2000.0,Tons,350000.0
+2021,212999.0,"Peaches, Unspecified",65,Riverside,100.0,3.0,300.0,2900.0,Tons,870000.0
+2021,212999.0,"Peaches, Unspecified",93,Siskiyou,5.0,,,,,84000.0
+2021,212999.0,"Peaches, Unspecified",99,Stanislaus,3390.0,,,,,31238000.0
+2021,212999.0,"Peaches, Unspecified",998,Sum of Others,765.0,,,,,15776000.0
+2021,212999.0,"Peaches, Unspecified",999,State Total,5925.0,11.87,20956.0,725.81,Tons,62308000.0
+2021,,"Pears, All",17,El Dorado,210.0,6.71,1410.0,5140.43,Tons,7248000.0
+2021,,"Pears, All",19,Fresno,1490.0,17.58,26200.0,1795.04,Tons,47030000.0
+2021,,"Pears, All",33,Lake,2960.0,16.55,49000.0,723.22,Tons,35438000.0
+2021,,"Pears, All",45,Mendocino,2100.0,18.52,38900.0,552.11,Tons,21477000.0
+2021,,"Pears, All",61,Placer,24.0,10.58,254.0,500.0,Tons,127000.0
+2021,,"Pears, All",67,Sacramento,10000.0,19.7,197000.0,457.58,Tons,90144000.0
+2021,,"Pears, All",77,San Joaquin,202.0,15.64,3160.0,564.56,Tons,1784000.0
+2021,,"Pears, All",107,Tulare,388.0,21.7,8420.0,1150.12,Tons,9684000.0
+2021,,"Pears, All",998,Sum of Others,414.0,,,,,2365000.0
+2021,,"Pears, All",999,State Total,17788.0,18.67,324344.0,656.5,Tons,215297000.0
+2021,214899.0,"Pears, Asian",17,El Dorado,40.0,9.8,392.0,5579.08,Tons,2187000.0
+2021,214899.0,"Pears, Asian",998,Sum of Others,14.0,,,,,80100.0
+2021,214899.0,"Pears, Asian",999,State Total,54.0,9.8,392.0,5579.08,Tons,2267100.0
+2021,214199.0,"Pears, Bartlett",33,Lake,1390.0,17.05,23700.0,714.98,Tons,16945000.0
+2021,214199.0,"Pears, Bartlett",45,Mendocino,941.0,19.34,18200.0,525.44,Tons,9563000.0
+2021,214199.0,"Pears, Bartlett",998,Sum of Others,25.0,,,,,170000.0
+2021,214199.0,"Pears, Bartlett",999,State Total,2356.0,17.98,41900.0,632.65,Tons,26678000.0
+2021,214999.0,"Pears, Unspecified",17,El Dorado,65.0,4.8,312.0,4605.77,Tons,1437000.0
+2021,214999.0,"Pears, Unspecified",19,Fresno,747.0,17.54,13100.0,1795.04,Tons,23515000.0
+2021,214999.0,"Pears, Unspecified",33,Lake,90.0,8.52,767.0,1009.13,Tons,774000.0
+2021,214999.0,"Pears, Unspecified",45,Mendocino,107.0,11.03,1180.0,996.61,Tons,1176000.0
+2021,214999.0,"Pears, Unspecified",61,Placer,12.0,10.58,127.0,500.79,Tons,63600.0
+2021,214999.0,"Pears, Unspecified",67,Sacramento,5000.0,19.7,98500.0,457.58,Tons,45072000.0
+2021,214999.0,"Pears, Unspecified",77,San Joaquin,101.0,15.64,1580.0,564.56,Tons,892000.0
+2021,214999.0,"Pears, Unspecified",107,Tulare,194.0,21.7,4210.0,1150.12,Tons,4842000.0
+2021,214999.0,"Pears, Unspecified",998,Sum of Others,168.0,,,,,932000.0
+2021,214999.0,"Pears, Unspecified",999,State Total,6484.0,18.96,119776.0,649.31,Tons,78703600.0
+2021,361999.0,"Peas, Green, Unspecified",53,Monterey,3580.0,4.38,15700.0,1880.0,Tons,29516000.0
+2021,361999.0,"Peas, Green, Unspecified",81,San Mateo,134.0,1.68,225.0,3297.78,Tons,742000.0
+2021,361999.0,"Peas, Green, Unspecified",998,Sum of Others,302.0,,,,,2271000.0
+2021,361999.0,"Peas, Green, Unspecified",999,State Total,4016.0,4.29,15925.0,1900.03,Tons,32529000.0
+2021,264999.0,Pecans,21,Glenn,692.0,1.25,865.0,3400.0,Tons,2941000.0
+2021,264999.0,Pecans,107,Tulare,1230.0,0.53,652.0,3139.57,Tons,2047000.0
+2021,264999.0,Pecans,998,Sum of Others,1300.0,,,,,3542000.0
+2021,264999.0,Pecans,999,State Total,3222.0,0.79,1517.0,3288.07,Tons,8530000.0
+2021,,"Peppers, All",53,Monterey,396.0,17.9,7090.0,360.93,Tons,2559000.0
+2021,,"Peppers, All",65,Riverside,3830.0,19.56,74900.0,929.77,Tons,69640000.0
+2021,,"Peppers, All",69,San Benito,1560.0,20.0,31200.0,460.58,Tons,14370000.0
+2021,,"Peppers, All",77,San Joaquin,170.0,15.82,2690.0,477.7,Tons,1285000.0
+2021,,"Peppers, All",85,Santa Clara,1700.0,33.0,56100.0,414.64,Tons,23261000.0
+2021,,"Peppers, All",111,Ventura,1910.0,69.63,133000.0,312.14,Tons,41515000.0
+2021,,"Peppers, All",998,Sum of Others,4320.0,,,,,91194000.0
+2021,,"Peppers, All",999,State Total,13886.0,31.88,304980.0,500.46,Tons,243824000.0
+2021,363999.0,"Peppers, Bell",19,Fresno,1820.0,15.82,28800.0,918.99,Tons,26467000.0
+2021,363999.0,"Peppers, Bell",29,Kern,1370.0,24.38,33400.0,1096.53,Tons,36624000.0
+2021,363999.0,"Peppers, Bell",65,Riverside,3700.0,20.24,74900.0,901.2,Tons,67500000.0
+2021,363999.0,"Peppers, Bell",71,San Bernardino,1.0,11.0,11.0,2845.46,Tons,31300.0
+2021,363999.0,"Peppers, Bell",77,San Joaquin,170.0,15.82,2690.0,477.7,Tons,1285000.0
+2021,363999.0,"Peppers, Bell",85,Santa Clara,1300.0,37.08,48200.0,397.76,Tons,19172000.0
+2021,363999.0,"Peppers, Bell",998,Sum of Others,636.0,,,,,22577000.0
+2021,363999.0,"Peppers, Bell",999,State Total,8997.0,22.48,188001.0,803.61,Tons,173656300.0
+2021,364999.0,"Peppers, Chili, Hot",65,Riverside,131.0,,,,,2140000.0
+2021,364999.0,"Peppers, Chili, Hot",998,Sum of Others,467.0,,,,,5459000.0
+2021,364999.0,"Peppers, Chili, Hot",999,State Total,598.0,,,,,7599000.0
+2021,398999.0,"Vegetables, Unspecified",53,Monterey,396.0,17.9,7090.0,360.93,Tons,2559000.0
+2021,398999.0,"Vegetables, Unspecified",69,San Benito,1560.0,20.0,31200.0,460.58,,14370000.0
+2021,398999.0,"Vegetables, Unspecified",85,Santa Clara,398.0,19.98,7950.0,514.34,Tons,4089000.0
+2021,398999.0,"Vegetables, Unspecified",111,Ventura,1910.0,69.63,133000.0,312.14,Tons,41515000.0
+2021,398999.0,"Vegetables, Unspecified",998,Sum of Others,31.0,,,,,36300.0
+2021,398999.0,"Vegetables, Unspecified",999,State Total,4295.0,42.04,179240.0,348.88,Tons,62569300.0
+2021,218299.0,Persimmons,19,Fresno,1060.0,7.71,8170.0,1737.94,Tons,14199000.0
+2021,218299.0,Persimmons,73,San Diego,136.0,3.1,422.0,2715.64,,1146000.0
+2021,218299.0,Persimmons,85,Santa Clara,43.0,3.16,136.0,1632.35,Tons,222000.0
+2021,218299.0,Persimmons,107,Tulare,1050.0,9.19,9650.0,952.02,Tons,9187000.0
+2021,218299.0,Persimmons,998,Sum of Others,607.0,,,,,5847000.0
+2021,218299.0,Persimmons,999,State Total,2896.0,8.03,18378.0,1346.94,Tons,30601000.0
+2021,268079.0,Pistachios,7,Butte,868.0,1.54,1340.0,4516.42,Tons,6052000.0
+2021,268079.0,Pistachios,19,Fresno,132000.0,1.49,196000.0,3684.0,Tons,722064000.0
+2021,268079.0,Pistachios,21,Glenn,2120.0,1.33,2820.0,3821.63,Tons,10777000.0
+2021,268079.0,Pistachios,29,Kern,157000.0,1.6,252000.0,4827.75,Tons,1216593000.0
+2021,268079.0,Pistachios,31,Kings,40300.0,1.5,60500.0,4428.1,Tons,267900000.0
+2021,268079.0,Pistachios,39,Madera,52400.0,1.14,59700.0,4276.58,Tons,255312000.0
+2021,268079.0,Pistachios,47,Merced,16400.0,1.05,17300.0,4519.71,Tons,78191000.0
+2021,268079.0,Pistachios,71,San Bernardino,338.0,0.36,123.0,5349.59,Tons,658000.0
+2021,268079.0,Pistachios,77,San Joaquin,911.0,2.04,1860.0,4496.77,Tons,8364000.0
+2021,268079.0,Pistachios,99,Stanislaus,1670.0,1.51,2520.0,4113.1,Tons,10365000.0
+2021,268079.0,Pistachios,107,Tulare,81400.0,1.65,134000.0,4180.0,Tons,560120000.0
+2021,268079.0,Pistachios,113,Yolo,4360.0,1.35,5890.0,4947.03,Tons,29138000.0
+2021,268079.0,Pistachios,998,Sum of Others,952.0,,,,,2964000.0
+2021,268079.0,Pistachios,999,State Total,490719.0,1.5,734053.0,4312.4,Tons,3168498000.0
+2021,215199.0,Plums,13,Contra Costa,46.0,4.09,188.0,2702.13,Tons,508000.0
+2021,215199.0,Plums,17,El Dorado,52.0,2.35,122.0,4418.03,Tons,539000.0
+2021,215199.0,Plums,19,Fresno,10400.0,7.67,79800.0,1537.01,Tons,122653000.0
+2021,215199.0,Plums,31,Kings,1610.0,12.55,20200.0,1443.22,Tons,29153000.0
+2021,215199.0,Plums,61,Placer,13.0,1.85,24.0,1733.33,Tons,41600.0
+2021,215199.0,Plums,107,Tulare,8240.0,5.64,46500.0,1230.0,Tons,57195000.0
+2021,215199.0,Plums,998,Sum of Others,69.0,,,,,601000.0
+2021,215199.0,Plums,999,State Total,20430.0,7.21,146834.0,1430.8,Tons,210690600.0
+2021,,"Pome Fruits, All",17,El Dorado,936.0,,,,,34631000.0
+2021,,"Pome Fruits, All",33,Lake,1480.0,,,,,17719000.0
+2021,,"Pome Fruits, All",45,Mendocino,1260.0,,,,,10902000.0
+2021,,"Pome Fruits, All",61,Placer,60.0,,,,,141000.0
+2021,,"Pome Fruits, All",65,Riverside,22.0,,,,,111000.0
+2021,,"Pome Fruits, All",67,Sacramento,5000.0,,,,,45072000.0
+2021,,"Pome Fruits, All",69,San Benito,330.0,,,,,1525000.0
+2021,,"Pome Fruits, All",71,San Bernardino,257.0,,,,,1902000.0
+2021,,"Pome Fruits, All",73,San Diego,159.0,,,,,510000.0
+2021,,"Pome Fruits, All",77,San Joaquin,1830.0,,,,,15248000.0
+2021,,"Pome Fruits, All",87,Santa Cruz,2010.0,,,,,10969000.0
+2021,,"Pome Fruits, All",93,Siskiyou,26.0,,,,,38000.0
+2021,,"Pome Fruits, All",97,Sonoma,2140.0,,,,,2969000.0
+2021,,"Pome Fruits, All",107,Tulare,292.0,,,,,5377000.0
+2021,,"Pome Fruits, All",998,Sum of Others,1740.0,,,,,31314000.0
+2021,,"Pome Fruits, All",999,State Total,17542.0,,,,,178428000.0
+2021,218399.0,Pomegranates,19,Fresno,4430.0,7.27,32200.0,848.01,Tons,27306000.0
+2021,218399.0,Pomegranates,65,Riverside,5.0,7.6,38.0,1000.0,Tons,38000.0
+2021,218399.0,Pomegranates,107,Tulare,2550.0,5.76,14700.0,1790.0,Tons,26313000.0
+2021,218399.0,Pomegranates,998,Sum of Others,11900.0,,,,,77029000.0
+2021,218399.0,Pomegranates,999,State Total,18885.0,6.72,46938.0,1143.15,Tons,130686000.0
+2021,391999.0,"Potatoes, All",29,Kern,13500.0,21.33,288000.0,372.64,Tons,107319000.0
+2021,391999.0,"Potatoes, All",49,Modoc,6940.0,25.07,174000.0,184.57,Tons,32116000.0
+2021,391999.0,"Potatoes, All",65,Riverside,558.0,17.02,9500.0,250.0,Tons,2375000.0
+2021,391999.0,"Potatoes, All",77,San Joaquin,4150.0,25.78,107000.0,600.75,Tons,64280000.0
+2021,391999.0,"Potatoes, All",93,Siskiyou,3520.0,22.87,80500.0,178.7,Tons,14385000.0
+2021,391999.0,"Potatoes, All",998,Sum of Others,2460.0,,,,,17262000.0
+2021,391999.0,"Potatoes, All",999,State Total,31128.0,22.99,659000.0,334.56,Tons,237737000.0
+2021,699999.0,"Poultry, Unspecified",9,Calaveras,,,,,,2788000.0
+2021,699999.0,"Poultry, Unspecified",31,Kings,,,,,,61423000.0
+2021,699999.0,"Poultry, Unspecified",39,Madera,,,,,,24285000.0
+2021,699999.0,"Poultry, Unspecified",41,Marin,,,,,,22601000.0
+2021,699999.0,"Poultry, Unspecified",63,Plumas,,,,,,51400.0
+2021,699999.0,"Poultry, Unspecified",65,Riverside,,,,,,1300000.0
+2021,699999.0,"Poultry, Unspecified",67,Sacramento,,,,,,26510000.0
+2021,699999.0,"Poultry, Unspecified",99,Stanislaus,,,,,,334002000.0
+2021,699999.0,"Poultry, Unspecified",107,Tulare,,,,,,87150000.0
+2021,699999.0,"Poultry, Unspecified",111,Ventura,,,,,,1067000.0
+2021,699999.0,"Poultry, Unspecified",998,Sum of Others,,,,,,22677000.0
+2021,699999.0,"Poultry, Unspecified",999,State Total,,,,,,583854400.0
+2021,215999.0,"Plums, Dried (Prunes)",7,Butte,6860.0,2.1,14400.0,1650.9,Tons,23773000.0
+2021,215999.0,"Plums, Dried (Prunes)",11,Colusa,338.0,2.13,720.0,1679.17,Tons,1209000.0
+2021,215999.0,"Plums, Dried (Prunes)",19,Fresno,1350.0,1.53,2070.0,1961.84,Tons,4061000.0
+2021,215999.0,"Plums, Dried (Prunes)",21,Glenn,3300.0,2.45,8090.0,1319.28,Tons,10673000.0
+2021,215999.0,"Plums, Dried (Prunes)",39,Madera,940.0,3.57,3360.0,2176.49,Tons,7313000.0
+2021,215999.0,"Plums, Dried (Prunes)",47,Merced,1400.0,2.75,3850.0,1985.19,Tons,7643000.0
+2021,215999.0,"Plums, Dried (Prunes)",95,Solano,1480.0,2.8,4150.0,1739.28,Tons,7218000.0
+2021,215999.0,"Plums, Dried (Prunes)",101,Sutter,13000.0,1.61,20900.0,2040.91,Tons,42655000.0
+2021,215999.0,"Plums, Dried (Prunes)",103,Tehama,5200.0,2.33,12100.0,2072.48,Tons,25077000.0
+2021,215999.0,"Plums, Dried (Prunes)",107,Tulare,2680.0,3.25,8710.0,1760.05,Tons,15330000.0
+2021,215999.0,"Plums, Dried (Prunes)",113,Yolo,1840.0,2.35,4320.0,1731.48,Tons,7480000.0
+2021,215999.0,"Plums, Dried (Prunes)",115,Yuba,7000.0,2.11,14800.0,1946.01,Tons,28801000.0
+2021,215999.0,"Plums, Dried (Prunes)",998,Sum of Others,5.0,,,,,27900.0
+2021,215999.0,"Plums, Dried (Prunes)",999,State Total,45393.0,2.15,97470.0,1859.37,Tons,181260900.0
+2021,218499.0,Quince,107,Tulare,98.0,2.55,250.0,2140.0,Tons,535000.0
+2021,218499.0,Quince,998,Sum of Others,13.0,,,,,107000.0
+2021,218499.0,Quince,999,State Total,111.0,2.55,250.0,2140.0,Tons,642000.0
+2021,367999.0,Radishes,53,Monterey,135.0,11.93,1610.0,839.75,Tons,1352000.0
+2021,367999.0,Radishes,65,Riverside,110.0,28.73,3160.0,379.75,Tons,1200000.0
+2021,367999.0,Radishes,71,San Bernardino,36.0,10.14,365.0,1145.2,Tons,418000.0
+2021,367999.0,Radishes,111,Ventura,713.0,14.87,10600.0,733.49,Tons,7775000.0
+2021,367999.0,Radishes,998,Sum of Others,360.0,,,,,2236000.0
+2021,367999.0,Radishes,999,State Total,1354.0,15.83,15735.0,682.87,Tons,12981000.0
+2021,,"Rice, All",7,Butte,85500.0,3.7,316000.0,490.72,Tons,155068000.0
+2021,,"Rice, All",11,Colusa,99200.0,5.68,563000.0,481.61,Tons,271146000.0
+2021,,"Rice, All",21,Glenn,61100.0,5.25,321000.0,483.74,Tons,155280000.0
+2021,,"Rice, All",49,Modoc,3820.0,0.75,2860.0,1401.05,Tons,4007000.0
+2021,,"Rice, All",61,Placer,11900.0,4.6,54700.0,510.37,Tons,27917000.0
+2021,,"Rice, All",67,Sacramento,8670.0,4.6,39900.0,374.76,Tons,14953000.0
+2021,,"Rice, All",77,San Joaquin,7070.0,4.75,33600.0,640.36,Tons,21516000.0
+2021,,"Rice, All",89,Shasta,5400.0,0.77,4180.0,1399.04,Tons,5848000.0
+2021,,"Rice, All",113,Yolo,15500.0,4.44,68900.0,563.0,Tons,38791000.0
+2021,,"Rice, All",115,Yuba,34300.0,4.26,146000.0,691.0,Tons,100886000.0
+2021,,"Rice, All",998,Sum of Others,79100.0,,,,,169967000.0
+2021,,"Rice, All",999,State Total,411560.0,4.66,1550140.0,513.12,Tons,965379000.0
+2021,106199.0,"Rice, Milling",7,Butte,85500.0,3.7,316000.0,490.72,Tons,155068000.0
+2021,106199.0,"Rice, Milling",11,Colusa,99200.0,5.68,563000.0,481.61,Tons,271146000.0
+2021,106199.0,"Rice, Milling",21,Glenn,61100.0,5.25,321000.0,483.74,Tons,155280000.0
+2021,106199.0,"Rice, Milling",61,Placer,11900.0,4.6,54700.0,510.37,Tons,27917000.0
+2021,106199.0,"Rice, Milling",67,Sacramento,8670.0,4.6,39900.0,374.76,Tons,14953000.0
+2021,106199.0,"Rice, Milling",77,San Joaquin,7070.0,4.75,33600.0,640.36,Tons,21516000.0
+2021,106199.0,"Rice, Milling",101,Sutter,74500.0,4.44,331000.0,493.71,Tons,163419000.0
+2021,106199.0,"Rice, Milling",113,Yolo,15500.0,4.44,68900.0,563.0,Tons,38791000.0
+2021,106199.0,"Rice, Milling",115,Yuba,34300.0,4.26,146000.0,691.0,Tons,100886000.0
+2021,106199.0,"Rice, Milling",998,Sum of Others,3870.0,,,,,4955000.0
+2021,106199.0,"Rice, Milling",999,State Total,401610.0,4.71,1874100.0,506.36,Tons,953931000.0
+2021,198199.0,"Rice, Wild",49,Modoc,3820.0,0.75,2860.0,1401.05,Tons,4007000.0
+2021,198199.0,"Rice, Wild",89,Shasta,5400.0,0.77,4180.0,1399.04,Tons,5848000.0
+2021,198199.0,"Rice, Wild",998,Sum of Others,751.0,,,,,1593000.0
+2021,198199.0,"Rice, Wild",999,State Total,9971.0,0.76,7040.0,1399.86,Tons,11448000.0
+2021,174412.0,"Ryegrass, Perennial, All",65,Riverside,1430.0,,,,,1683000.0
+2021,174412.0,"Ryegrass, Perennial, All",67,Sacramento,3980.0,2.4,9550.0,191.62,Tons,1830000.0
+2021,174412.0,"Ryegrass, Perennial, All",998,Sum of Others,2970.0,,,,,2699000.0
+2021,174412.0,"Ryegrass, Perennial, All",999,State Total,8380.0,2.4,9550.0,191.62,,6212000.0
+2021,,"Ryegrass, All",65,Riverside,1430.0,,,,,1683000.0
+2021,,"Ryegrass, All",67,Sacramento,3980.0,2.4,9550.0,191.62,Tons,1830000.0
+2021,,"Ryegrass, All",998,Sum of Others,2970.0,,,,,2699000.0
+2021,,"Ryegrass, All",999,State Total,8380.0,2.4,9550.0,191.62,Tons,6212000.0
+2021,158269.0,Safflower,11,Colusa,468.0,0.88,412.0,478.15,Tons,197000.0
+2021,158269.0,Safflower,67,Sacramento,2100.0,1.6,3370.0,529.38,Tons,1784000.0
+2021,158269.0,Safflower,77,San Joaquin,2120.0,1.37,2900.0,526.21,Tons,1526000.0
+2021,158269.0,Safflower,95,Solano,3140.0,0.41,1290.0,314.73,Tons,406000.0
+2021,158269.0,Safflower,101,Sutter,2040.0,1.04,2120.0,513.68,Tons,1089000.0
+2021,158269.0,Safflower,113,Yolo,5780.0,1.26,7280.0,522.94,Tons,3807000.0
+2021,158269.0,Safflower,998,Sum of Others,737.0,,,,,490000.0
+2021,158269.0,Safflower,999,State Total,16385.0,1.11,17372.0,507.08,Tons,9299000.0
+2021,172119.0,"Seed, Alfalfa",19,Fresno,1320.0,0.32,422.0,5473.93,Tons,2310000.0
+2021,172119.0,"Seed, Alfalfa",25,Imperial,24500.0,0.4,9910.0,5871.44,Tons,58186000.0
+2021,172119.0,"Seed, Alfalfa",49,Modoc,40.0,,,,,36000.0
+2021,172119.0,"Seed, Alfalfa",999,State Total,25860.0,0.4,10332.0,5855.21,Tons,60532000.0
+2021,171619.0,"Seed, Bean",53,Monterey,607.0,1.2,728.0,3369.5,Tons,2453000.0
+2021,171619.0,"Seed, Bean",999,State Total,607.0,1.2,728.0,3369.5,Tons,2453000.0
+2021,173079.0,"Seed, Bermuda Grass",25,Imperial,14500.0,0.29,4260.0,6443.43,Tons,27449000.0
+2021,173079.0,"Seed, Bermuda Grass",999,State Total,14500.0,0.29,4260.0,6443.43,Tons,27449000.0
+2021,171519.0,"Seed, Cottonseed, Certified",29,Kern,,,40.0,477.5,Tons,19100.0
+2021,171519.0,"Seed, Cottonseed, Certified",107,Tulare,,,104.0,435.58,Tons,45300.0
+2021,171519.0,"Seed, Cottonseed, Certified",998,Sum of Others,316.0,,,,,4513000.0
+2021,171519.0,"Seed, Cottonseed, Certified",999,State Total,316.0,,144.0,447.22,Tons,4577400.0
+2021,178999.0,"Seed, Other (No Flowers)",77,San Joaquin,1880.0,,,,,4029000.0
+2021,178999.0,"Seed, Other (No Flowers)",113,Yolo,2760.0,,,,,2783000.0
+2021,178999.0,"Seed, Other (No Flowers)",998,Sum of Others,4430.0,,,,,4343000.0
+2021,178999.0,"Seed, Other (No Flowers)",999,State Total,9070.0,,,,,11155000.0
+2021,171949.0,"Seed, Field Crops, Misc",7,Butte,1080.0,,,,,1447000.0
+2021,171949.0,"Seed, Field Crops, Misc",11,Colusa,,,,,,1011000.0
+2021,171949.0,"Seed, Field Crops, Misc",21,Glenn,587.0,,,,,1907000.0
+2021,171949.0,"Seed, Field Crops, Misc",31,Kings,5750.0,,,,,957000.0
+2021,171949.0,"Seed, Field Crops, Misc",53,Monterey,294.0,,,,,2153000.0
+2021,171949.0,"Seed, Field Crops, Misc",67,Sacramento,1500.0,,,,,2820000.0
+2021,171949.0,"Seed, Field Crops, Misc",69,San Benito,229.0,,,,,1603000.0
+2021,171949.0,"Seed, Field Crops, Misc",93,Siskiyou,100.0,,,,,42900.0
+2021,171949.0,"Seed, Field Crops, Misc",95,Solano,850.0,,,,,1825000.0
+2021,171949.0,"Seed, Field Crops, Misc",99,Stanislaus,193.0,,,,,305000.0
+2021,171949.0,"Seed, Field Crops, Misc",103,Tehama,196.0,,,,,819000.0
+2021,171949.0,"Seed, Field Crops, Misc",107,Tulare,37.0,,,,,4009000.0
+2021,171949.0,"Seed, Field Crops, Misc",113,Yolo,2330.0,,,,,3413000.0
+2021,171949.0,"Seed, Field Crops, Misc",998,Sum of Others,896.0,,,,,4568000.0
+2021,171949.0,"Seed, Field Crops, Misc",999,State Total,14042.0,,,,,26879900.0
+2021,173999.0,"Seed, Grass, Unspecified",113,Yolo,718.0,,,,,6715000.0
+2021,173999.0,"Seed, Grass, Unspecified",999,State Total,718.0,,,,,6715000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",19,Fresno,1320.0,,,,,12330000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",21,Glenn,1380.0,,,,,16696000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",25,Imperial,15400.0,,,,,16287000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",29,Kern,690.0,,,,,4750000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",85,Santa Clara,685.0,,,,,2324000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",113,Yolo,1760.0,,,,,9281000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",998,Sum of Others,1820.0,,,,,8172000.0
+2021,171959.0,"Seed, Vegetable & Vinecrop",999,State Total,23055.0,,,,,69840000.0
+2021,832919.0,"Seed, Potato",93,Siskiyou,90.0,16.22,1460.0,260.27,Tons,380000.0
+2021,832919.0,"Seed, Potato",999,State Total,90.0,16.22,1460.0,260.27,Tons,380000.0
+2021,171069.0,"Seed, Rice",7,Butte,6260.0,5.74,35900.0,519.39,Tons,18646000.0
+2021,171069.0,"Seed, Rice",11,Colusa,9240.0,4.91,45400.0,479.91,Tons,21788000.0
+2021,171069.0,"Seed, Rice",21,Glenn,2550.0,5.26,13400.0,580.6,Tons,7780000.0
+2021,171069.0,"Seed, Rice",101,Sutter,4800.0,4.56,21900.0,499.22,Tons,10933000.0
+2021,171069.0,"Seed, Rice",999,State Total,22850.0,5.1,116600.0,507.26,Tons,59147000.0
+2021,171049.0,"Seed, Rye",93,Siskiyou,150.0,1.5,225.0,270.22,Tons,60800.0
+2021,171049.0,"Seed, Rye",999,State Total,150.0,1.5,225.0,270.22,Tons,60800.0
+2021,158316.0,"Seed, Sunflower, Planting",11,Colusa,6290.0,0.33,2070.0,3447.34,Tons,7136000.0
+2021,158316.0,"Seed, Sunflower, Planting",21,Glenn,2690.0,0.42,1130.0,2923.89,Tons,3304000.0
+2021,158316.0,"Seed, Sunflower, Planting",95,Solano,6830.0,0.66,4540.0,2319.16,Tons,10529000.0
+2021,158316.0,"Seed, Sunflower, Planting",101,Sutter,11700.0,0.5,5800.0,3438.28,Tons,19942000.0
+2021,158316.0,"Seed, Sunflower, Planting",113,Yolo,17700.0,,,,,30095000.0
+2021,158316.0,"Seed, Sunflower, Planting",999,State Total,45210.0,0.49,13540.0,3021.49,Tons,71006000.0
+2021,171019.0,"Seed, Wheat",93,Siskiyou,250.0,3.25,812.0,280.79,Tons,228000.0
+2021,171019.0,"Seed, Wheat",998,Sum of Others,875.0,,,,,682000.0
+2021,171019.0,"Seed, Wheat",999,State Total,1125.0,3.25,812.0,280.79,Tons,910000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",5,Amador,,,,,,430000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",7,Butte,,,,,,509000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",9,Calaveras,,,,,,56600.0
+2021,419999.0,"Sheep & Lambs, Unspecified",11,Colusa,,,,,,1018000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",19,Fresno,,,,,,22795000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",21,Glenn,,,,,,1103000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",27,Inyo,,,,,,899000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",29,Kern,,,,,,25309000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",41,Marin,,,,,,2881000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",45,Mendocino,,,,,,405000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",47,Merced,,,,,,5169000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",49,Modoc,,,,,,3000000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",51,Mono,,,,,,3473000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",53,Monterey,,,,,,228000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",55,Napa,,,,,,390000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",57,Nevada,,,,,,211000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",61,Placer,,,,,,2553000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",63,Plumas,,,,,,118000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",65,Riverside,,,,,,1382000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",73,San Diego,,,,,,109000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",77,San Joaquin,,,,,,2541000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",89,Shasta,,,,,,268000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",91,Sierra,,,,,,60200.0
+2021,419999.0,"Sheep & Lambs, Unspecified",93,Siskiyou,,,,,,1021000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",95,Solano,,,,,,8919000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",97,Sonoma,,,,,,4887000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",99,Stanislaus,,,,,,558000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",107,Tulare,,,,,,2887000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",109,Tuolumne,,,,,,224000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",113,Yolo,,,,,,2052000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",998,Sum of Others,,,,,,3060000.0
+2021,419999.0,"Sheep & Lambs, Unspecified",999,State Total,,,,,,98515800.0
+2021,,"Silage, All",19,Fresno,44100.0,,,,,47026000.0
+2021,,"Silage, All",21,Glenn,10900.0,,,,,4348000.0
+2021,,"Silage, All",31,Kings,93200.0,,,,,131606000.0
+2021,,"Silage, All",41,Marin,1430.0,,,,,615000.0
+2021,,"Silage, All",47,Merced,163000.0,,,,,184431000.0
+2021,,"Silage, All",65,Riverside,11800.0,,,,,19799000.0
+2021,,"Silage, All",67,Sacramento,11800.0,,,,,12217000.0
+2021,,"Silage, All",77,San Joaquin,130000.0,,,,,93146000.0
+2021,,"Silage, All",97,Sonoma,2370.0,,,,,1005000.0
+2021,,"Silage, All",99,Stanislaus,110000.0,,,,,126826000.0
+2021,,"Silage, All",107,Tulare,258000.0,,,,,361284000.0
+2021,,"Silage, All",998,Sum of Others,138000.0,,,,,143026000.0
+2021,,"Silage, All",999,State Total,974600.0,,,,,1125329000.0
+2021,195199.0,Silage,21,Glenn,5200.0,10.0,52000.0,35.04,Tons,1822000.0
+2021,195199.0,Silage,41,Marin,1430.0,7.2,10300.0,59.71,Tons,615000.0
+2021,195199.0,Silage,47,Merced,74700.0,15.98,1194000.0,39.87,Tons,47602000.0
+2021,195199.0,Silage,65,Riverside,5430.0,,,,,8832000.0
+2021,195199.0,Silage,77,San Joaquin,83000.0,8.78,729000.0,54.66,Tons,39851000.0
+2021,195199.0,Silage,97,Sonoma,2270.0,5.77,13100.0,70.08,Tons,918000.0
+2021,195199.0,Silage,99,Stanislaus,22400.0,,,,,11412000.0
+2021,195199.0,Silage,107,Tulare,138000.0,20.0,2760000.0,56.0,Tons,154560000.0
+2021,195199.0,Silage,998,Sum of Others,41600.0,,,,,34800000.0
+2021,195199.0,Silage,999,State Total,374030.0,15.62,4758400.0,51.56,Tons,300412000.0
+2021,,"Sorghum, All",31,Kings,9680.0,,,,,10821000.0
+2021,,"Sorghum, All",65,Riverside,185.0,,,,,530000.0
+2021,,"Sorghum, All",71,San Bernardino,564.0,,,,,54700.0
+2021,,"Sorghum, All",99,Stanislaus,2810.0,,,,,2654000.0
+2021,,"Sorghum, All",998,Sum of Others,7790.0,,,,,4147000.0
+2021,,"Sorghum, All",999,State Total,21029.0,,,,,18206700.0
+2021,114992.0,"Sorghum, Silage",31,Kings,9680.0,19.94,193000.0,56.07,Tons,10821000.0
+2021,114992.0,"Sorghum, Silage",65,Riverside,185.0,23.24,4300.0,123.26,Tons,530000.0
+2021,114992.0,"Sorghum, Silage",71,San Bernardino,564.0,15.41,8690.0,6.3,Tons,54700.0
+2021,114992.0,"Sorghum, Silage",99,Stanislaus,2810.0,17.97,50500.0,52.55,Tons,2654000.0
+2021,114992.0,"Sorghum, Silage",998,Sum of Others,7790.0,,,,,4147000.0
+2021,114992.0,"Sorghum, Silage",999,State Total,21029.0,19.37,256490.0,54.82,Tons,18206700.0
+2021,374999.0,"Spinach, Unspecified",25,Imperial,7700.0,4.18,32200.0,1936.71,Tons,62362000.0
+2021,374999.0,"Spinach, Unspecified",53,Monterey,15800.0,8.99,142000.0,1224.52,Tons,173882000.0
+2021,374999.0,"Spinach, Unspecified",65,Riverside,1580.0,15.25,24100.0,722.82,Tons,17420000.0
+2021,374999.0,"Spinach, Unspecified",69,San Benito,5060.0,,,,,35238000.0
+2021,374999.0,"Spinach, Unspecified",83,Santa Barbara,1160.0,5.29,6140.0,1157.17,Tons,7105000.0
+2021,374999.0,"Spinach, Unspecified",85,Santa Clara,1270.0,7.43,9440.0,1123.52,Tons,10606000.0
+2021,374999.0,"Spinach, Unspecified",111,Ventura,1480.0,8.85,13100.0,1248.78,Tons,16359000.0
+2021,374999.0,"Spinach, Unspecified",998,Sum of Others,890.0,,,,,4903000.0
+2021,374999.0,"Spinach, Unspecified",999,State Total,34940.0,7.83,226980.0,1267.66,Tons,327875000.0
+2021,,"Squash, All",65,Riverside,223.0,8.3,1850.0,680.0,Tons,1258000.0
+2021,,"Squash, All",71,San Bernardino,58.0,3.47,201.0,1621.89,Tons,326000.0
+2021,,"Squash, All",77,San Joaquin,3750.0,22.35,83800.0,412.8,Tons,34593000.0
+2021,,"Squash, All",81,San Mateo,157.0,5.72,898.0,1385.3,Tons,1244000.0
+2021,,"Squash, All",85,Santa Clara,221.0,14.89,3290.0,485.71,Tons,1598000.0
+2021,,"Squash, All",99,Stanislaus,541.0,24.95,13500.0,551.26,Tons,7442000.0
+2021,,"Squash, All",111,Ventura,220.0,14.82,3260.0,440.49,Tons,1436000.0
+2021,,"Squash, All",998,Sum of Others,1960.0,,,,,14463000.0
+2021,,"Squash, All",999,State Total,7130.0,20.66,106799.0,448.48,Tons,62360000.0
+2021,375999.0,Squash,19,Fresno,1100.0,7.88,8670.0,659.98,Tons,5722000.0
+2021,375999.0,Squash,77,San Joaquin,1500.0,19.53,29300.0,219.83,Tons,6441000.0
+2021,375999.0,Squash,85,Santa Clara,221.0,14.89,3290.0,485.71,Tons,1598000.0
+2021,375999.0,Squash,998,Sum of Others,358.0,,,,,200000.0
+2021,375999.0,Squash,999,State Total,3179.0,14.63,41260.0,333.52,Tons,13961000.0
+2021,375999.0,Squash,65,Riverside,223.0,8.3,1850.0,680.0,Tons,1258000.0
+2021,375999.0,Squash,73,San Diego,,,,,,3966000.0
+2021,375999.0,Squash,998,Sum of Others,250.0,,,,,1312000.0
+2021,375999.0,Squash,999,State Total,473.0,8.3,1850.0,680.0,Tons,6536000.0
+2021,366999.0,Pumpkins,71,San Bernardino,58.0,3.47,201.0,1621.89,Tons,326000.0
+2021,366999.0,Pumpkins,77,San Joaquin,2250.0,24.22,54500.0,516.55,Tons,28152000.0
+2021,366999.0,Pumpkins,81,San Mateo,157.0,5.72,898.0,1385.3,Tons,1244000.0
+2021,366999.0,Pumpkins,99,Stanislaus,541.0,24.95,13500.0,551.26,Tons,7442000.0
+2021,366999.0,Pumpkins,111,Ventura,220.0,14.82,3260.0,440.49,,1436000.0
+2021,366999.0,Pumpkins,998,Sum of Others,256.0,,,,,3263000.0
+2021,366999.0,Pumpkins,999,State Total,3482.0,22.43,72359.0,533.45,Tons,41863000.0
+2021,,"Stone Fruits, All",7,Butte,8200.0,,,,,33517000.0
+2021,,"Stone Fruits, All",11,Colusa,338.0,,,,,1209000.0
+2021,,"Stone Fruits, All",13,Contra Costa,1350.0,,,,,11233000.0
+2021,,"Stone Fruits, All",17,El Dorado,212.0,,,,,3677000.0
+2021,,"Stone Fruits, All",19,Fresno,47500.0,,,,,579637000.0
+2021,,"Stone Fruits, All",29,Kern,4110.0,,,,,54913000.0
+2021,,"Stone Fruits, All",31,Kings,7720.0,,,,,117903000.0
+2021,,"Stone Fruits, All",39,Madera,2250.0,,,,,26394000.0
+2021,,"Stone Fruits, All",47,Merced,7180.0,,,,,57147000.0
+2021,,"Stone Fruits, All",61,Placer,108.0,,,,,391000.0
+2021,,"Stone Fruits, All",65,Riverside,122.0,,,,,965000.0
+2021,,"Stone Fruits, All",67,Sacramento,1490.0,,,,,20557000.0
+2021,,"Stone Fruits, All",69,San Benito,1060.0,,,,,5184000.0
+2021,,"Stone Fruits, All",77,San Joaquin,22600.0,,,,,333863000.0
+2021,,"Stone Fruits, All",85,Santa Clara,983.0,,,,,7604000.0
+2021,,"Stone Fruits, All",93,Siskiyou,6.0,,,,,99000.0
+2021,,"Stone Fruits, All",95,Solano,1480.0,,,,,7218000.0
+2021,,"Stone Fruits, All",99,Stanislaus,9120.0,,,,,107256000.0
+2021,,"Stone Fruits, All",101,Sutter,20900.0,,,,,99067000.0
+2021,,"Stone Fruits, All",103,Tehama,5290.0,,,,,30839000.0
+2021,,"Stone Fruits, All",107,Tulare,36000.0,,,,,437660000.0
+2021,,"Stone Fruits, All",113,Yolo,1840.0,,,,,7480000.0
+2021,,"Stone Fruits, All",115,Yuba,9100.0,,,,,40446000.0
+2021,,"Stone Fruits, All",998,Sum of Others,3470.0,,,,,13202000.0
+2021,,"Stone Fruits, All",999,State Total,192429.0,,,,,1997461000.0
+2021,195399.0,Straw,25,Imperial,,,148000.0,37.04,Tons,5482000.0
+2021,195399.0,Straw,47,Merced,,,5140.0,98.83,Tons,508000.0
+2021,195399.0,Straw,97,Sonoma,,,,,,10200.0
+2021,195399.0,Straw,998,Sum of Others,2110.0,,,,,1477000.0
+2021,195399.0,Straw,999,State Total,2110.0,,153140.0,39.12,Tons,7477200.0
+2021,132999.0,Sugar Beets,25,Imperial,23400.0,46.58,1090000.0,48.02,Tons,52343000.0
+2021,132999.0,Sugar Beets,999,State Total,23400.0,46.58,1090000.0,48.02,Tons,52343000.0
+2021,392999.0,"Potatoes, Sweet",47,Merced,18100.0,16.3,295000.0,1077.25,Tons,317789000.0
+2021,392999.0,"Potatoes, Sweet",99,Stanislaus,2140.0,16.31,34900.0,500.03,tons,17451000.0
+2021,392999.0,"Potatoes, Sweet",998,Sum of Others,630.0,,,,,2748000.0
+2021,392999.0,"Potatoes, Sweet",999,State Total,20870.0,16.3,329900.0,1016.19,Tons,337988000.0
+2021,206999.0,Tangelos,65,Riverside,140.0,8.29,1160.0,926.72,Tons,1075000.0
+2021,206999.0,Tangelos,71,San Bernardino,24.0,5.46,131.0,2320.61,Tons,304000.0
+2021,206999.0,Tangelos,998,Sum of Others,971.0,,,,,4566000.0
+2021,206999.0,Tangelos,999,State Total,1135.0,7.87,1291.0,1068.16,Tons,5945000.0
+2021,203999.0,Tangerines & Mandarins,19,Fresno,24100.0,13.32,321000.0,691.0,Tons,221811000.0
+2021,203999.0,Tangerines & Mandarins,25,Imperial,444.0,9.82,4360.0,483.49,Tons,2108000.0
+2021,203999.0,Tangerines & Mandarins,29,Kern,26700.0,15.51,414000.0,1462.13,Tons,605321000.0
+2021,203999.0,Tangerines & Mandarins,39,Madera,3900.0,11.77,45900.0,700.04,Tons,32132000.0
+2021,203999.0,Tangerines & Mandarins,61,Placer,274.0,5.26,1440.0,2797.22,Tons,4028000.0
+2021,203999.0,Tangerines & Mandarins,65,Riverside,1600.0,9.0,14400.0,1700.0,Tons,24480000.0
+2021,203999.0,Tangerines & Mandarins,73,San Diego,556.0,11.84,6580.0,1176.6,,7742000.0
+2021,203999.0,Tangerines & Mandarins,107,Tulare,32800.0,10.61,348000.0,1240.0,Tons,431520000.0
+2021,203999.0,Tangerines & Mandarins,111,Ventura,1610.0,7.7,12400.0,1233.07,Tons,15290000.0
+2021,203999.0,Tangerines & Mandarins,998,Sum of Others,11.0,,,,,57900.0
+2021,203999.0,Tangerines & Mandarins,999,State Total,91995.0,12.7,1168080.0,1150.98,Tons,1344489900.0
+2021,,"Tomatoes, All",11,Colusa,13200.0,,,,,52925000.0
+2021,,"Tomatoes, All",13,Contra Costa,2760.0,,,,,14587000.0
+2021,,"Tomatoes, All",21,Glenn,1290.0,,,,,4968000.0
+2021,,"Tomatoes, All",31,Kings,30200.0,,,,,128712000.0
+2021,,"Tomatoes, All",39,Madera,4300.0,,,,,23947000.0
+2021,,"Tomatoes, All",47,Merced,29500.0,,,,,139765000.0
+2021,,"Tomatoes, All",65,Riverside,391.0,,,,,3955000.0
+2021,,"Tomatoes, All",67,Sacramento,4310.0,,,,,15437000.0
+2021,,"Tomatoes, All",69,San Benito,690.0,,,,,12558000.0
+2021,,"Tomatoes, All",71,San Bernardino,13.0,,,,,184000.0
+2021,,"Tomatoes, All",77,San Joaquin,18400.0,,,,,70980000.0
+2021,,"Tomatoes, All",85,Santa Clara,1920.0,,,,,12871000.0
+2021,,"Tomatoes, All",95,Solano,9500.0,,,,,44108000.0
+2021,,"Tomatoes, All",99,Stanislaus,8160.0,,,,,34061000.0
+2021,,"Tomatoes, All",111,Ventura,103.0,,,,,7041000.0
+2021,,"Tomatoes, All",113,Yolo,32900.0,,,,,136618000.0
+2021,,"Tomatoes, All",998,Sum of Others,91100.0,,,,,550723000.0
+2021,,"Tomatoes, All",999,State Total,248737.0,,,,,1253440000.0
+2021,378199.0,"Tomatoes, Fresh Market",39,Madera,600.0,30.0,18000.0,496.0,,8928000.0
+2021,378199.0,"Tomatoes, Fresh Market",47,Merced,4590.0,16.69,76600.0,547.21,Tons,41916000.0
+2021,378199.0,"Tomatoes, Fresh Market",69,San Benito,690.0,14.0,9660.0,1300.0,tons,12558000.0
+2021,378199.0,"Tomatoes, Fresh Market",77,San Joaquin,520.0,35.58,18500.0,550.6,Tons,10186000.0
+2021,378199.0,"Tomatoes, Fresh Market",85,Santa Clara,1430.0,11.4,16300.0,609.45,Tons,9934000.0
+2021,378199.0,"Tomatoes, Fresh Market",998,Sum of Others,5060.0,,,,,195080000.0
+2021,378199.0,"Tomatoes, Fresh Market",999,State Total,12890.0,17.76,139060.0,600.62,,278602000.0
+2021,378999.0,"Tomatoes, Unspecified",13,Contra Costa,2760.0,63.04,174000.0,83.83,Tons,14587000.0
+2021,378999.0,"Tomatoes, Unspecified",65,Riverside,391.0,22.99,8990.0,439.93,Tons,3955000.0
+2021,378999.0,"Tomatoes, Unspecified",71,San Bernardino,13.0,11.08,144.0,1277.78,Tons,184000.0
+2021,378999.0,"Tomatoes, Unspecified",99,Stanislaus,8160.0,,,,,34061000.0
+2021,378999.0,"Tomatoes, Unspecified",111,Ventura,103.0,64.27,6620.0,1063.6,Tons,7041000.0
+2021,378999.0,"Tomatoes, Unspecified",998,Sum of Others,1330.0,,,,,338000.0
+2021,378999.0,"Tomatoes, Unspecified",999,State Total,12757.0,58.08,189754.0,135.79,Tons,60166000.0
+2021,378299.0,"Tomatoes, Processing",11,Colusa,13200.0,49.47,653000.0,81.05,Tons,52925000.0
+2021,378299.0,"Tomatoes, Processing",19,Fresno,62700.0,45.92,2879000.0,91.0,Tons,261989000.0
+2021,378299.0,"Tomatoes, Processing",21,Glenn,1290.0,46.43,59900.0,82.94,Tons,4968000.0
+2021,378299.0,"Tomatoes, Processing",29,Kern,8000.0,56.38,451000.0,85.04,Tons,38352000.0
+2021,378299.0,"Tomatoes, Processing",31,Kings,30200.0,50.36,1521000.0,84.62,Tons,128712000.0
+2021,378299.0,"Tomatoes, Processing",39,Madera,3700.0,47.3,175000.0,85.82,,15019000.0
+2021,378299.0,"Tomatoes, Processing",47,Merced,24900.0,46.51,1158000.0,84.5,Tons,97849000.0
+2021,378299.0,"Tomatoes, Processing",67,Sacramento,4310.0,41.53,179000.0,86.24,Tons,15437000.0
+2021,378299.0,"Tomatoes, Processing",77,San Joaquin,17900.0,39.5,707000.0,85.99,Tons,60794000.0
+2021,378299.0,"Tomatoes, Processing",85,Santa Clara,498.0,60.04,29900.0,98.23,Tons,2937000.0
+2021,378299.0,"Tomatoes, Processing",95,Solano,9500.0,54.1,514000.0,85.81,Tons,44108000.0
+2021,378299.0,"Tomatoes, Processing",101,Sutter,14000.0,45.64,639000.0,86.02,Tons,54964000.0
+2021,378299.0,"Tomatoes, Processing",113,Yolo,32900.0,50.03,1646000.0,83.0,Tons,136618000.0
+2021,378299.0,"Tomatoes, Processing",999,State Total,223098.0,47.57,10611800.0,86.19,Tons,914672000.0
+2021,,"Triticale, All",31,Kings,16000.0,,,,,15655000.0
+2021,,"Triticale, All",67,Sacramento,5150.0,2.29,11800.0,199.58,Tons,2355000.0
+2021,,"Triticale, All",93,Siskiyou,750.0,0.9,675.0,219.26,Tons,148000.0
+2021,,"Triticale, All",95,Solano,6560.0,2.65,17400.0,202.93,Tons,3531000.0
+2021,,"Triticale, All",99,Stanislaus,1890.0,19.47,36800.0,49.02,Tons,1804000.0
+2021,,"Triticale, All",998,Sum of Others,13100.0,,,,,19851000.0
+2021,,"Triticale, All",999,State Total,43450.0,4.65,66675.0,117.56,Tons,43344000.0
+2021,188499.0,"Hay, Grain",93,Siskiyou,750.0,0.9,675.0,219.26,Tons,148000.0
+2021,188499.0,"Hay, Grain",95,Solano,6560.0,2.65,17400.0,202.93,Tons,3531000.0
+2021,188499.0,"Hay, Grain",998,Sum of Others,4890.0,,,,,13420000.0
+2021,188499.0,"Hay, Grain",999,State Total,12200.0,2.47,18075.0,203.54,Tons,17099000.0
+2021,115992.0,Triticale,31,Kings,16000.0,,,,,15655000.0
+2021,115992.0,Triticale,67,Sacramento,5150.0,2.29,11800.0,199.58,Tons,2355000.0
+2021,115992.0,Triticale,99,Stanislaus,1890.0,19.47,36800.0,49.02,Tons,1804000.0
+2021,115992.0,Triticale,998,Sum of Others,8190.0,,,,,6431000.0
+2021,115992.0,Triticale,999,State Total,31230.0,6.9,48600.0,85.58,Tons,26245000.0
+2021,619999.0,"Turkeys, Unspecified",47,Merced,,,,,,28129000.0
+2021,619999.0,"Turkeys, Unspecified",77,San Joaquin,,,,,,6078000.0
+2021,619999.0,"Turkeys, Unspecified",998,Sum of Others,,,,,,31971000.0
+2021,619999.0,"Turkeys, Unspecified",999,State Total,,,,,,66178000.0
+2021,398999.0,"Vegetables, Unspecified",1,Alameda,150.0,,,,,318000.0
+2021,398999.0,"Vegetables, Unspecified",5,Amador,,,,,,237000.0
+2021,398999.0,"Vegetables, Unspecified",7,Butte,481.0,,,,,1379000.0
+2021,398999.0,"Vegetables, Unspecified",9,Calaveras,,,,,,10400.0
+2021,398999.0,"Vegetables, Unspecified",11,Colusa,,,,,,24000000.0
+2021,398999.0,"Vegetables, Unspecified",13,Contra Costa,398.0,,,,,3057000.0
+2021,398999.0,"Vegetables, Unspecified",21,Glenn,50.0,,,,,230000.0
+2021,398999.0,"Vegetables, Unspecified",27,Inyo,3.0,,,,,15000.0
+2021,398999.0,"Vegetables, Unspecified",31,Kings,7660.0,,,,,59835000.0
+2021,398999.0,"Vegetables, Unspecified",33,Lake,8.0,,,,,240000.0
+2021,398999.0,"Vegetables, Unspecified",41,Marin,221.0,,,,,2657000.0
+2021,398999.0,"Vegetables, Unspecified",45,Mendocino,350.0,,,,,1387000.0
+2021,398999.0,"Vegetables, Unspecified",53,Monterey,18300.0,,,,,85059000.0
+2021,398999.0,"Vegetables, Unspecified",55,Napa,18.0,,,,,192000.0
+2021,398999.0,"Vegetables, Unspecified",57,Nevada,101.0,,,,,3653000.0
+2021,398999.0,"Vegetables, Unspecified",61,Placer,,,,,,2007000.0
+2021,398999.0,"Vegetables, Unspecified",63,Plumas,18.0,,,,,165000.0
+2021,398999.0,"Vegetables, Unspecified",65,Riverside,5080.0,,,,,21960000.0
+2021,398999.0,"Vegetables, Unspecified",67,Sacramento,2670.0,,,,,15087000.0
+2021,398999.0,"Vegetables, Unspecified",69,San Benito,6860.0,,,,,57884000.0
+2021,398999.0,"Vegetables, Unspecified",77,San Joaquin,830.0,,,,,3411000.0
+2021,398999.0,"Vegetables, Unspecified",79,San Luis Obispo,9780.0,,,,,82487000.0
+2021,398999.0,"Vegetables, Unspecified",81,San Mateo,432.0,,,,,9176000.0
+2021,398999.0,"Vegetables, Unspecified",83,Santa Barbara,6670.0,,,,,147611000.0
+2021,398999.0,"Vegetables, Unspecified",85,Santa Clara,2160.0,,,,,22622000.0
+2021,398999.0,"Vegetables, Unspecified",87,Santa Cruz,3980.0,,,,,55343000.0
+2021,398999.0,"Vegetables, Unspecified",91,Sierra,15.0,,,,,355000.0
+2021,398999.0,"Vegetables, Unspecified",93,Siskiyou,,,,,,13250000.0
+2021,398999.0,"Vegetables, Unspecified",95,Solano,2600.0,,,,,42283000.0
+2021,398999.0,"Vegetables, Unspecified",97,Sonoma,447.0,,,,,7581000.0
+2021,398999.0,"Vegetables, Unspecified",99,Stanislaus,8920.0,,,,,88992000.0
+2021,398999.0,"Vegetables, Unspecified",103,Tehama,113.0,,,,,282000.0
+2021,398999.0,"Vegetables, Unspecified",107,Tulare,2930.0,,,,,18648000.0
+2021,398999.0,"Vegetables, Unspecified",109,Tuolumne,12.0,,,,,290000.0
+2021,398999.0,"Vegetables, Unspecified",111,Ventura,5920.0,,,,,42951000.0
+2021,398999.0,"Vegetables, Unspecified",113,Yolo,5980.0,,,,,26871000.0
+2021,398999.0,"Vegetables, Unspecified",998,Sum of Others,18000.0,,,,,264288000.0
+2021,398999.0,"Vegetables, Unspecified",999,State Total,111157.0,,,,,1105813400.0
+2021,263999.0,"Walnuts, English",5,Amador,258.0,0.9,232.0,1698.28,Tons,394000.0
+2021,263999.0,"Walnuts, English",7,Butte,53300.0,1.75,93300.0,1500.35,Tons,139983000.0
+2021,263999.0,"Walnuts, English",9,Calaveras,789.0,0.93,734.0,1599.45,Tons,1174000.0
+2021,263999.0,"Walnuts, English",11,Colusa,26700.0,1.81,48400.0,1660.54,Tons,80370000.0
+2021,263999.0,"Walnuts, English",13,Contra Costa,541.0,1.77,958.0,1617.95,Tons,1550000.0
+2021,263999.0,"Walnuts, English",17,El Dorado,126.0,1.48,186.0,3397.85,Tons,632000.0
+2021,263999.0,"Walnuts, English",19,Fresno,11000.0,1.81,19900.0,1636.98,Tons,32576000.0
+2021,263999.0,"Walnuts, English",21,Glenn,41200.0,1.95,80300.0,1402.59,Tons,112628000.0
+2021,263999.0,"Walnuts, English",29,Kern,910.0,1.13,1030.0,1412.62,Tons,1455000.0
+2021,263999.0,"Walnuts, English",31,Kings,17900.0,1.99,35600.0,1738.29,Tons,61883000.0
+2021,263999.0,"Walnuts, English",33,Lake,3500.0,0.11,398.0,1721.11,Tons,685000.0
+2021,263999.0,"Walnuts, English",39,Madera,3200.0,1.81,5790.0,1899.65,Tons,10999000.0
+2021,263999.0,"Walnuts, English",45,Mendocino,20.0,,,,,
+2021,263999.0,"Walnuts, English",47,Merced,6970.0,1.69,11800.0,1781.02,Tons,21016000.0
+2021,263999.0,"Walnuts, English",61,Placer,4230.0,2.04,8630.0,1675.67,Tons,14461000.0
+2021,263999.0,"Walnuts, English",67,Sacramento,2160.0,1.5,3240.0,1840.43,Tons,5963000.0
+2021,263999.0,"Walnuts, English",69,San Benito,1270.0,0.53,671.0,1988.08,Tons,1334000.0
+2021,263999.0,"Walnuts, English",77,San Joaquin,75700.0,2.46,186000.0,1977.55,Tons,367825000.0
+2021,263999.0,"Walnuts, English",85,Santa Clara,290.0,1.54,446.0,1890.13,Tons,843000.0
+2021,263999.0,"Walnuts, English",89,Shasta,1400.0,1.9,2660.0,1516.92,Tons,4035000.0
+2021,263999.0,"Walnuts, English",95,Solano,9900.0,1.53,15200.0,1336.32,Tons,20312000.0
+2021,263999.0,"Walnuts, English",99,Stanislaus,36600.0,1.82,66800.0,1631.81,Tons,109005000.0
+2021,263999.0,"Walnuts, English",101,Sutter,39400.0,1.57,61900.0,1961.31,Tons,121405000.0
+2021,263999.0,"Walnuts, English",103,Tehama,29300.0,1.85,54200.0,1413.36,Tons,76604000.0
+2021,263999.0,"Walnuts, English",107,Tulare,42800.0,1.71,73200.0,1840.0,Tons,134688000.0
+2021,263999.0,"Walnuts, English",113,Yolo,16900.0,1.65,27900.0,1345.02,Tons,37526000.0
+2021,263999.0,"Walnuts, English",115,Yuba,17200.0,2.25,38700.0,1439.41,Tons,55705000.0
+2021,263999.0,"Walnuts, English",998,Sum of Others,1.0,,,,,
+2021,263999.0,"Walnuts, English",999,State Total,443565.0,1.89,838175.0,1688.25,Tons,1415051000.0
+2021,,"Wheat, All",11,Colusa,4880.0,,,,,3205000.0
+2021,,"Wheat, All",13,Contra Costa,2060.0,,,,,555000.0
+2021,,"Wheat, All",19,Fresno,61900.0,,,,,35863000.0
+2021,,"Wheat, All",21,Glenn,13000.0,,,,,7726000.0
+2021,,"Wheat, All",25,Imperial,23200.0,,,,,24885000.0
+2021,,"Wheat, All",29,Kern,46400.0,,,,,36066000.0
+2021,,"Wheat, All",31,Kings,45300.0,,,,,48138000.0
+2021,,"Wheat, All",47,Merced,9210.0,,,,,4844000.0
+2021,,"Wheat, All",49,Modoc,5130.0,,,,,3812000.0
+2021,,"Wheat, All",65,Riverside,17600.0,,,,,8885000.0
+2021,,"Wheat, All",67,Sacramento,6940.0,,,,,4680000.0
+2021,,"Wheat, All",77,San Joaquin,19200.0,,,,,13918000.0
+2021,,"Wheat, All",93,Siskiyou,18000.0,,,,,13169000.0
+2021,,"Wheat, All",95,Solano,11300.0,,,,,4861000.0
+2021,,"Wheat, All",99,Stanislaus,28200.0,,,,,17082000.0
+2021,,"Wheat, All",101,Sutter,10700.0,,,,,5428000.0
+2021,,"Wheat, All",103,Tehama,2510.0,,,,,1173000.0
+2021,,"Wheat, All",107,Tulare,21400.0,,,,,10280000.0
+2021,,"Wheat, All",113,Yolo,24200.0,,,,,13154000.0
+2021,,"Wheat, All",998,Sum of Others,22900.0,,,,,16442000.0
+2021,,"Wheat, All",999,State Total,394030.0,,,,,274166000.0
+2021,101999.0,"Wheat, All",11,Colusa,4880.0,2.89,14100.0,227.3,Tons,3205000.0
+2021,101999.0,"Wheat, All",13,Contra Costa,2060.0,1.86,3830.0,144.91,Tons,555000.0
+2021,101999.0,"Wheat, All",19,Fresno,21600.0,3.12,67500.0,237.01,Tons,15998000.0
+2021,101999.0,"Wheat, All",21,Glenn,7810.0,3.98,31100.0,189.84,Tons,5904000.0
+2021,101999.0,"Wheat, All",25,Imperial,23200.0,3.78,87600.0,284.08,Tons,24885000.0
+2021,101999.0,"Wheat, All",29,Kern,14000.0,2.74,38300.0,341.62,Tons,13084000.0
+2021,101999.0,"Wheat, All",31,Kings,6700.0,3.81,25500.0,232.63,Tons,5932000.0
+2021,101999.0,"Wheat, All",39,Madera,1900.0,3.09,5870.0,220.1,Tons,1292000.0
+2021,101999.0,"Wheat, All",47,Merced,9210.0,2.33,21500.0,225.3,Tons,4844000.0
+2021,101999.0,"Wheat, All",49,Modoc,5130.0,2.75,14100.0,270.36,Tons,3812000.0
+2021,101999.0,"Wheat, All",65,Riverside,16600.0,2.31,38300.0,199.82,Tons,7653000.0
+2021,101999.0,"Wheat, All",93,Siskiyou,18000.0,3.32,59800.0,220.22,Tons,13169000.0
+2021,101999.0,"Wheat, All",95,Solano,11300.0,2.1,23700.0,205.1,Tons,4861000.0
+2021,101999.0,"Wheat, All",101,Sutter,10700.0,2.24,24000.0,226.17,Tons,5428000.0
+2021,101999.0,"Wheat, All",107,Tulare,21400.0,2.4,51400.0,200.0,Tons,10280000.0
+2021,101999.0,"Wheat, All",999,State Total,174490.0,2.9,506600.0,238.65,Tons,120902000.0
+2021,188499.0,"Hay, Grain",19,Fresno,30100.0,2.46,74100.0,200.0,Tons,14820000.0
+2021,188499.0,"Hay, Grain",31,Kings,1300.0,5.85,7610.0,145.99,Tons,1111000.0
+2021,188499.0,"Hay, Grain",99,Stanislaus,8740.0,3.1,27100.0,183.14,Tons,4963000.0
+2021,188499.0,"Hay, Grain",103,Tehama,2510.0,3.74,9390.0,124.92,Tons,1173000.0
+2021,188499.0,"Hay, Grain",998,Sum of Others,2020.0,,,,,431000.0
+2021,188499.0,"Hay, Grain",999,State Total,44670.0,2.77,118200.0,186.69,Tons,22498000.0
+2021,198999.0,"Field Crops, Unspecified",67,Sacramento,6940.0,,,,,4680000.0
+2021,198999.0,"Field Crops, Unspecified",77,San Joaquin,19200.0,3.14,60300.0,230.81,Tons,13918000.0
+2021,198999.0,"Field Crops, Unspecified",113,Yolo,24200.0,2.52,60900.0,215.99,Tons,13154000.0
+2021,198999.0,"Field Crops, Unspecified",998,Sum of Others,3.0,,,,,
+2021,198999.0,"Field Crops, Unspecified",999,State Total,50343.0,2.79,121200.0,223.37,,31752000.0
+2021,195199.0,Silage,19,Fresno,10200.0,8.11,82700.0,61.0,Tons,5045000.0
+2021,195199.0,Silage,21,Glenn,5200.0,10.0,52000.0,35.04,Tons,1822000.0
+2021,195199.0,Silage,29,Kern,32400.0,17.53,568000.0,40.46,Tons,22982000.0
+2021,195199.0,Silage,31,Kings,37300.0,21.1,787000.0,52.22,Tons,41095000.0
+2021,195199.0,Silage,39,Madera,19000.0,15.79,300000.0,49.06,Tons,14719000.0
+2021,195199.0,Silage,65,Riverside,1000.0,,,,,1232000.0
+2021,195199.0,Silage,99,Stanislaus,19500.0,15.38,300000.0,40.4,Tons,12119000.0
+2021,195199.0,Silage,999,State Total,124600.0,16.91,2089700.0,46.79,Tons,99014000.0
