@@ -6,49 +6,116 @@ library(scales)
 library(DT)
 library(janitor)
 library(tidyr)
+library(reshape2)
+library(RColorBrewer)
+library(ggiraph)
+library(glue)
+
+# File paths based on directory structure
+current_dir <- getwd()
+parent_dir <- dirname(current_dir)
+base_dir <- file.path(parent_dir, "DWR_DATA_AND_SCRIPTS")
+data_dir <- file.path(base_dir, "data")
+transformed_dir <- file.path(data_dir, "transformed_ag_data")
+csv_filename <- file.path(transformed_dir, "consolidated_agricultural_data_with_cpi.csv")
 
 # Read and process data
-csv_filename <- "mapped_combineddata_2024.csv"
-
 initial_data <- tryCatch({
-  # Read the data
+  # Read the data with appropriate column types
   data <- read_csv(csv_filename, 
-                   col_types = cols(
-                     Year = col_double(),
-                     `Commodity Code` = col_character(),
-                     `Crop Name` = col_character(),
-                     `County Code` = col_character(),
-                     County = col_character(),
-                     `Harvested Acres` = col_double(),
-                     Yield = col_double(),
-                     Production = col_double(),
-                     `Price P/U` = col_double(),
-                     Unit = col_character(),
-                     Value = col_double()
-                   ),
+                   col_types = NULL,
                    locale = locale(encoding = "UTF-8"),
                    show_col_types = FALSE)
   
-  # Fix missing crop names and clean data
-  data_fixed <- data %>%
-    group_by(`Commodity Code`) %>%
-    fill(`Crop Name`, .direction = "downup") %>%
-    ungroup() %>%
-    janitor::clean_names() %>%
-    filter(!grepl("^[0-9]+$", crop_name),
-           !grepl("^[0-9]+$", county)) %>%
-    mutate(
-      crop_name = trimws(crop_name),
-      county = trimws(county),
-      year = as.numeric(year)
+  # Clean and process data
+  data_processed <- data %>%
+    # Ensure proper column names (keeping original case for now)
+    rename(
+      county = NAME,
+      applied_water = AW,
+      total_land_acres = Total_Land,
+      total_water = TW,
+      adjusted_price = `Adjusted Price`,
+      adjusted_total_production_value = `Adjusted Total Production Value`,
+      adjusted_gross_revenue = `Adjusted Gross Revenue`
     ) %>%
-    filter(!is.na(crop_name), 
-           crop_name != "",
+    mutate(
+      # Ensure proper trimming of text fields
+      county = trimws(county),
+      crop = trimws(crop),
+      year = as.numeric(year),
+      # Convert to thousands for display
+      total_land = total_land_acres / 1000,
+      tw = total_water / 1000,
+      # Keep original water per acre
+      applied_water_per_acre = applied_water
+    ) %>%
+    # Calculate gross revenue per acre-foot
+    mutate(
+      gross_revenue_per_acre_foot = adjusted_gross_revenue / applied_water
+    ) %>%
+    filter(!is.na(crop), 
+           crop != "",
            !is.na(county),
            county != "",
            !is.na(year))
   
-  data_fixed
+  # Calculate totals by county and year
+  county_year_totals <- data_processed %>%
+    group_by(county, year) %>%
+    summarize(
+      total_land_use = sum(total_land, na.rm = TRUE),
+      total_water_use = sum(tw, na.rm = TRUE),
+      total_adjusted_value = sum(adjusted_total_production_value, na.rm = TRUE),
+      .groups = "drop"
+    )
+  
+  # Join totals back to main data
+  data_final <- data_processed %>%
+    left_join(county_year_totals, by = c("county", "year"))
+  
+  # Add "Sum All" category for aggregated metrics
+  data_sum_all <- data_final %>%
+    select(county, year, total_land_use, total_water_use, total_adjusted_value) %>%
+    distinct() %>%
+    mutate(crop = "Sum All") %>%
+    rename(
+      total_land = total_land_use,
+      tw = total_water_use,
+      adjusted_total_production_value = total_adjusted_value
+    )
+  
+  # Transform to long format for easier plotting
+  data_long <- data_final %>%
+    select(county, crop, year, 
+           applied_water_per_acre, total_land, tw, 
+           adjusted_gross_revenue, gross_revenue_per_acre_foot, 
+           adjusted_total_production_value) %>%
+    reshape2::melt(id.vars = c("county", "crop", "year"), 
+                   variable.name = "variable", value.name = "value")
+  
+  # Add "Sum All" data in long format
+  sum_all_long <- data_sum_all %>%
+    select(county, crop, year, total_land, tw, adjusted_total_production_value) %>%
+    reshape2::melt(id.vars = c("county", "crop", "year"),
+                   variable.name = "variable", value.name = "value")
+  
+  # Combine regular and sum all data
+  combined_long <- bind_rows(data_long, sum_all_long) %>%
+    # Clean up variable names for display
+    mutate(
+      variable = case_when(
+        variable == "total_land" ~ "Land use",
+        variable == "tw" ~ "Water use",
+        variable == "applied_water_per_acre" ~ "Applied water per acre",
+        variable == "adjusted_gross_revenue" ~ "Adjusted Gross Revenue",
+        variable == "gross_revenue_per_acre_foot" ~ "Gross revenue per acre-foot",
+        variable == "adjusted_total_production_value" ~ "Adjusted Total Production Value",
+        TRUE ~ as.character(variable)
+      )
+    )
+  
+  combined_long
   
 }, error = function(e) {
   stop(paste("Error processing CSV file:", e$message))
@@ -57,28 +124,53 @@ initial_data <- tryCatch({
 # Get year range and lists
 year_min <- min(initial_data$year, na.rm = TRUE)
 year_max <- max(initial_data$year, na.rm = TRUE)
-crop_list <- sort(unique(initial_data$crop_name))
+crop_list <- sort(unique(initial_data$crop))
 county_list <- sort(unique(initial_data$county))
+variable_list <- unique(initial_data$variable)
+
+# Define y-axis labels for different variables
+y_labels <- c(
+  "Applied water per acre" = "Acre-feet/acre",
+  "Land use" = "Thousand acres",
+  "Water use" = "Thousand acre-feet",
+  "Adjusted Gross Revenue" = "USD/Acre",
+  "Gross revenue per acre-foot" = "USD/Acre-feet",
+  "Adjusted Total Production Value" = "Thousand USD"
+)
+
+# Colors for counties - ensure we have enough colors
+n_counties <- length(county_list)
+qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
+col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
+# Ensure we have enough colors
+if(n_counties > length(col_vector)) {
+  col_vector <- colorRampPalette(col_vector)(n_counties)
+}
 
 ui <- fluidPage(
-  titlePanel("Agricultural Data Analysis"),
+  titlePanel("Water and Land Use Analysis"),
   
   sidebarLayout(
     sidebarPanel(
       selectInput("crop_category", "Crop Category",
                   choices = c("All", crop_list),
-                  selected = "All"),
+                  selected = "Alfalfa"),
       
       selectizeInput("county", "County",
                      choices = county_list,
-                     selected = c("Fresno", "Kern"),
+                     selected = "Alameda",
                      multiple = TRUE),
       
       selectInput("variable", "Variable",
-                  choices = c("Land use" = "harvested_acres",
-                              "Production" = "production",
-                              "Value" = "value"),
-                  selected = "harvested_acres"),
+                  choices = c(
+                    "Land use",
+                    "Water use",
+                    "Applied water per acre",
+                    "Adjusted Gross Revenue",
+                    "Gross revenue per acre-foot",
+                    "Adjusted Total Production Value"
+                  ),
+                  selected = "Land use"),
       
       sliderInput("year_range", "Year Range",
                   min = year_min,
@@ -93,7 +185,7 @@ ui <- fluidPage(
     ),
     
     mainPanel(
-      plotOutput("timeseries_plot", height = "600px")
+      girafeOutput("timeseries_plot", height = "600px")
     )
   )
 )
@@ -103,69 +195,68 @@ server <- function(input, output, session) {
     req(input$crop_category)
     req(input$year_range)
     req(input$county)
+    req(input$variable)
     
     data <- initial_data
     
+    # Filter by crop category
     if (input$crop_category != "All") {
       data <- data %>%
-        filter(crop_name == input$crop_category)
+        filter(crop == input$crop_category)
+    } else {
+      # For "All" selection, use the "Sum All" aggregated data
+      data <- data %>%
+        filter(crop == "Sum All")
     }
     
+    # Filter by other criteria
     data %>%
       filter(year >= input$year_range[1],
              year <= input$year_range[2],
-             county %in% input$county) %>%
+             county %in% input$county,
+             variable == input$variable) %>%
+      # Filter out points with value of 0.0
+      filter(value != 0.0) %>%
       arrange(year)
   })
   
-  output$timeseries_plot <- renderPlot({
+  output$timeseries_plot <- renderGirafe({
     req(filtered_data())
     
-    y_var <- sym(input$variable)
+    plot_data <- filtered_data()
     
-    plot_data <- if(input$crop_category == "All") {
-      filtered_data() %>%
-        group_by(year, county) %>%
-        summarize(!!input$variable := sum(!!y_var, na.rm = TRUE)) %>%
-        ungroup()
-    } else {
-      filtered_data()
-    }
-    
-    ggplot(plot_data, 
-           aes(x = year, 
-               y = !!y_var/1000,
-               group = county,
-               color = county)) +
+    plot <- ggplot(plot_data, 
+                   aes(x = year, 
+                       y = value,
+                       group = county,
+                       color = county)) +
       theme_minimal() +
       geom_line(size = 0.8, alpha = 0.7) +
-      geom_point(size = 2.5) +
-      scale_color_manual(values = c(
-        "Fresno" = "#90EE90",
-        "Kern" = "#B19CD9"
-      )) +
+      geom_point_interactive(
+        aes(
+          tooltip = paste(
+            glue("County: {county}"),
+            glue("Year: {year}"),
+            glue("Value: {format(value, big.mark=',', scientific=FALSE)}"),
+            sep = "\n"
+          ),
+          data_id = paste(county, year, sep = "-")
+        ),
+        size = 2.5
+      ) +
+      scale_color_manual(values = col_vector) +
       scale_x_continuous(
         name = "Year",
         breaks = seq(min(plot_data$year), max(plot_data$year), by = 5),
         expand = c(0.02, 0.02)
       ) +
       scale_y_continuous(
-        name = case_when(
-          input$variable == "harvested_acres" ~ "Thousand acres",
-          input$variable == "production" ~ "Thousand units",
-          input$variable == "value" ~ "Thousand dollars",
-          TRUE ~ "Value (thousands)"
-        ),
+        name = y_labels[input$variable],
         labels = comma,
         expand = c(0.02, 0.02)
       ) +
       labs(
-        title = case_when(
-          input$variable == "harvested_acres" ~ "Land Use",
-          input$variable == "production" ~ "Production",
-          input$variable == "value" ~ "Value",
-          TRUE ~ input$variable
-        ),
+        title = input$variable,
         subtitle = if(input$crop_category == "All") "All Crops" 
         else paste("Crop Category:", input$crop_category),
         color = "County"
@@ -173,8 +264,8 @@ server <- function(input, output, session) {
       theme(
         panel.grid.minor = element_line(color = "gray95"),
         panel.grid.major = element_line(color = "gray90"),
-        plot.title = element_text(size = 16, face = "plain", margin = margin(b = 5)),
-        plot.subtitle = element_text(size = 14, margin = margin(b = 10)),
+        plot.title = element_text(size = 16, face = "plain", margin = margin(b = 5), hjust = 0.5),
+        plot.subtitle = element_text(size = 14, margin = margin(b = 10), hjust = 0.5),
         axis.title = element_text(size = 12),
         axis.title.y = element_text(margin = margin(r = 10)),
         axis.title.x = element_text(margin = margin(t = 10)),
@@ -182,8 +273,23 @@ server <- function(input, output, session) {
         legend.title = element_text(size = 12),
         legend.text = element_text(size = 11),
         legend.box.margin = margin(l = 10),
-        plot.margin = margin(20, 20, 20, 20)
+        plot.margin = margin(20, 20, 20, 20),
+        panel.border = element_rect(colour = "black", fill = NA, size = 0.5)
       )
+    
+    girafe(
+      ggobj = plot,
+      options = list(
+        opts_tooltip(
+          opacity = 0.8,
+          use_fill = TRUE,
+          use_stroke = FALSE,
+          css = "padding:5pt;font-family:sans-serif;color:black;background-color:white;border-radius:3px;"
+        ),
+        opts_hover_inv(css = "opacity:0.5;"),
+        opts_hover(css = "stroke-width:2;")
+      )
+    )
   })
   
   output$downloadData <- downloadHandler(
@@ -191,7 +297,11 @@ server <- function(input, output, session) {
       paste("agricultural-data-filtered-", Sys.Date(), ".csv", sep="")
     },
     content = function(file) {
-      write.csv(filtered_data(), file, row.names = FALSE)
+      # Get the filtered data
+      data_to_download <- filtered_data() %>%
+        select(county, crop, year, variable, value)
+      
+      write.csv(data_to_download, file, row.names = FALSE)
     }
   )
   

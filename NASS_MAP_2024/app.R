@@ -7,7 +7,7 @@ library(sf)
 library(tigris)
 
 # Specify the name of your CSV file here
-csv_filename <- "../NASS_DATA_AND_SCRIPTS/data/final_mapped_data/mapped_combineddata_2024_4.csv"
+csv_filename <- "../NASS_DATA_AND_SCRIPTS/data/cpi_adjusted_data/final_mapped_data_with_cpi.csv"
 
 # Read the CSV file once at startup
 initial_data <- read_csv(csv_filename)
@@ -17,18 +17,31 @@ options(tigris_use_cache = TRUE)
 ca_counties <- counties(state = "CA", cb = TRUE)
 
 ui <- fluidPage(
-  titlePanel("NASS Data Map"),
+  titlePanel("NASS Data Map - With Inflation Adjustment"),
   
   sidebarLayout(
     sidebarPanel(
       selectInput("crop", "Crop Category",
-                  choices = sort(unique(initial_data$`Crop Name`))),  # Added sort() here
+                  choices = sort(unique(initial_data$`Crop Name`))),
       
       selectInput("year", "Year",
                   choices = sort(unique(initial_data$Year[!is.na(initial_data$Year)]))),
       
+      # Create a radio button for choosing between original and adjusted values
+      radioButtons("adjust_type", "Data Type:",
+                   choices = c("Original Values" = "original", 
+                               "Inflation-Adjusted Values (2024 Base)" = "adjusted"),
+                   selected = "original"),
+      
+      # Variable selection - will be updated based on adjust_type
       selectInput("variable", "Variable",
                   choices = c("Harvested Acres", "Yield", "Production", "Price P/U", "Value")),
+      
+      # Information about the CPI adjustment
+      conditionalPanel(
+        condition = "input.adjust_type == 'adjusted'",
+        helpText("Values are adjusted for inflation using Consumer Price Index (CPI) with 2024 as the base year.")
+      ),
       
       # Put download buttons in a horizontal layout
       fluidRow(
@@ -45,6 +58,21 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
+  
+  # Update variable choices based on adjustment type
+  observe({
+    if (input$adjust_type == "original") {
+      variable_choices <- c("Harvested Acres", "Yield", "Production", "Price P/U", "Value")
+    } else {
+      variable_choices <- c("Harvested Acres", "Yield", "Production", "Adjusted Price" = "Adjusted Price", 
+                            "Adjusted Total Production Value" = "Adjusted Total Production Value",
+                            "Adjusted Gross Revenue" = "Adjusted Gross Revenue")
+    }
+    
+    # Update the selectInput with new choices
+    updateSelectInput(session, "variable", choices = variable_choices)
+  })
+  
   # Filter data based on selections
   filtered_data <- reactive({
     initial_data %>%
@@ -54,9 +82,13 @@ server <- function(input, output, session) {
   
   # Summarize data by county
   summarized_data <- reactive({
+    # Select the proper variable based on adjustment type
+    var_to_use <- input$variable
+    
+    # Summarize by county
     filtered_data() %>%
       group_by(County) %>%
-      summarise(Value = sum(as.numeric(!!sym(input$variable)), na.rm = TRUE))
+      summarise(Value = sum(as.numeric(!!sym(var_to_use)), na.rm = TRUE))
   })
   
   # Create the map
@@ -89,6 +121,12 @@ server <- function(input, output, session) {
       na.color = "#CCCCCC"
     )
     
+    # Determine the title for the legend based on variable
+    legend_title <- input$variable
+    if (input$adjust_type == "adjusted") {
+      legend_title <- paste0(input$variable, " (2024 $)")
+    }
+    
     # Create map
     leaflet(ca_counties_data) %>%
       addTiles() %>%
@@ -117,7 +155,7 @@ server <- function(input, output, session) {
         pal = pal,
         values = valid_values,
         opacity = 0.7,
-        title = input$variable,
+        title = legend_title,
         position = "bottomright",
         na.label = "No data"
       ) %>%
@@ -127,13 +165,18 @@ server <- function(input, output, session) {
   # Add debug output
   output$debug <- renderText({
     req(filtered_data())
-    paste("Records found:", nrow(filtered_data()))
+    if (input$adjust_type == "adjusted") {
+      paste("Records found:", nrow(filtered_data()), "| Showing inflation-adjusted values (2024 base year)")
+    } else {
+      paste("Records found:", nrow(filtered_data()), "| Showing original values")
+    }
   })
   
   # Download handler for selected data
   output$downloadData <- downloadHandler(
     filename = function() {
-      paste("nass_data_", input$crop, "_", input$year, ".csv", sep = "")
+      paste("nass_data_", input$crop, "_", input$year, "_", 
+            ifelse(input$adjust_type == "adjusted", "adjusted", "original"), ".csv", sep = "")
     },
     content = function(file) {
       write.csv(filtered_data(), file, row.names = FALSE)
