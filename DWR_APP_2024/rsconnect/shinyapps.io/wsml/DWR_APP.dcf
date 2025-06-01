@@ -1,0 +1,12 @@
+name: DWR_APP
+title: DWR_APP
+username: wsml
+account: wsml
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4347674
+bundleId: 10374234
+url: https://wsml.shinyapps.io/DWR_APP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

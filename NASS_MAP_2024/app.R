@@ -7,7 +7,7 @@ library(sf)
 library(tigris)
 
 # Specify the name of your CSV file here
-csv_filename <- "../NASS_DATA_AND_SCRIPTS/data/cpi_adjusted_data/final_mapped_data_with_cpi.csv"
+csv_filename <- "final_mapped_data_without_duplicates.csv"
 
 # Read the CSV file once at startup
 initial_data <- read_csv(csv_filename)
@@ -24,6 +24,10 @@ ui <- fluidPage(
       selectInput("crop", "Crop Category",
                   choices = sort(unique(initial_data$`Crop Name`))),
       
+      selectInput("commodity_detail", "Commodity Detail",
+                  choices = c("All Commodities" = "all"),
+                  selected = "all"),
+      
       selectInput("year", "Year",
                   choices = sort(unique(initial_data$Year[!is.na(initial_data$Year)]))),
       
@@ -35,7 +39,7 @@ ui <- fluidPage(
       
       # Variable selection - will be updated based on adjust_type
       selectInput("variable", "Variable",
-                  choices = c("Harvested Acres", "Yield", "Production", "Price P/U", "Value")),
+                  choices = c("Total Area", "Yield", "Production", "Price P/U", "Value")),
       
       # Information about the CPI adjustment
       conditionalPanel(
@@ -59,12 +63,58 @@ ui <- fluidPage(
 
 server <- function(input, output, session) {
   
+  # Update commodity detail choices based on selected crop
+  observe({
+    req(input$crop)
+    
+    # Get unique commodity codes for the selected crop with substantial data
+    commodity_options <- initial_data %>%
+      filter(`Crop Name` == input$crop) %>%
+      group_by(`Commodity Code`) %>%
+      summarise(
+        total_acres = sum(as.numeric(`Harvested Acres`), na.rm = TRUE),
+        total_value = sum(as.numeric(Value), na.rm = TRUE),
+        county_count = n_distinct(County),
+        year_count = n_distinct(Year),
+        .groups = "drop"
+      ) %>%
+      # Only include commodities with meaningful data (>500 acres OR >$50k value) AND multiple data points
+      filter((total_acres > 500 | total_value > 50000) & county_count >= 2 & year_count >= 2) %>%
+      arrange(`Commodity Code`)
+    
+    # Create choices list
+    if(nrow(commodity_options) > 1) {
+      choices_list <- c("All Commodities" = "all")
+      
+      # Add specific commodity codes with descriptive names
+      for(i in 1:nrow(commodity_options)) {
+        code <- as.character(commodity_options$`Commodity Code`[i])
+        code_numeric <- as.numeric(code)
+        # Create descriptive names based on common patterns
+        description <- case_when(
+          code_numeric == 181999 ~ "Hay",
+          code_numeric == 172119 ~ "Seed", 
+          code_numeric == 151999 ~ "Lint",
+          code_numeric == 171519 ~ "Seed",
+          TRUE ~ paste("Code", code_numeric)
+        )
+        choices_list <- c(choices_list, setNames(code, paste(input$crop, "-", description)))
+      }
+    } else {
+      choices_list <- c("All Commodities" = "all")
+    }
+    
+    updateSelectInput(session, "commodity_detail",
+                      choices = choices_list,
+                      selected = "all")
+  })
+  
   # Update variable choices based on adjustment type
   observe({
     if (input$adjust_type == "original") {
-      variable_choices <- c("Harvested Acres", "Yield", "Production", "Price P/U", "Value")
+      variable_choices <- c("Total Area", "Yield", "Production", "Price P/U", "Value")
     } else {
-      variable_choices <- c("Harvested Acres", "Yield", "Production", "Adjusted Price" = "Adjusted Price", 
+      variable_choices <- c("Total Area", "Yield", "Production", "Adjusted Price" = "Adjusted Price", 
                             "Adjusted Total Production Value" = "Adjusted Total Production Value",
                             "Adjusted Gross Revenue" = "Adjusted Gross Revenue")
     }
@@ -75,21 +125,63 @@ server <- function(input, output, session) {
   
   # Filter data based on selections
   filtered_data <- reactive({
-    initial_data %>%
+    data <- initial_data %>%
       filter(`Crop Name` == input$crop,
              Year == input$year)
+    
+    # Filter by commodity code if specific one is selected
+    if(input$commodity_detail != "all") {
+      data <- data %>%
+        filter(as.character(`Commodity Code`) == as.character(input$commodity_detail))
+    }
+    
+    # Rename column for display purposes while preserving original data
+    if ("Harvested Acres" %in% colnames(data)) {
+      data <- data %>% 
+        rename("Total Area" = "Harvested Acres")
+    }
+    
+    return(data)
   })
   
   # Summarize data by county
   summarized_data <- reactive({
-    # Select the proper variable based on adjustment type
+    # Handle the variable name mapping
     var_to_use <- input$variable
     
-    # Summarize by county
-    filtered_data() %>%
-      group_by(County) %>%
-      summarise(Value = sum(as.numeric(!!sym(var_to_use)), na.rm = TRUE))
+    # If we're looking for Total Area but the data has Harvested Acres
+    if (var_to_use == "Total Area" && !"Total Area" %in% colnames(filtered_data()) && "Harvested Acres" %in% colnames(initial_data)) {
+      var_to_use <- "Harvested Acres"
+    }
+    
+    # Summarize by county - aggregate if "all" commodities selected
+    if(input$commodity_detail == "all") {
+      # Aggregate multiple commodity codes for same crop/county/year
+      filtered_data() %>%
+        group_by(County) %>%
+        summarise(Value = sum(as.numeric(!!sym(var_to_use)), na.rm = TRUE))
+    } else {
+      # Use data as-is for specific commodity selection
+      filtered_data() %>%
+        group_by(County) %>%
+        summarise(Value = sum(as.numeric(!!sym(var_to_use)), na.rm = TRUE))
+    }
   })
+  
+  # Function to get the appropriate unit for each variable
+  get_variable_unit <- function(variable_name) {
+    case_when(
+      variable_name == "Total Area" ~ "Acres",
+      variable_name == "Yield" ~ "Tons/Acre",
+      variable_name == "Production" ~ "Tons",
+      variable_name == "Price P/U" ~ "USD/Ton",
+      variable_name == "Value" ~ "Thousand USD",
+      variable_name == "Adjusted Price" ~ "USD (2024)/Ton",
+      variable_name == "Adjusted Total Production Value" ~ "Thousand USD (2024)",
+      variable_name == "Adjusted Gross Revenue" ~ "USD (2024)/Acre",
+      TRUE ~ ""
+    )
+  }
   
   # Create the map
   output$map <- renderLeaflet({
@@ -121,11 +213,11 @@ server <- function(input, output, session) {
       na.color = "#CCCCCC"
     )
     
-    # Determine the title for the legend based on variable
-    legend_title <- input$variable
-    if (input$adjust_type == "adjusted") {
-      legend_title <- paste0(input$variable, " (2024 $)")
-    }
+    # Get the appropriate unit for the variable
+    variable_unit <- get_variable_unit(input$variable)
+    
+    # Set the legend title to only show units
+    legend_title <- variable_unit
     
     # Create map
     leaflet(ca_counties_data) %>%
@@ -148,7 +240,8 @@ server <- function(input, output, session) {
           NAME, ": ", 
           ifelse(is.na(Value), 
                  "No data", 
-                 formatC(Value, format = "f", big.mark = ",", digits = 2))
+                 formatC(Value, format = "f", big.mark = ",", digits = 2)),
+          " ", variable_unit
         )
       ) %>%
       addLegend(

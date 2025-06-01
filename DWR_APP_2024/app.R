@@ -7,7 +7,7 @@ library(sf)
 library(tigris)
 
 # Specify the name of your CSV file here
-csv_filename <- "../NASS_DATA_AND_SCRIPTS/data/final_mapped_data/mapped_combineddata_2024_4.csv"
+csv_filename <- "mapped_combineddata_2024_4.csv"
 
 # Read the CSV file once at startup
 initial_data <- read_csv(csv_filename)
@@ -23,6 +23,10 @@ ui <- fluidPage(
     sidebarPanel(
       selectInput("crop", "Crop Category",
                   choices = sort(unique(initial_data$`Crop Name`))),
+      
+      selectInput("commodity_detail", "Commodity Detail",
+                  choices = c("All Commodities" = "all"),
+                  selected = "all"),
       
       selectInput("year", "Year",
                   choices = sort(unique(initial_data$Year[!is.na(initial_data$Year)]))),
@@ -45,18 +49,79 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
+  # Update commodity detail choices based on selected crop
+  observe({
+    req(input$crop)
+    
+    # Get unique commodity codes for the selected crop with substantial data
+    commodity_options <- initial_data %>%
+      filter(`Crop Name` == input$crop) %>%
+      group_by(`Commodity Code`) %>%
+      summarise(
+        total_acres = sum(as.numeric(`Harvested Acres`), na.rm = TRUE),
+        total_value = sum(as.numeric(Value), na.rm = TRUE),
+        county_count = n_distinct(County),
+        year_count = n_distinct(Year),
+        .groups = "drop"
+      ) %>%
+      # Only include commodities with meaningful data (>500 acres OR >$50k value) AND multiple data points
+      filter((total_acres > 500 | total_value > 50000) & county_count >= 2 & year_count >= 2) %>%
+      arrange(`Commodity Code`)
+    
+    # Create choices list
+    if(nrow(commodity_options) > 1) {
+      choices_list <- c("All Commodities" = "all")
+      
+      # Add specific commodity codes with descriptive names
+      for(i in 1:nrow(commodity_options)) {
+        code <- as.character(commodity_options$`Commodity Code`[i])
+        code_numeric <- as.numeric(code)
+        # Create descriptive names based on common patterns
+        description <- case_when(
+          code_numeric == 181999 ~ "Hay",
+          code_numeric == 172119 ~ "Seed", 
+          code_numeric == 151999 ~ "Lint",
+          code_numeric == 171519 ~ "Seed",
+          TRUE ~ paste("Code", code_numeric)
+        )
+        choices_list <- c(choices_list, setNames(code, paste(input$crop, "-", description)))
+      }
+    } else {
+      choices_list <- c("All Commodities" = "all")
+    }
+    
+    updateSelectInput(session, "commodity_detail",
+                      choices = choices_list,
+                      selected = "all")
+  })
+  
   # Filter data based on selections
   filtered_data <- reactive({
-    initial_data %>%
+    data <- initial_data %>%
       filter(`Crop Name` == input$crop,
              Year == input$year)
+    
+    # Filter by commodity code if specific one is selected
+    if(input$commodity_detail != "all") {
+      data <- data %>%
+        filter(as.character(`Commodity Code`) == as.character(input$commodity_detail))
+    }
+    
+    data
   })
   
   # Summarize data by county
   summarized_data <- reactive({
-    filtered_data() %>%
-      group_by(County) %>%
-      summarise(Value = sum(as.numeric(!!sym(input$variable)), na.rm = TRUE))
+    # Aggregate multiple commodity codes if "all" is selected
+    if(input$commodity_detail == "all") {
+      filtered_data() %>%
+        group_by(County) %>%
+        summarise(Value = sum(as.numeric(!!sym(input$variable)), na.rm = TRUE))
+    } else {
+      filtered_data() %>%
+        group_by(County) %>%
+        summarise(Value = sum(as.numeric(!!sym(input$variable)), na.rm = TRUE))
+    }
   })
   
   # Create the map

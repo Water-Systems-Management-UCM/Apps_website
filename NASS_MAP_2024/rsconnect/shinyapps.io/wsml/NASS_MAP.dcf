@@ -1,0 +1,12 @@
+name: NASS_MAP
+title: NASS_MAP_2024
+username: wsml
+account: wsml
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4372910
+bundleId: 10374170
+url: https://wsml.shinyapps.io/NASS_MAP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
